@@ -1,0 +1,20 @@
+,dice,nsd
+Microscopy_SELMA3D_ADplaques(microscopy),0.7619027500009704,0.8919718432388831
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque",0.7619072473400298,0.8919738764448395
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque in brain light-sheet microscopy",0.7619021075239619,0.8919715527808894
+"Microscopy_SELMA3D_ADplaques(microscopy), light-sheet microscopy imaging of alzheimer's disease plaque in brain",0.7619021075239619,0.8919715527808894
+"Microscopy_SELMA3D_ADplaques(microscopy), visualization of alzheimer's disease plaque in brain light-sheet microscopy",0.7619021075239619,0.8919715527808894
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque observed in brain light-sheet microscopy",0.7619021075239619,0.8919715527808894
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque delineation in brain light-sheet microscopy imaging",0.7619021075239619,0.8919715527808894
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque identification in brain light-sheet microscopy",0.7619021075239619,0.8919715527808894
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque localization in brain light-sheet microscopy",0.7619021075239619,0.8919715527808894
+Microscopy_SELMA3D_vessel(microscopy),0.835063408852524,0.8987730977527382
+"Microscopy_SELMA3D_vessel(microscopy), vessel",0.8351791819032598,0.8988764458609957
+"Microscopy_SELMA3D_vessel(microscopy), vessel in brain light-sheet microscopy",0.8350963502148799,0.8987998851107856
+"Microscopy_SELMA3D_vessel(microscopy), light-sheet microscopy imaging of vessel in brain",0.8350074945616967,0.8986879091326031
+"Microscopy_SELMA3D_vessel(microscopy), visualization of vessel in brain light-sheet microscopy",0.8350063113882342,0.898728429341201
+"Microscopy_SELMA3D_vessel(microscopy), vessel observed in brain light-sheet microscopy",0.835051321073032,0.8987609959555343
+"Microscopy_SELMA3D_vessel(microscopy), vessel segmentation in brain light-sheet microscopy",0.8351077655720781,0.8988205266294238
+"Microscopy_SELMA3D_vessel(microscopy), vessel delineation in brain light-sheet microscopy imaging",0.8350335155616837,0.8987664835301764
+"Microscopy_SELMA3D_vessel(microscopy), vessel identification in brain light-sheet microscopy",0.8350418041332796,0.8987650205185039
+"Microscopy_SELMA3D_vessel(microscopy), vessel localization in brain light-sheet microscopy",0.8350469352645721,0.8987521836954189

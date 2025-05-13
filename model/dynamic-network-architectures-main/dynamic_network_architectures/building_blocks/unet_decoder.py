@@ -2,17 +2,26 @@ import numpy as np
 import torch
 from torch import nn
 from typing import Union, List, Tuple
-from dynamic_network_architectures.building_blocks.simple_conv_blocks import StackedConvBlocks
+from dynamic_network_architectures.building_blocks.simple_conv_blocks import (
+    StackedConvBlocks,
+)
 from dynamic_network_architectures.building_blocks.helper import get_matching_convtransp
-from dynamic_network_architectures.building_blocks.residual_encoders import ResidualEncoder
-from dynamic_network_architectures.building_blocks.plain_conv_encoder import PlainConvEncoder
+from dynamic_network_architectures.building_blocks.residual_encoders import (
+    ResidualEncoder,
+)
+from dynamic_network_architectures.building_blocks.plain_conv_encoder import (
+    PlainConvEncoder,
+)
 
 
 class UNetDecoder(nn.Module):
-    def __init__(self,
-                 encoder,
-                 n_conv_per_stage: Union[int, Tuple[int, ...], List[int]],
-                 deep_supervision, nonlin_first: bool = False):
+    def __init__(
+        self,
+        encoder,
+        n_conv_per_stage: Union[int, Tuple[int, ...], List[int]],
+        deep_supervision,
+        nonlin_first: bool = False,
+    ):
         """
         This class needs the skips of the encoder as input in its forward.
 
@@ -32,9 +41,11 @@ class UNetDecoder(nn.Module):
         n_stages_encoder = len(encoder.output_channels)
         if isinstance(n_conv_per_stage, int):
             n_conv_per_stage = [n_conv_per_stage] * (n_stages_encoder - 1)
-        assert len(n_conv_per_stage) == n_stages_encoder - 1, "n_conv_per_stage must have as many entries as we have " \
-                                                          "resolution stages - 1 (n_stages in encoder - 1), " \
-                                                          "here: %d" % n_stages_encoder
+        assert len(n_conv_per_stage) == n_stages_encoder - 1, (
+            "n_conv_per_stage must have as many entries as we have "
+            "resolution stages - 1 (n_stages in encoder - 1), "
+            "here: %d" % n_stages_encoder
+        )
 
         transpconv_op = get_matching_convtransp(conv_op=encoder.conv_op)
 
@@ -46,16 +57,34 @@ class UNetDecoder(nn.Module):
             input_features_below = encoder.output_channels[-s]
             input_features_skip = encoder.output_channels[-(s + 1)]
             stride_for_transpconv = encoder.strides[-s]
-            transpconvs.append(transpconv_op(
-                input_features_below, input_features_skip, stride_for_transpconv, stride_for_transpconv,
-                bias=encoder.conv_bias
-            ))
+            transpconvs.append(
+                transpconv_op(
+                    input_features_below,
+                    input_features_skip,
+                    stride_for_transpconv,
+                    stride_for_transpconv,
+                    bias=encoder.conv_bias,
+                )
+            )
             # input features to conv is 2x input_features_skip (concat input_features_skip with transpconv output)
-            stages.append(StackedConvBlocks(
-                n_conv_per_stage[s-1], encoder.conv_op, 2 * input_features_skip, input_features_skip,
-                encoder.kernel_sizes[-(s + 1)], 1, encoder.conv_bias, encoder.norm_op, encoder.norm_op_kwargs,
-                encoder.dropout_op, encoder.dropout_op_kwargs, encoder.nonlin, encoder.nonlin_kwargs, nonlin_first
-            ))
+            stages.append(
+                StackedConvBlocks(
+                    n_conv_per_stage[s - 1],
+                    encoder.conv_op,
+                    2 * input_features_skip,
+                    input_features_skip,
+                    encoder.kernel_sizes[-(s + 1)],
+                    1,
+                    encoder.conv_bias,
+                    encoder.norm_op,
+                    encoder.norm_op_kwargs,
+                    encoder.dropout_op,
+                    encoder.dropout_op_kwargs,
+                    encoder.nonlin,
+                    encoder.nonlin_kwargs,
+                    nonlin_first,
+                )
+            )
 
             # we always build the deep supervision outputs so that we can always load parameters. If we don't do this
             # then a model trained with deep_supervision=True could not easily be loaded at inference time where
@@ -76,12 +105,12 @@ class UNetDecoder(nn.Module):
         seg_outputs = []
         for s in range(len(self.stages)):
             x = self.transpconvs[s](lres_input)
-            x = torch.cat((x, skips[-(s+2)]), 1)
+            x = torch.cat((x, skips[-(s + 2)]), 1)
             x = self.stages[s](x)
             seg_outputs.append(x)
-            #if self.deep_supervision:
+            # if self.deep_supervision:
             #    seg_outputs.append(self.seg_layers[s](x))
-            #elif s == (len(self.stages) - 1):
+            # elif s == (len(self.stages) - 1):
             #    seg_outputs.append(self.seg_layers[-1](x))
             lres_input = x
 
@@ -93,14 +122,17 @@ class UNetDecoder(nn.Module):
         else:
             r = seg_outputs
         return r
-    
-    
+
+
 class UNetDecoder_Seg(nn.Module):
-    def __init__(self,
-                 encoder,
-                 num_classes: int,
-                 n_conv_per_stage: Union[int, Tuple[int, ...], List[int]],
-                 deep_supervision, nonlin_first: bool = False):
+    def __init__(
+        self,
+        encoder,
+        num_classes: int,
+        n_conv_per_stage: Union[int, Tuple[int, ...], List[int]],
+        deep_supervision,
+        nonlin_first: bool = False,
+    ):
         """
         This class needs the skips of the encoder as input in its forward.
 
@@ -121,9 +153,11 @@ class UNetDecoder_Seg(nn.Module):
         n_stages_encoder = len(encoder.output_channels)
         if isinstance(n_conv_per_stage, int):
             n_conv_per_stage = [n_conv_per_stage] * (n_stages_encoder - 1)
-        assert len(n_conv_per_stage) == n_stages_encoder - 1, "n_conv_per_stage must have as many entries as we have " \
-                                                          "resolution stages - 1 (n_stages in encoder - 1), " \
-                                                          "here: %d" % n_stages_encoder
+        assert len(n_conv_per_stage) == n_stages_encoder - 1, (
+            "n_conv_per_stage must have as many entries as we have "
+            "resolution stages - 1 (n_stages in encoder - 1), "
+            "here: %d" % n_stages_encoder
+        )
 
         transpconv_op = get_matching_convtransp(conv_op=encoder.conv_op)
 
@@ -134,20 +168,40 @@ class UNetDecoder_Seg(nn.Module):
             input_features_below = encoder.output_channels[-s]
             input_features_skip = encoder.output_channels[-(s + 1)]
             stride_for_transpconv = encoder.strides[-s]
-            transpconvs.append(transpconv_op(
-                input_features_below, input_features_skip, stride_for_transpconv, stride_for_transpconv,
-                bias=encoder.conv_bias
-            ))
+            transpconvs.append(
+                transpconv_op(
+                    input_features_below,
+                    input_features_skip,
+                    stride_for_transpconv,
+                    stride_for_transpconv,
+                    bias=encoder.conv_bias,
+                )
+            )
             # input features to conv is 2x input_features_skip (concat input_features_skip with transpconv output)
-            stages.append(StackedConvBlocks(
-                n_conv_per_stage[s-1], encoder.conv_op, 2 * input_features_skip, input_features_skip,
-                encoder.kernel_sizes[-(s + 1)], 1, encoder.conv_bias, encoder.norm_op, encoder.norm_op_kwargs,
-                encoder.dropout_op, encoder.dropout_op_kwargs, encoder.nonlin, encoder.nonlin_kwargs, nonlin_first
-            ))
+            stages.append(
+                StackedConvBlocks(
+                    n_conv_per_stage[s - 1],
+                    encoder.conv_op,
+                    2 * input_features_skip,
+                    input_features_skip,
+                    encoder.kernel_sizes[-(s + 1)],
+                    1,
+                    encoder.conv_bias,
+                    encoder.norm_op,
+                    encoder.norm_op_kwargs,
+                    encoder.dropout_op,
+                    encoder.dropout_op_kwargs,
+                    encoder.nonlin,
+                    encoder.nonlin_kwargs,
+                    nonlin_first,
+                )
+            )
 
         self.stages = nn.ModuleList(stages)
         self.transpconvs = nn.ModuleList(transpconvs)
-        self.seg_layer = encoder.conv_op(input_features_skip, num_classes, 1, 1, 0, bias=True)
+        self.seg_layer = encoder.conv_op(
+            input_features_skip, num_classes, 1, 1, 0, bias=True
+        )
 
     def forward(self, skips):
         """
@@ -159,7 +213,7 @@ class UNetDecoder_Seg(nn.Module):
         seg_outputs = []
         for s in range(len(self.stages)):
             x = self.transpconvs[s](lres_input)
-            x = torch.cat((x, skips[-(s+2)]), 1)
+            x = torch.cat((x, skips[-(s + 2)]), 1)
             x = self.stages[s](x)
             seg_outputs.append(x)
             lres_input = x
@@ -167,7 +221,6 @@ class UNetDecoder_Seg(nn.Module):
         # invert seg outputs so that the largest segmentation prediction is returned first
         seg_outputs = seg_outputs[::-1]
 
-        output = self.seg_layer(seg_outputs[0]) # B C H W D
-        
+        output = self.seg_layer(seg_outputs[0])  # B C H W D
+
         return output
-    

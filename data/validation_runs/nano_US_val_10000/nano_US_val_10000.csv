@@ -1,0 +1,22 @@
+,dice,nsd
+US_Cardiac(us),0.6430036528184251,0.35731514533306835
+"US_Cardiac(us), left ventricle",0.676980941788937,0.41288066448819105
+"US_Cardiac(us), left ventricle in heart ultrasound",0.6768452289005291,0.4126080674684204
+"US_Cardiac(us), echocardiography imaging of the left ventricle in the cardiac region",0.6767595378162152,0.4126669462162213
+"US_Cardiac(us), visualization of the left ventricle in cardiac ultrasound scans",0.6767759146559891,0.41266734375203684
+"US_Cardiac(us), left ventricle observed in heart echocardiography",0.6768917499717948,0.41261963842927163
+"US_Cardiac(us), echocardiographic segmentation of the left ventricle",0.6767629595223547,0.4126276961732128
+"US_Cardiac(us), cardiac ultrasound depicting left ventricular chamber",0.6767105253659518,0.41266371343450087
+"US_Cardiac(us), myocardium",0.6260592599837733,0.3088192501944942
+"US_Cardiac(us), myocardium in heart ultrasound",0.6263815178346626,0.30934254487859575
+"US_Cardiac(us), echocardiography imaging of the myocardial tissue in the cardiac region",0.6263248805244336,0.3093659733743096
+"US_Cardiac(us), visualization of the myocardium in cardiac ultrasound scans",0.6263623860707456,0.30933341421889404
+"US_Cardiac(us), myocardium observed in heart echocardiography",0.6264812206747636,0.3094970759340049
+"US_Cardiac(us), echocardiographic delineation of myocardium",0.6264146498851726,0.30942049048820924
+"US_Cardiac(us), left atrium",0.6234136052870048,0.3429772173342935
+"US_Cardiac(us), left atrium in heart ultrasound",0.6235805846597675,0.34322467410718505
+"US_Cardiac(us), echocardiography imaging of the left atrium in the cardiac region",0.6233277059822073,0.34301325812221817
+"US_Cardiac(us), visualization of the left atrium in cardiac ultrasound scans",0.6233375985060913,0.3429980227044292
+"US_Cardiac(us), left atrial chamber observed in heart echocardiography",0.6236176062240115,0.34327624034181714
+"US_Cardiac(us), echocardiographic segmentation of the left atrial cavity",0.6234503146558434,0.3431669421367586
+"US_Cardiac(us), ultrasound depicting left atrium",0.6235948680582541,0.34313373286430204

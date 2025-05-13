@@ -1,0 +1,281 @@
+,dice,nsd
+MR_BraTS-T1n(mri),0.28885476040900254,0.24722500844277553
+"MR_BraTS-T1n(mri), non-enhancing tumor core",0.0,0.012031525587093325
+"MR_BraTS-T1n(mri), non-enhancing tumor core in head mr naive t1",0.0,0.0
+"MR_BraTS-T1n(mri), mr naive t1 imaging of non-enhancing tumor core in head",0.0,0.0
+"MR_BraTS-T1n(mri), visualization of non-enhancing tumor core in head mr naive t1",0.0,0.0
+"MR_BraTS-T1n(mri), non-enhancing tumor core observed in head mr naive t1",0.0,0.0
+"MR_BraTS-T1n(mri), segmentation of non-enhancing tumor core in head mr naive t1",0.0,0.0
+"MR_BraTS-T1n(mri), delineation of non-enhancing tumor core in head mr naive t1 imaging",0.0,0.0
+"MR_BraTS-T1n(mri), identification of non-enhancing tumor core in head mr naive t1",0.0,0.0
+"MR_BraTS-T1n(mri), localization of non-enhancing tumor core in head mr naive t1",0.0,0.0
+"MR_BraTS-T1n(mri), characterization of non-enhancing tumor core in head mr naive t1",0.0,0.0
+"MR_BraTS-T1n(mri), surrounding non-enhancing flair hyperintensit",0.2387665810125703,0.20513543631953873
+"MR_BraTS-T1n(mri), surrounding non-enhancing flair hyperintensity in head mr naive t1",0.2598632186364608,0.24232420481321051
+"MR_BraTS-T1n(mri), mr naive t1 imaging of surrounding non-enhancing flair hyperintensity in head",0.2600912673719145,0.2440374661700498
+"MR_BraTS-T1n(mri), visualization of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.259335169410107,0.24241532489287568
+"MR_BraTS-T1n(mri), surrounding non-enhancing flair hyperintensity observed in head mr naive t1",0.2594702899004446,0.2435041423059951
+"MR_BraTS-T1n(mri), segmentation of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.25858369098712447,0.24308715283009744
+"MR_BraTS-T1n(mri), delineation of surrounding non-enhancing flair hyperintensity in head mr naive t1 imaging",0.259573125854274,0.24404887668952235
+"MR_BraTS-T1n(mri), identification of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.2593918847335523,0.24347438509325595
+"MR_BraTS-T1n(mri), localization of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.2585364839869485,0.2441098174480105
+"MR_BraTS-T1n(mri), characterization of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.259482400110899,0.2427577531670986
+"MR_BraTS-T1n(mri), enhancing tissue",0.005718741876787107,0.027988401304691893
+"MR_BraTS-T1n(mri), enhancing tissue in head mr naive t1",0.07800061709348967,0.1463680741478966
+"MR_BraTS-T1n(mri), mr naive t1 imaging of enhancing tissue in head",0.061972886861997874,0.13094830058690266
+"MR_BraTS-T1n(mri), visualization of enhancing tissue in head mr naive t1",0.059504340168574664,0.1212268172299488
+"MR_BraTS-T1n(mri), enhancing tissue observed in head mr naive t1",0.0525783619817998,0.11006584611239835
+"MR_BraTS-T1n(mri), segmentation of enhancing tissue in head mr naive t1",0.07798617966436328,0.1492042177363006
+"MR_BraTS-T1n(mri), delineation of enhancing tissue in head mr naive t1 imaging",0.08752521239533036,0.15913372824810101
+"MR_BraTS-T1n(mri), identification of enhancing tissue in head mr naive t1",0.06850939040369376,0.13167378776719058
+"MR_BraTS-T1n(mri), localization of enhancing tissue in head mr naive t1",0.08866092690969042,0.1598165779870546
+"MR_BraTS-T1n(mri), characterization of enhancing tissue in head mr naive t1",0.06853582554517133,0.13378397520558669
+"MR_BraTS-T1n(mri), resection cavity",0.8978751212943343,0.7052770361699388
+"MR_BraTS-T1n(mri), resection cavity in head mr naive t1",0.8933702438925822,0.6585473239977595
+"MR_BraTS-T1n(mri), mr naive t1 imaging of resection cavity in head",0.8949278640727895,0.6703485758661386
+"MR_BraTS-T1n(mri), visualization of resection cavity in head mr naive t1",0.8928152195911758,0.6550240377455703
+"MR_BraTS-T1n(mri), resection cavity observed in head mr naive t1",0.8938068279293189,0.6620338737240189
+"MR_BraTS-T1n(mri), segmentation of resection cavity in head mr naive t1",0.891834559756407,0.6480447436115935
+"MR_BraTS-T1n(mri), delineation of resection cavity in head mr naive t1 imaging",0.8938647830474269,0.6625334216125185
+"MR_BraTS-T1n(mri), identification of resection cavity in head mr naive t1",0.8924604783137414,0.6522172985247736
+"MR_BraTS-T1n(mri), localization of resection cavity in head mr naive t1",0.8922939631481275,0.6506132063731161
+CT_TotalSeg_muscles(ct),0.22477270166679011,0.142319803735152
+"CT_TotalSeg_muscles(ct), left humerus",0.16696627881709172,0.18951415315495715
+"CT_TotalSeg_muscles(ct), left humerus in whole body ct",0.16790797749089706,0.18351309612337263
+"CT_TotalSeg_muscles(ct), left humeral bone in whole body ct imaging",0.16343193974456938,0.17561107801013903
+"CT_TotalSeg_muscles(ct), ct visualization of the left humeral shaft",0.16039728551525775,0.16952925104690625
+"CT_TotalSeg_muscles(ct), whole body ct showing left proximal humerus",0.16822355448443443,0.18741699559458466
+"CT_TotalSeg_muscles(ct), left humeral diaphysis in ct",0.15985981938266614,0.16970029612093174
+"CT_TotalSeg_muscles(ct), ct-based segmentation of the left humerus",0.1690200568205911,0.17966637545118447
+"CT_TotalSeg_muscles(ct), ct scan depicting left humeral anatomy",0.16777680832499842,0.17959050581844635
+"CT_TotalSeg_muscles(ct), left humeral head localization in ct",0.16597776968710512,0.17775592416823313
+"CT_TotalSeg_muscles(ct), right humerus",0.11824721588157985,0.18086278830438363
+"CT_TotalSeg_muscles(ct), right humerus in whole body ct",0.11685004074979626,0.1819294953281153
+"CT_TotalSeg_muscles(ct), right humeral bone in whole body ct imaging",0.1172786592726064,0.18367822310181828
+"CT_TotalSeg_muscles(ct), ct visualization of the right humeral shaft",0.1161371987131028,0.18116134112265045
+"CT_TotalSeg_muscles(ct), whole body ct showing right proximal humerus",0.11717060781823797,0.18024060081933824
+"CT_TotalSeg_muscles(ct), right humeral diaphysis in ct",0.11750130867213401,0.18234726597263598
+"CT_TotalSeg_muscles(ct), ct-based segmentation of the right humerus",0.1178983340452798,0.1781881593456363
+"CT_TotalSeg_muscles(ct), ct scan depicting right humeral anatomy",0.11785845123248957,0.18129031218997183
+"CT_TotalSeg_muscles(ct), right humeral head localization in ct",0.11597190017347693,0.17918875905596432
+"CT_TotalSeg_muscles(ct), left scapula",0.3138612075573793,0.23350764004272298
+"CT_TotalSeg_muscles(ct), left scapula in whole body ct",0.3153140823867524,0.23310882773064434
+"CT_TotalSeg_muscles(ct), left shoulder blade in ct imaging",0.31752403325312745,0.2353375436557346
+"CT_TotalSeg_muscles(ct), ct visualization of the left scapular body",0.3213760455924258,0.23793707505292533
+"CT_TotalSeg_muscles(ct), ct-based segmentation of the left scapula",0.3225091154316543,0.2391128846292098
+"CT_TotalSeg_muscles(ct), ct scan depicting left scapular anatomy",0.3165065104907034,0.2342125701604715
+"CT_TotalSeg_muscles(ct), right scapula",0.29323668530007985,0.19215389444597725
+"CT_TotalSeg_muscles(ct), right scapula in whole body ct",0.2918175329310233,0.19006565037279166
+"CT_TotalSeg_muscles(ct), right shoulder blade in ct imaging",0.29090328601601256,0.19057780790095089
+"CT_TotalSeg_muscles(ct), ct visualization of the right scapular body",0.29107346853541993,0.19081630679533002
+"CT_TotalSeg_muscles(ct), ct-based segmentation of the right scapula",0.2937219730941704,0.1921275621413267
+"CT_TotalSeg_muscles(ct), ct scan depicting right scapular anatomy",0.2921233619578671,0.1900493637641269
+"CT_TotalSeg_muscles(ct), left clavicula",0.0,0.0
+"CT_TotalSeg_muscles(ct), left clavicula in whole body ct",0.0,0.0
+"CT_TotalSeg_muscles(ct), ct imaging of the left clavicula in the whole body region",0.0,0.0
+"CT_TotalSeg_muscles(ct), whole body ct showing left clavicular structures",0.0,0.0
+"CT_TotalSeg_muscles(ct), visualization of the left clavicula in whole body ct scans",0.0,0.0
+"CT_TotalSeg_muscles(ct), left clavicula observed in whole body ct imaging",0.0,0.0
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left clavicula",0.0,0.0
+"CT_TotalSeg_muscles(ct), left clavicula segmentation in whole body ct",0.0,0.0
+"CT_TotalSeg_muscles(ct), left clavicula delineation in whole body ct imaging",0.0,0.0
+"CT_TotalSeg_muscles(ct), ct-based localization of the left clavicula in the whole body",0.0,0.0
+"CT_TotalSeg_muscles(ct), left clavicular anatomy in whole body ct",0.0,0.0
+"CT_TotalSeg_muscles(ct), right clavicula",0.0021825773391535397,0.001902832663801125
+"CT_TotalSeg_muscles(ct), right clavicula in whole body ct",0.0021825773391535397,0.001902925468901133
+"CT_TotalSeg_muscles(ct), ct imaging of the right clavicula in the whole body region",0.0021825773391535397,0.001902925468901133
+"CT_TotalSeg_muscles(ct), whole body ct showing right clavicular structures",0.0022766078542970974,0.0019420998682798578
+"CT_TotalSeg_muscles(ct), visualization of the right clavicula in whole body ct scans",0.0022768238307560953,0.0019423790259979082
+"CT_TotalSeg_muscles(ct), right clavicula observed in whole body ct imaging",0.0019935447123599773,0.0017257222451779615
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right clavicula",0.0021824737865920197,0.001902742632235823
+"CT_TotalSeg_muscles(ct), right clavicula segmentation in whole body ct",0.0021824737865920197,0.001902742632235823
+"CT_TotalSeg_muscles(ct), right clavicula delineation in whole body ct imaging",0.0021825773391535397,0.001902925468901133
+"CT_TotalSeg_muscles(ct), ct-based identification of the right clavicula in the whole body",0.0021825773391535397,0.001902925468901133
+"CT_TotalSeg_muscles(ct), right clavicular anatomy in whole body ct",0.0022764998814322978,0.001942007287388437
+"CT_TotalSeg_muscles(ct), left femur",0.17539006494054146,0.14591760982382682
+"CT_TotalSeg_muscles(ct), left femur in whole body ct",0.16425215829992376,0.13560761695052706
+"CT_TotalSeg_muscles(ct), ct imaging of the left femur in the whole body region",0.16248471023835498,0.13390726520948953
+"CT_TotalSeg_muscles(ct), whole body ct showing left femoral structures",0.16115295362944265,0.13265772594449676
+"CT_TotalSeg_muscles(ct), visualization of the left femur in whole body ct scans",0.1638617735491577,0.13479137405056962
+"CT_TotalSeg_muscles(ct), left femur observed in whole body ct imaging",0.16134817716727415,0.13297749985120896
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left femur",0.16379352603800715,0.13508805097441995
+"CT_TotalSeg_muscles(ct), left femur segmentation in whole body ct",0.1637518561293516,0.1349842549241576
+"CT_TotalSeg_muscles(ct), left femur delineation in whole body ct imaging",0.15658888702366963,0.12911965740553813
+"CT_TotalSeg_muscles(ct), ct-based localization of the left femur in the whole body",0.1597504836880379,0.1317061443672289
+"CT_TotalSeg_muscles(ct), left femoral anatomy in whole body ct",0.16578570686029123,0.1362216464745864
+"CT_TotalSeg_muscles(ct), right femur",0.17178757062146893,0.10211395339631994
+"CT_TotalSeg_muscles(ct), right femur in whole body ct",0.16085419900143988,0.09295251320739618
+"CT_TotalSeg_muscles(ct), ct imaging of the right femur in the whole body region",0.1522918258212376,0.08525146357349307
+"CT_TotalSeg_muscles(ct), whole body ct showing right femoral structures",0.15003363327061622,0.08370192513396754
+"CT_TotalSeg_muscles(ct), visualization of the right femur in whole body ct scans",0.1536308594493736,0.08615839454507677
+"CT_TotalSeg_muscles(ct), right femur observed in whole body ct imaging",0.15133938792642906,0.08429507766466178
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right femur",0.153495018076853,0.08618619289010182
+"CT_TotalSeg_muscles(ct), right femur segmentation in whole body ct",0.16006287248673784,0.09242461219950901
+"CT_TotalSeg_muscles(ct), right femur delineation in whole body ct imaging",0.14680789600385172,0.08145784491794944
+"CT_TotalSeg_muscles(ct), ct-based identification of the right femur in the whole body",0.14433133593228112,0.07865250249405052
+"CT_TotalSeg_muscles(ct), right femoral anatomy in whole body ct",0.16372444977621925,0.0953957864012924
+"CT_TotalSeg_muscles(ct), left hip",0.23029216443167888,0.2219868805628636
+"CT_TotalSeg_muscles(ct), left hip in whole body ct",0.2279062587961828,0.2170863264259169
+"CT_TotalSeg_muscles(ct), ct imaging of the left hip in the whole body region",0.23418158493726085,0.2194139142223469
+"CT_TotalSeg_muscles(ct), whole body ct showing left hip structures",0.23568508738979604,0.21975269909114403
+"CT_TotalSeg_muscles(ct), visualization of the left hip in whole body ct scans",0.23417392348006988,0.21894180473191
+"CT_TotalSeg_muscles(ct), left hip observed in whole body ct imaging",0.2319077396851334,0.21766254653086534
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left hip",0.23712737127371275,0.2205762832525192
+"CT_TotalSeg_muscles(ct), left hip segmentation in whole body ct",0.23360214088149717,0.21956340689707485
+"CT_TotalSeg_muscles(ct), left hip delineation in whole body ct imaging",0.23002461926287296,0.21799488217811522
+"CT_TotalSeg_muscles(ct), ct-based localization of the left hip in the whole body",0.24309598544740965,0.2243577808508303
+"CT_TotalSeg_muscles(ct), left hip anatomy in whole body ct",0.22508950017946053,0.216543511305222
+"CT_TotalSeg_muscles(ct), right hip",0.17955563128946447,0.14078376022652295
+"CT_TotalSeg_muscles(ct), right hip in whole body ct",0.16720729726352618,0.1328497830399875
+"CT_TotalSeg_muscles(ct), ct imaging of the right hip in the whole body region",0.1597358666369584,0.1270806322211322
+"CT_TotalSeg_muscles(ct), whole body ct showing right hip structures",0.15659442724458203,0.1260455555605444
+"CT_TotalSeg_muscles(ct), visualization of the right hip in whole body ct scans",0.162758787074594,0.12939335096116222
+"CT_TotalSeg_muscles(ct), right hip observed in whole body ct imaging",0.1664767156557789,0.1322380890825758
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right hip",0.15938008130081302,0.12732500625086454
+"CT_TotalSeg_muscles(ct), right hip segmentation in whole body ct",0.16511591470779993,0.1317330133490892
+"CT_TotalSeg_muscles(ct), right hip delineation in whole body ct imaging",0.16932643518057905,0.13449540095093246
+"CT_TotalSeg_muscles(ct), ct-based identification of the right hip in the whole body",0.15886182437442786,0.12748731020396933
+"CT_TotalSeg_muscles(ct), right hip anatomy in whole body ct",0.1647764399576535,0.13136089392086614
+"CT_TotalSeg_muscles(ct), spinal cord",0.8416888366789897,0.8218503027855109
+"CT_TotalSeg_muscles(ct), spinal cord in whole body ct",0.8436271661482722,0.8223337001967338
+"CT_TotalSeg_muscles(ct), ct imaging of the spinal cord in the whole body region",0.8439843523121338,0.8233473287304397
+"CT_TotalSeg_muscles(ct), whole body ct showing spinal cord structures",0.8430045793178866,0.8191415302677683
+"CT_TotalSeg_muscles(ct), visualization of the spinal cord in whole body ct scans",0.8428295137522036,0.8200964457771504
+"CT_TotalSeg_muscles(ct), spinal cord observed in whole body ct imaging",0.8407122068139017,0.8152919206626298
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the spinal cord",0.843928266438941,0.8206968397898382
+"CT_TotalSeg_muscles(ct), spinal cord segmentation in whole body ct",0.8434781122335606,0.8207383889313471
+"CT_TotalSeg_muscles(ct), spinal cord delineation in whole body ct imaging",0.8439695700487221,0.8235557977825293
+"CT_TotalSeg_muscles(ct), ct-based localization of the spinal cord in the whole body",0.8443282587523707,0.8247759470679293
+"CT_TotalSeg_muscles(ct), spinal cord anatomy in whole body ct",0.8441078937472223,0.8239500992217365
+"CT_TotalSeg_muscles(ct), left gluteus maximus",0.4066745715209658,0.0922530288511242
+"CT_TotalSeg_muscles(ct), left gluteus maximus in whole body ct",0.4059367099642577,0.0914559931383529
+"CT_TotalSeg_muscles(ct), ct imaging of the left gluteus maximus in the whole body region",0.40749937919046436,0.0908243570921332
+"CT_TotalSeg_muscles(ct), whole body ct showing left gluteus maximus structures",0.39784147552866844,0.08676667449928253
+"CT_TotalSeg_muscles(ct), visualization of the left gluteus maximus in whole body ct scans",0.4038813044961213,0.09036291432461337
+"CT_TotalSeg_muscles(ct), left gluteus maximus observed in whole body ct imaging",0.40526004339535804,0.09077011461158012
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left gluteus maximus",0.38844235898625323,0.08369941817073871
+"CT_TotalSeg_muscles(ct), left gluteus maximus segmentation in whole body ct",0.41246213308262825,0.09389066850921114
+"CT_TotalSeg_muscles(ct), left gluteus maximus delineation in whole body ct imaging",0.4069070771377491,0.09174533902645376
+"CT_TotalSeg_muscles(ct), ct-based localization of the left gluteus maximus in the whole body",0.40943320569482206,0.0921694583347523
+"CT_TotalSeg_muscles(ct), left gluteus maximus anatomy in whole body ct",0.40764024058779175,0.09179887016321184
+"CT_TotalSeg_muscles(ct), right gluteus maximus",0.3998791684593063,0.08353065567321907
+"CT_TotalSeg_muscles(ct), right gluteus maximus in whole body ct",0.39711115059376034,0.07923453986237342
+"CT_TotalSeg_muscles(ct), ct imaging of the right gluteus maximus in the whole body region",0.38908581076411175,0.07643279115871514
+"CT_TotalSeg_muscles(ct), whole body ct showing right gluteus maximus structures",0.39831889443960716,0.07891415621596819
+"CT_TotalSeg_muscles(ct), visualization of the right gluteus maximus in whole body ct scans",0.3937364537418114,0.07762053341848597
+"CT_TotalSeg_muscles(ct), right gluteus maximus observed in whole body ct imaging",0.3899743824605573,0.07678581954860116
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right gluteus maximus",0.39243720457830383,0.07690781598736736
+"CT_TotalSeg_muscles(ct), right gluteus maximus segmentation in whole body ct",0.3978916622663679,0.07993562887398428
+"CT_TotalSeg_muscles(ct), right gluteus maximus delineation in whole body ct imaging",0.39407476850080353,0.07838091052504453
+"CT_TotalSeg_muscles(ct), ct-based identification of the right gluteus maximus in the whole body",0.3931626444045974,0.07737564783334813
+"CT_TotalSeg_muscles(ct), right gluteus maximus anatomy in whole body ct",0.3974368253692525,0.07923726527897641
+"CT_TotalSeg_muscles(ct), left gluteus medius",0.000180560414386151,0.011404810013884274
+"CT_TotalSeg_muscles(ct), left gluteus medius in whole body ct",0.00013599274705349047,0.010168545775917538
+"CT_TotalSeg_muscles(ct), ct imaging of the left gluteus medius in the whole body region",9.035260102550202e-05,0.009432305069533553
+"CT_TotalSeg_muscles(ct), whole body ct showing left gluteus medius structures",6.799483239273815e-05,0.009258466222963975
+"CT_TotalSeg_muscles(ct), visualization of the left gluteus medius in whole body ct scans",0.0002236886254333967,0.011679980068219997
+"CT_TotalSeg_muscles(ct), left gluteus medius observed in whole body ct imaging",6.808974228032547e-05,0.008974996408982645
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left gluteus medius",0.00016001097218094955,0.01023535136206404
+"CT_TotalSeg_muscles(ct), left gluteus medius segmentation in whole body ct",0.00013576196402307952,0.010268851871712427
+"CT_TotalSeg_muscles(ct), left gluteus medius delineation in whole body ct imaging",6.827958212895737e-05,0.008898195386037151
+"CT_TotalSeg_muscles(ct), ct-based localization of the left gluteus medius in the whole body",0.0002453440392550463,0.011988471696134229
+"CT_TotalSeg_muscles(ct), left gluteus medius anatomy in whole body ct",0.00013531341970839957,0.010176849323045141
+"CT_TotalSeg_muscles(ct), right gluteus medius",0.0438586524258607,0.11316400015796761
+"CT_TotalSeg_muscles(ct), right gluteus medius in whole body ct",0.043370245065604676,0.11405250270274045
+"CT_TotalSeg_muscles(ct), ct imaging of the right gluteus medius in the whole body region",0.04052198651740986,0.11202582620284059
+"CT_TotalSeg_muscles(ct), whole body ct showing right gluteus medius structures",0.03832932495561404,0.10577158300670157
+"CT_TotalSeg_muscles(ct), visualization of the right gluteus medius in whole body ct scans",0.044051442957598004,0.11538164150362776
+"CT_TotalSeg_muscles(ct), right gluteus medius observed in whole body ct imaging",0.0398467814147846,0.11172539981533847
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right gluteus medius",0.03453955704221783,0.09964710549251547
+"CT_TotalSeg_muscles(ct), right gluteus medius segmentation in whole body ct",0.03835083821450212,0.1045408836428726
+"CT_TotalSeg_muscles(ct), right gluteus medius delineation in whole body ct imaging",0.04023276813484499,0.10848734364449512
+"CT_TotalSeg_muscles(ct), ct-based identification of the right gluteus medius in the whole body",0.03708012760367799,0.10377964691046074
+"CT_TotalSeg_muscles(ct), right gluteus medius anatomy in whole body ct",0.0481034697176968,0.11436492028630516
+"CT_TotalSeg_muscles(ct), left gluteus minimus",0.06219974715549937,0.03865874769013158
+"CT_TotalSeg_muscles(ct), left gluteus minimus in whole body ct",0.04924734590397718,0.027137601787958026
+"CT_TotalSeg_muscles(ct), ct imaging of the left gluteus minimus in the whole body region",0.04725822532402792,0.023686020074956616
+"CT_TotalSeg_muscles(ct), whole body ct showing left gluteus minimus structures",0.04298081819725004,0.01926234531897958
+"CT_TotalSeg_muscles(ct), visualization of the left gluteus minimus in whole body ct scans",0.06491116751269035,0.03663865999233152
+"CT_TotalSeg_muscles(ct), left gluteus minimus observed in whole body ct imaging",0.05149938996981956,0.027810614999577897
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left gluteus minimus",0.05889214666288344,0.032708178291067244
+"CT_TotalSeg_muscles(ct), left gluteus minimus segmentation in whole body ct",0.0448456610366919,0.023506073102125186
+"CT_TotalSeg_muscles(ct), left gluteus minimus delineation in whole body ct imaging",0.05239026579883933,0.027751579245842647
+"CT_TotalSeg_muscles(ct), ct-based localization of the left gluteus minimus in the whole body",0.07002729985397753,0.04058483138364173
+"CT_TotalSeg_muscles(ct), left gluteus minimus anatomy in whole body ct",0.04285012285012285,0.021585644121075245
+"CT_TotalSeg_muscles(ct), right gluteus minimus",0.3201985554533032,0.21816277931554598
+"CT_TotalSeg_muscles(ct), right gluteus minimus in whole body ct",0.32135214929981853,0.21783439899538254
+"CT_TotalSeg_muscles(ct), ct imaging of the right gluteus minimus in the whole body region",0.31487074339863125,0.21659609628172044
+"CT_TotalSeg_muscles(ct), whole body ct showing right gluteus minimus structures",0.31517275365493075,0.21475929724937454
+"CT_TotalSeg_muscles(ct), visualization of the right gluteus minimus in whole body ct scans",0.33058074265975823,0.2227951535556674
+"CT_TotalSeg_muscles(ct), right gluteus minimus observed in whole body ct imaging",0.318690030343621,0.2168240555709369
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right gluteus minimus",0.31196338127352996,0.21294028205481574
+"CT_TotalSeg_muscles(ct), right gluteus minimus segmentation in whole body ct",0.32726273863480293,0.22202472024119763
+"CT_TotalSeg_muscles(ct), right gluteus minimus delineation in whole body ct imaging",0.3238664132500679,0.22013175230195778
+"CT_TotalSeg_muscles(ct), ct-based identification of the right gluteus minimus in the whole body",0.316555023923445,0.216650820718668
+"CT_TotalSeg_muscles(ct), right gluteus minimus anatomy in whole body ct",0.3303166176106511,0.22318883688691596
+"CT_TotalSeg_muscles(ct), left autochthon",0.39886299221720656,0.12598617720874578
+"CT_TotalSeg_muscles(ct), left autochthon in whole body ct",0.39961467844586973,0.12460798290587123
+"CT_TotalSeg_muscles(ct), ct imaging of the left autochthon in the whole body region",0.4009751204512193,0.12587616910932162
+"CT_TotalSeg_muscles(ct), whole body ct showing left autochthon structures",0.3974110514808189,0.12333798635483098
+"CT_TotalSeg_muscles(ct), visualization of the left autochthon in whole body ct scans",0.4050300817023895,0.13154687731053707
+"CT_TotalSeg_muscles(ct), left autochthon observed in whole body ct imaging",0.4011036696196106,0.1276222181158317
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left autochthon",0.4071544479159098,0.1328357988082743
+"CT_TotalSeg_muscles(ct), left autochthon segmentation in whole body ct",0.3957904198344631,0.12124194012221327
+"CT_TotalSeg_muscles(ct), left autochthon delineation in whole body ct imaging",0.40403162953822175,0.13029952943432294
+"CT_TotalSeg_muscles(ct), ct-based localization of the left autochthon in the whole body",0.3992050769307045,0.1234440183237534
+"CT_TotalSeg_muscles(ct), left autochthon anatomy in whole body ct",0.390457045771864,0.1165233298530637
+"CT_TotalSeg_muscles(ct), right autochthon",0.36913111642874824,0.0853000247907088
+"CT_TotalSeg_muscles(ct), right autochthon in whole body ct",0.38372139864647115,0.09432983400527839
+"CT_TotalSeg_muscles(ct), ct imaging of the right autochthon in the whole body region",0.3844495486782721,0.09443731255200613
+"CT_TotalSeg_muscles(ct), whole body ct showing right autochthon structures",0.38871489038094,0.09877297228441889
+"CT_TotalSeg_muscles(ct), visualization of the right autochthon in whole body ct scans",0.383940379867142,0.0942068538137672
+"CT_TotalSeg_muscles(ct), right autochthon observed in whole body ct imaging",0.3877094804434909,0.09911781145367995
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right autochthon",0.41115183699385266,0.12173285493296161
+"CT_TotalSeg_muscles(ct), right autochthon segmentation in whole body ct",0.3854243459160185,0.09632162985117768
+"CT_TotalSeg_muscles(ct), right autochthon delineation in whole body ct imaging",0.3911436548072051,0.10288805119727405
+"CT_TotalSeg_muscles(ct), ct-based identification of the right autochthon in the whole body",0.37176806620808694,0.08254901319316793
+"CT_TotalSeg_muscles(ct), right autochthon anatomy in whole body ct",0.35639051949552125,0.06762995746503703
+"CT_TotalSeg_muscles(ct), left iliopsoas",0.3135988856952306,0.16869254385611007
+"CT_TotalSeg_muscles(ct), left iliopsoas in whole body ct",0.31212315276888314,0.16456259234632628
+"CT_TotalSeg_muscles(ct), ct imaging of the left iliopsoas in the whole body region",0.3143097116722763,0.16449525752664265
+"CT_TotalSeg_muscles(ct), whole body ct showing left iliopsoas structures",0.31201533715943025,0.16126593918654286
+"CT_TotalSeg_muscles(ct), visualization of the left iliopsoas in whole body ct scans",0.3139499996938507,0.16395739279606578
+"CT_TotalSeg_muscles(ct), left iliopsoas observed in whole body ct imaging",0.3115404291173904,0.1639449151385298
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left iliopsoas",0.313927719058984,0.16529531421598015
+"CT_TotalSeg_muscles(ct), left iliopsoas segmentation in whole body ct",0.3129707616411984,0.16572525625796572
+"CT_TotalSeg_muscles(ct), left iliopsoas delineation in whole body ct imaging",0.31227785295444294,0.16515030473975456
+"CT_TotalSeg_muscles(ct), ct-based localization of the left iliopsoas in the whole body",0.31269062619378235,0.16448762212259654
+"CT_TotalSeg_muscles(ct), left iliopsoas anatomy in whole body ct",0.3117125244324162,0.16475173983575117
+"CT_TotalSeg_muscles(ct), right iliopsoas",0.44713277157822817,0.22673181226115194
+"CT_TotalSeg_muscles(ct), right iliopsoas in whole body ct",0.4437992052496661,0.24971459115094835
+"CT_TotalSeg_muscles(ct), ct imaging of the right iliopsoas in the whole body region",0.4485320187064206,0.2493313834884005
+"CT_TotalSeg_muscles(ct), whole body ct showing right iliopsoas structures",0.4499450317124736,0.24943497800849515
+"CT_TotalSeg_muscles(ct), visualization of the right iliopsoas in whole body ct scans",0.4483396696161222,0.2504097093068693
+"CT_TotalSeg_muscles(ct), right iliopsoas observed in whole body ct imaging",0.4437843729459435,0.24770888490503096
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right iliopsoas",0.4465815702045812,0.2513106408586702
+"CT_TotalSeg_muscles(ct), right iliopsoas segmentation in whole body ct",0.448096172140049,0.2505714972285185
+"CT_TotalSeg_muscles(ct), right iliopsoas delineation in whole body ct imaging",0.4514032952149091,0.24847698939631277
+"CT_TotalSeg_muscles(ct), ct-based identification of the right iliopsoas in the whole body",0.44558622120771946,0.2483245409658066
+"CT_TotalSeg_muscles(ct), right iliopsoas anatomy in whole body ct",0.44676381115649,0.24963785609870895
+"CT_TotalSeg_muscles(ct), brain",0.0,0.0
+"CT_TotalSeg_muscles(ct), brain in whole body ct",0.0,0.0
+"CT_TotalSeg_muscles(ct), ct imaging of the brain in the whole body region",0.0,0.0
+"CT_TotalSeg_muscles(ct), whole body ct showing brain structures",0.0,0.0
+"CT_TotalSeg_muscles(ct), visualization of the brain in whole body ct scans",0.0,0.0
+"CT_TotalSeg_muscles(ct), brain observed in whole body ct imaging",0.0,0.0
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the brain",0.0,0.0
+"CT_TotalSeg_muscles(ct), brain segmentation in whole body ct",0.0,0.0
+"CT_TotalSeg_muscles(ct), brain delineation in whole body ct imaging",0.0,0.0
+"CT_TotalSeg_muscles(ct), ct-based localization of the brain in the whole body",0.0,0.0
+"CT_TotalSeg_muscles(ct), brain anatomy in whole body ct",0.0,0.0
+"CT_TotalSeg_muscles(ct), skull",0.0,0.0
+"CT_TotalSeg_muscles(ct), skull in whole body ct",0.0,0.0
+"CT_TotalSeg_muscles(ct), ct imaging of the skull in the whole body region",0.0,0.0
+"CT_TotalSeg_muscles(ct), whole body ct showing skull structures",0.0,0.0
+"CT_TotalSeg_muscles(ct), visualization of the skull in whole body ct scans",0.0,0.0
+"CT_TotalSeg_muscles(ct), skull observed in whole body ct imaging",0.0,0.0
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the skull",0.0,0.0
+"CT_TotalSeg_muscles(ct), skull segmentation in whole body ct",0.0,0.0
+"CT_TotalSeg_muscles(ct), skull delineation in whole body ct imaging",0.0,0.0
+"CT_TotalSeg_muscles(ct), ct-based identification of the skull in the whole body",0.0,0.0
+"CT_TotalSeg_muscles(ct), skull anatomy in whole body ct",0.0,0.0

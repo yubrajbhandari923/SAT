@@ -1,0 +1,1056 @@
+,dice,nsd
+MR_BraTS-T1c(mri),0.564266831871344,0.5465964890728743
+"MR_BraTS-T1c(mri), non-enhancing tumor core",0.5252466345956501,0.5734133692507785
+"MR_BraTS-T1c(mri), non-enhancing tumor core in head post-contrast t1-weighted mr",0.5322306418779977,0.5800047764666587
+"MR_BraTS-T1c(mri), post-contrast t1-weighted mr imaging of non-enhancing tumor core in head",0.5247825582436668,0.5724211539483791
+"MR_BraTS-T1c(mri), visualization of non-enhancing tumor core in head post-contrast t1-weighted mr",0.5248560250708383,0.5726935088830666
+"MR_BraTS-T1c(mri), non-enhancing tumor core observed in head post-contrast t1-weighted mr",0.5247198714089831,0.5725004048970018
+"MR_BraTS-T1c(mri), segmentation of non-enhancing tumor core in head post-contrast t1-weighted mr",0.5320799585708551,0.5797133868898859
+"MR_BraTS-T1c(mri), delineation of non-enhancing tumor core in head post-contrast t1-weighted mr imaging",0.5321137317018627,0.5800144836950273
+"MR_BraTS-T1c(mri), identification of non-enhancing tumor core in head post-contrast t1-weighted mr",0.5247653990468659,0.572443849028699
+"MR_BraTS-T1c(mri), localization of non-enhancing tumor core in head post-contrast t1-weighted mr",0.5248413232501772,0.5725543537508198
+"MR_BraTS-T1c(mri), characterization of non-enhancing tumor core in head post-contrast t1-weighted mr",0.5248549937698471,0.5724976993357456
+"MR_BraTS-T1c(mri), surrounding non-enhancing flair hyperintensit",0.6518255531587637,0.5410476733587235
+"MR_BraTS-T1c(mri), surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.6566616406422529,0.5457674165586858
+"MR_BraTS-T1c(mri), post-contrast t1-weighted mr imaging of surrounding non-enhancing flair hyperintensity in head",0.6562990367281638,0.5451610543150873
+"MR_BraTS-T1c(mri), visualization of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.656801588280183,0.546231180943793
+"MR_BraTS-T1c(mri), surrounding non-enhancing flair hyperintensity observed in head post-contrast t1-weighted mr",0.6565981051262335,0.5458148880220646
+"MR_BraTS-T1c(mri), segmentation of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.6566139622519551,0.5459104262089775
+"MR_BraTS-T1c(mri), delineation of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr imaging",0.6567015463155521,0.5459717920135776
+"MR_BraTS-T1c(mri), identification of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.6566956852787061,0.5459681078492341
+"MR_BraTS-T1c(mri), localization of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.6566985175922478,0.546053172302611
+"MR_BraTS-T1c(mri), characterization of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.6567299212012312,0.5459073723950595
+"MR_BraTS-T1c(mri), enhancing tissue",0.5075602409698413,0.5347449581074752
+"MR_BraTS-T1c(mri), enhancing tissue in head post-contrast t1-weighted mr",0.5108059172854175,0.5373376495140617
+"MR_BraTS-T1c(mri), post-contrast t1-weighted mr imaging of enhancing tissue in head",0.5109300674804125,0.5370406079515693
+"MR_BraTS-T1c(mri), visualization of enhancing tissue in head post-contrast t1-weighted mr",0.5106678245242728,0.5375347596638521
+"MR_BraTS-T1c(mri), enhancing tissue observed in head post-contrast t1-weighted mr",0.5108512989341442,0.5373203737348841
+"MR_BraTS-T1c(mri), segmentation of enhancing tissue in head post-contrast t1-weighted mr",0.5106518936723723,0.5370485579501219
+"MR_BraTS-T1c(mri), delineation of enhancing tissue in head post-contrast t1-weighted mr imaging",0.5112688892841195,0.537721197495618
+"MR_BraTS-T1c(mri), identification of enhancing tissue in head post-contrast t1-weighted mr",0.5102741797443663,0.5364561426144011
+"MR_BraTS-T1c(mri), localization of enhancing tissue in head post-contrast t1-weighted mr",0.5107602719505984,0.5372161630401425
+"MR_BraTS-T1c(mri), characterization of enhancing tissue in head post-contrast t1-weighted mr",0.5107252681074379,0.53740121586048
+"MR_BraTS-T1c(mri), resection cavity",0.5618456628843944,0.5250883146849649
+"MR_BraTS-T1c(mri), resection cavity in head post-contrast t1-weighted mr",0.5641083495625036,0.5281693443836484
+"MR_BraTS-T1c(mri), post-contrast t1-weighted mr imaging of resection cavity in head",0.5622028187741486,0.5251902337405875
+"MR_BraTS-T1c(mri), visualization of resection cavity in head post-contrast t1-weighted mr",0.5630157253188963,0.526801637410786
+"MR_BraTS-T1c(mri), resection cavity observed in head post-contrast t1-weighted mr",0.5636743501222609,0.5279247578523024
+"MR_BraTS-T1c(mri), segmentation of resection cavity in head post-contrast t1-weighted mr",0.5641015176359593,0.5287495795875125
+"MR_BraTS-T1c(mri), delineation of resection cavity in head post-contrast t1-weighted mr imaging",0.5634024504265693,0.5272663187010722
+"MR_BraTS-T1c(mri), identification of resection cavity in head post-contrast t1-weighted mr",0.5639316372195504,0.5283653111101095
+"MR_BraTS-T1c(mri), localization of resection cavity in head post-contrast t1-weighted mr",0.5635113849731199,0.5277958803246289
+MR_ProstateT2(mri),0.8837625459370179,0.5659210621669194
+"MR_ProstateT2(mri), prostate",0.8843214949407193,0.5671991371346781
+"MR_ProstateT2(mri), prostate delineation in pelvic mr t2 imaging",0.8837337015050266,0.5656084645436636
+"MR_ProstateT2(mri), segmentation of the prostate on t2-weighted pelvic mri",0.8840218764251816,0.5664095595329982
+"MR_ProstateT2(mri), zonal characterization of the prostate using pelvis t2 mri protocols",0.8833173528839842,0.5651029782855638
+"MR_ProstateT2(mri), prostate mapping in t2-based pelvic magnetic resonance",0.8830758907568056,0.5648604157982013
+"MR_ProstateT2(mri), localization of the prostate in t2 pelvic mri",0.8842080507873179,0.5666608496755103
+"MR_ProstateT2(mri), visualization of the prostate via pelvic t2 magnetic resonance",0.8839724069474272,0.5661727201278982
+"MR_ProstateT2(mri), prostate detection in t2-based pelvic mri acquisitions",0.883719415409298,0.565989370910402
+"MR_ProstateT2(mri), prostate identification within t2 mr imaging of the pelvis",0.8841282949673006,0.5664750307621703
+"MR_ProstateT2(mri), prostate boundary definition in pelvic t2-weighted mri sequences",0.8831269747471182,0.5647320948981086
+MR_BraTS-T2f(mri),0.45005535133150926,0.434661971503354
+"MR_BraTS-T2f(mri), non-enhancing tumor core",0.339757549982653,0.34542896860599187
+"MR_BraTS-T2f(mri), non-enhancing tumor core in head mr t2 flair",0.3556518957386206,0.36092722232070884
+"MR_BraTS-T2f(mri), mr t2 flair imaging of non-enhancing tumor core in head",0.34757441433754926,0.35280684846131694
+"MR_BraTS-T2f(mri), visualization of non-enhancing tumor core in head mr t2 flair",0.34773955449093547,0.35298065015700925
+"MR_BraTS-T2f(mri), non-enhancing tumor core observed in head mr t2 flair",0.3478639164011786,0.3531984205675151
+"MR_BraTS-T2f(mri), segmentation of non-enhancing tumor core in head mr t2 flair",0.34801298979209944,0.35337863989092966
+"MR_BraTS-T2f(mri), delineation of non-enhancing tumor core in head mr t2 flair imaging",0.3476504517978761,0.35302308421174095
+"MR_BraTS-T2f(mri), identification of non-enhancing tumor core in head mr t2 flair",0.35568374898875044,0.3611130759211457
+"MR_BraTS-T2f(mri), localization of non-enhancing tumor core in head mr t2 flair",0.34780026798294755,0.35328115771489565
+"MR_BraTS-T2f(mri), characterization of non-enhancing tumor core in head mr t2 flair",0.34801462792292176,0.35328843485367495
+"MR_BraTS-T2f(mri), surrounding non-enhancing flair hyperintensit",0.7883121656909663,0.7613066492621329
+"MR_BraTS-T2f(mri), surrounding non-enhancing flair hyperintensity in head mr t2 flair",0.7935773073394993,0.7670000466215735
+"MR_BraTS-T2f(mri), mr t2 flair imaging of surrounding non-enhancing flair hyperintensity in head",0.7924372188767294,0.7653678078162681
+"MR_BraTS-T2f(mri), visualization of surrounding non-enhancing flair hyperintensity in head mr t2 flair",0.7934903409798597,0.7670331028725614
+"MR_BraTS-T2f(mri), surrounding non-enhancing flair hyperintensity observed in head mr t2 flair",0.7934070267001776,0.7666955540790352
+"MR_BraTS-T2f(mri), segmentation of surrounding non-enhancing flair hyperintensity in head mr t2 flair",0.793498967288779,0.7668593361585794
+"MR_BraTS-T2f(mri), delineation of surrounding non-enhancing flair hyperintensity in head mr t2 flair imaging",0.793439650418533,0.7668403191272555
+"MR_BraTS-T2f(mri), identification of surrounding non-enhancing flair hyperintensity in head mr t2 flair",0.7937337679403895,0.7670206018049359
+"MR_BraTS-T2f(mri), localization of surrounding non-enhancing flair hyperintensity in head mr t2 flair",0.7935167853899178,0.7668797000549397
+"MR_BraTS-T2f(mri), characterization of surrounding non-enhancing flair hyperintensity in head mr t2 flair",0.7936663918918534,0.7671364381017406
+"MR_BraTS-T2f(mri), enhancing tissue",0.1948820107911019,0.20124056205505178
+"MR_BraTS-T2f(mri), enhancing tissue in head mr t2 flair",0.2107595206957923,0.21678943822425056
+"MR_BraTS-T2f(mri), mr t2 flair imaging of enhancing tissue in head",0.21006402396716034,0.21679772065551653
+"MR_BraTS-T2f(mri), visualization of enhancing tissue in head mr t2 flair",0.210473643982502,0.2165178610390638
+"MR_BraTS-T2f(mri), enhancing tissue observed in head mr t2 flair",0.2106241593440939,0.2156131109478042
+"MR_BraTS-T2f(mri), segmentation of enhancing tissue in head mr t2 flair",0.21030831555478932,0.21710457580831447
+"MR_BraTS-T2f(mri), delineation of enhancing tissue in head mr t2 flair imaging",0.2099865773303575,0.21568795103223296
+"MR_BraTS-T2f(mri), identification of enhancing tissue in head mr t2 flair",0.21026586064549568,0.21662819342497458
+"MR_BraTS-T2f(mri), localization of enhancing tissue in head mr t2 flair",0.21093856393750685,0.21805768285265248
+"MR_BraTS-T2f(mri), characterization of enhancing tissue in head mr t2 flair",0.21057624574129227,0.21674163274075542
+"MR_BraTS-T2f(mri), resection cavity",0.44964248585091804,0.3997637502461165
+"MR_BraTS-T2f(mri), resection cavity in head mr t2 flair",0.4497805772309367,0.3999040335914435
+"MR_BraTS-T2f(mri), mr t2 flair imaging of resection cavity in head",0.44934703017887256,0.3994871314119371
+"MR_BraTS-T2f(mri), visualization of resection cavity in head mr t2 flair",0.4499742659318135,0.3998386218995378
+"MR_BraTS-T2f(mri), resection cavity observed in head mr t2 flair",0.4499812162360387,0.3999198299270364
+"MR_BraTS-T2f(mri), segmentation of resection cavity in head mr t2 flair",0.45004853604394723,0.40015808281772447
+"MR_BraTS-T2f(mri), delineation of resection cavity in head mr t2 flair imaging",0.45000344514926266,0.4000514487008007
+"MR_BraTS-T2f(mri), identification of resection cavity in head mr t2 flair",0.44986764151581304,0.4000053741726691
+"MR_BraTS-T2f(mri), localization of resection cavity in head mr t2 flair",0.4498055418489309,0.39994382847897497
+MR_BraTS-T1n(mri),0.4582239249373818,0.4211888645827305
+"MR_BraTS-T1n(mri), non-enhancing tumor core",0.4930278775103737,0.49673853241207966
+"MR_BraTS-T1n(mri), non-enhancing tumor core in head mr naive t1",0.492291629380088,0.4959233403748463
+"MR_BraTS-T1n(mri), mr naive t1 imaging of non-enhancing tumor core in head",0.484090657139635,0.4879385519800154
+"MR_BraTS-T1n(mri), visualization of non-enhancing tumor core in head mr naive t1",0.48481860645780656,0.4886806858913737
+"MR_BraTS-T1n(mri), non-enhancing tumor core observed in head mr naive t1",0.49295560092975826,0.49662134124986135
+"MR_BraTS-T1n(mri), segmentation of non-enhancing tumor core in head mr naive t1",0.49931459608209766,0.5029398172105115
+"MR_BraTS-T1n(mri), delineation of non-enhancing tumor core in head mr naive t1 imaging",0.4845803111224105,0.48843075006204567
+"MR_BraTS-T1n(mri), identification of non-enhancing tumor core in head mr naive t1",0.49279713116394963,0.49636962708565274
+"MR_BraTS-T1n(mri), localization of non-enhancing tumor core in head mr naive t1",0.492163514485361,0.4958796378460741
+"MR_BraTS-T1n(mri), characterization of non-enhancing tumor core in head mr naive t1",0.49302816672811084,0.49665669161580783
+"MR_BraTS-T1n(mri), surrounding non-enhancing flair hyperintensit",0.6269702121491323,0.5235629613017042
+"MR_BraTS-T1n(mri), surrounding non-enhancing flair hyperintensity in head mr naive t1",0.6272288475507741,0.5217277956331061
+"MR_BraTS-T1n(mri), mr naive t1 imaging of surrounding non-enhancing flair hyperintensity in head",0.6274029052390261,0.522302091106104
+"MR_BraTS-T1n(mri), visualization of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.6275941806116809,0.5225771253714163
+"MR_BraTS-T1n(mri), surrounding non-enhancing flair hyperintensity observed in head mr naive t1",0.6273575233117158,0.5220151929164265
+"MR_BraTS-T1n(mri), segmentation of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.6275082808418929,0.5223551412382198
+"MR_BraTS-T1n(mri), delineation of surrounding non-enhancing flair hyperintensity in head mr naive t1 imaging",0.6277027971853536,0.5216711682020618
+"MR_BraTS-T1n(mri), identification of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.6276281423872125,0.5218680403831993
+"MR_BraTS-T1n(mri), localization of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.6276261297746594,0.5223395032573087
+"MR_BraTS-T1n(mri), characterization of surrounding non-enhancing flair hyperintensity in head mr naive t1",0.6275852637005345,0.52228864393526
+"MR_BraTS-T1n(mri), enhancing tissue",0.18505323189635414,0.19375134559493887
+"MR_BraTS-T1n(mri), enhancing tissue in head mr naive t1",0.17701047517661891,0.18416919440491877
+"MR_BraTS-T1n(mri), mr naive t1 imaging of enhancing tissue in head",0.18416403903907913,0.19220511921681038
+"MR_BraTS-T1n(mri), visualization of enhancing tissue in head mr naive t1",0.18333751586348285,0.19077828757719867
+"MR_BraTS-T1n(mri), enhancing tissue observed in head mr naive t1",0.1896708091000615,0.19760036792251515
+"MR_BraTS-T1n(mri), segmentation of enhancing tissue in head mr naive t1",0.18531497825250823,0.1928377044854352
+"MR_BraTS-T1n(mri), delineation of enhancing tissue in head mr naive t1 imaging",0.1851734110032033,0.19275673532453
+"MR_BraTS-T1n(mri), identification of enhancing tissue in head mr naive t1",0.19140652295826827,0.19850378874380437
+"MR_BraTS-T1n(mri), localization of enhancing tissue in head mr naive t1",0.17776313497683813,0.18461688378808722
+"MR_BraTS-T1n(mri), characterization of enhancing tissue in head mr naive t1",0.17707643659228586,0.18415547026145274
+"MR_BraTS-T1n(mri), resection cavity",0.5392233541861801,0.4837211726549808
+"MR_BraTS-T1n(mri), resection cavity in head mr naive t1",0.5391568729076593,0.4829717958639614
+"MR_BraTS-T1n(mri), mr naive t1 imaging of resection cavity in head",0.5394260735289854,0.4837215153641483
+"MR_BraTS-T1n(mri), visualization of resection cavity in head mr naive t1",0.5388172772738724,0.4825033404093473
+"MR_BraTS-T1n(mri), resection cavity observed in head mr naive t1",0.5390060378756198,0.4827851073312563
+"MR_BraTS-T1n(mri), segmentation of resection cavity in head mr naive t1",0.5386041359957251,0.4822804133152496
+"MR_BraTS-T1n(mri), delineation of resection cavity in head mr naive t1 imaging",0.5392386325551938,0.48309295452912765
+"MR_BraTS-T1n(mri), identification of resection cavity in head mr naive t1",0.5388301285404362,0.4825331883842266
+"MR_BraTS-T1n(mri), localization of resection cavity in head mr naive t1",0.5387876310839448,0.4824946944814249
+MR_ProstateADC(mri),0.8545962438449787,0.8239822038734259
+"MR_ProstateADC(mri), transition zone",0.8538809393897874,0.8238959711686028
+"MR_ProstateADC(mri), transition zone delineation in pelvic mr adc imaging",0.8546696961418636,0.823693837292942
+"MR_ProstateADC(mri), segmentation of the transition zone on adc-weighted pelvic mri",0.8549387115379575,0.824838025870192
+"MR_ProstateADC(mri), zonal characterization of the transition zone using pelvis adc mr sequences",0.854646011495041,0.8240285378157087
+"MR_ProstateADC(mri), transition zone mapping in adc-based pelvic magnetic resonance",0.8540653952665045,0.8232004142592473
+"MR_ProstateADC(mri), anatomical localization of the transition zone in adc-weighted pelvis mri",0.8550124440755512,0.824940746566254
+"MR_ProstateADC(mri), transition zone identification in adc sequences of pelvic magnetic resonance",0.8550187543220427,0.8240995590265303
+"MR_ProstateADC(mri), transition zone analysis in adc-weighted pelvis mr scans",0.8551897212014755,0.8247312456615833
+"MR_ProstateADC(mri), transition zone detection in adc-based pelvic mri acquisitions",0.8539445211745857,0.8224114971997724
+MR_Heart_ACDC(mri),0.38452560984349543,0.36367154988035666
+"MR_Heart_ACDC(mri), right ventricle cavity",0.36081136636913613,0.3066177425851568
+"MR_Heart_ACDC(mri), right ventricle cavity segmentation in chest mr",0.3609530357011413,0.3074027124887561
+"MR_Heart_ACDC(mri), right ventricle cavity delineation in chest magnetic resonance",0.36130126766557275,0.307771735479982
+"MR_Heart_ACDC(mri), right ventricle cavity identification in chest mr imaging",0.36098092514157476,0.30743362274190733
+"MR_Heart_ACDC(mri), right ventricle cavity visualization in chest mr scans",0.36102985460049464,0.3073020952943794
+"MR_Heart_ACDC(mri), right ventricle cavity mapping in chest mr acquisitions",0.36148343005337147,0.3077688823223953
+"MR_Heart_ACDC(mri), right ventricle cavity detection in chest magnetic resonance",0.36118310594292624,0.30758299463105654
+"MR_Heart_ACDC(mri), right ventricle cavity outlining in chest mr imaging",0.3611580595217567,0.30750536885692953
+"MR_Heart_ACDC(mri), myocardium",0.37838542148028637,0.4012942327454613
+"MR_Heart_ACDC(mri), myocardium segmentation in chest mr",0.37762895298329524,0.40118598428024294
+"MR_Heart_ACDC(mri), myocardium delineation in chest magnetic resonance",0.3777230875696723,0.40093643397547996
+"MR_Heart_ACDC(mri), myocardium identification in chest mr imaging",0.3778426169601033,0.40123389748396404
+"MR_Heart_ACDC(mri), myocardium visualization in chest mr scans",0.3777944745991899,0.4010064028923534
+"MR_Heart_ACDC(mri), myocardium mapping in chest mr acquisitions",0.37714061863927534,0.4009063290096997
+"MR_Heart_ACDC(mri), myocardium detection in chest magnetic resonance",0.37805671761904613,0.4010290300351495
+"MR_Heart_ACDC(mri), myocardium outlining in chest mr imaging",0.3774123511990754,0.40096131848832745
+"MR_Heart_ACDC(mri), left ventricle cavity",0.41931766113106644,0.3853996790837198
+"MR_Heart_ACDC(mri), left ventricle cavity segmentation in chest mr",0.41920116250718864,0.385695486076042
+"MR_Heart_ACDC(mri), left ventricle cavity anatomical boundaries in chest mr imaging",0.41872826510850064,0.38468598372191176
+"MR_Heart_ACDC(mri), left ventricle cavity structural delineation in chest mr scans",0.4185911291747111,0.3845841194061338
+"MR_Heart_ACDC(mri), left ventricle cavity endocardial border identification in chest mr acquisitions",0.41894171065718955,0.38470639921713007
+"MR_Heart_ACDC(mri), left ventricle cavity outlining in chest mr imaging",0.41928696965055096,0.3858605055090016
+"MR_Heart_ACDC(mri), left ventricle cavity detection in chest mr imaging",0.41913684212526986,0.38557469092302293
+MR_QIN-PROSTATE-Lesion(mri),0.28666229964513057,0.14379887699347998
+"MR_QIN-PROSTATE-Lesion(mri), prostate lesion",0.27150319566835196,0.13732029410515828
+"MR_QIN-PROSTATE-Lesion(mri), prostate lesion delineation in pelvic mr imaging",0.28477247644512554,0.1421935051121414
+"MR_QIN-PROSTATE-Lesion(mri), segmentation of prostate lesions on pelvic mri scans",0.2839835157599465,0.1419424438167651
+"MR_QIN-PROSTATE-Lesion(mri), detection of prostate lesions within pelvic magnetic resonance",0.28223409841873015,0.14181475547972525
+"MR_QIN-PROSTATE-Lesion(mri), prostate lesion localization in pelvic mr acquisitions",0.2895106410211004,0.1438369341605718
+"MR_QIN-PROSTATE-Lesion(mri), visualization of prostate lesions via pelvic mri protocols",0.282799660592831,0.14223549046394504
+"MR_QIN-PROSTATE-Lesion(mri), boundary demarcation of prostate lesions on pelvic mr studies",0.3083604157649034,0.15512991775013948
+"MR_QIN-PROSTATE-Lesion(mri), mapping of prostate lesions in pelvic magnetic resonance imaging",0.28339004960237346,0.1427240383533569
+"MR_QIN-PROSTATE-Lesion(mri), characterization of prostate lesions using pelvic mri sequences",0.2850284810021376,0.14371637179870816
+"MR_QIN-PROSTATE-Lesion(mri), identification of prostate lesions in pelvic mr datasets",0.2950404621758053,0.14707501889428828
+MR_BraTS-T2w(mri),0.4490315535267284,0.4130509106276217
+"MR_BraTS-T2w(mri), non-enhancing tumor core",0.4847813189705625,0.48718202391616594
+"MR_BraTS-T2w(mri), non-enhancing tumor core in head t2 weighted mr",0.4920049966004837,0.4939715760113422
+"MR_BraTS-T2w(mri), t2 weighted mr imaging of non-enhancing tumor core in head",0.4920887344364105,0.49406044072497407
+"MR_BraTS-T2w(mri), visualization of non-enhancing tumor core in head t2 weighted mr",0.4919267237066246,0.4939048872832325
+"MR_BraTS-T2w(mri), non-enhancing tumor core observed in head t2 weighted mr",0.48464747067582975,0.48658162791696274
+"MR_BraTS-T2w(mri), segmentation of non-enhancing tumor core in head t2 weighted mr",0.4920337451325926,0.4939118306651444
+"MR_BraTS-T2w(mri), delineation of non-enhancing tumor core in head t2 weighted mr imaging",0.49200771908656615,0.4939772341943044
+"MR_BraTS-T2w(mri), identification of non-enhancing tumor core in head t2 weighted mr",0.48465408149270894,0.48656799608734136
+"MR_BraTS-T2w(mri), localization of non-enhancing tumor core in head t2 weighted mr",0.4845935765165126,0.48659149847580246
+"MR_BraTS-T2w(mri), characterization of non-enhancing tumor core in head t2 weighted mr",0.49198773184067585,0.49392450169976143
+"MR_BraTS-T2w(mri), surrounding non-enhancing flair hyperintensity",0.6626750205695872,0.5689544602466435
+"MR_BraTS-T2w(mri), surrounding non-enhancing flair hyperintensity in head t2 weighted mr",0.662626864130094,0.5705405548646378
+"MR_BraTS-T2w(mri), t2 weighted mr imaging of surrounding non-enhancing flair hyperintensity in head",0.6627766698892745,0.5705243255822577
+"MR_BraTS-T2w(mri), visualization of surrounding non-enhancing flair hyperintensity in head t2 weighted mr",0.6628056770790087,0.5704319961429081
+"MR_BraTS-T2w(mri), surrounding non-enhancing flair hyperintensity observed in head t2 weighted mr",0.6625101923241928,0.5707536993890554
+"MR_BraTS-T2w(mri), segmentation of surrounding non-enhancing flair hyperintensity in head t2 weighted mr",0.6624836575848121,0.5702365791119044
+"MR_BraTS-T2w(mri), delineation of surrounding non-enhancing flair hyperintensity in head t2 weighted mr imaging",0.6629177132352946,0.5705801523482246
+"MR_BraTS-T2w(mri), identification of surrounding non-enhancing flair hyperintensity in head t2 weighted mr",0.6627158711089938,0.5705519412901754
+"MR_BraTS-T2w(mri), localization of surrounding non-enhancing flair hyperintensity in head t2 weighted mr",0.6626929851103099,0.5703660477266703
+"MR_BraTS-T2w(mri), characterization of surrounding non-enhancing flair hyperintensity in head t2 weighted mr",0.6628905131473602,0.5704965158881558
+"MR_BraTS-T2w(mri), enhancing tissue",0.16846745754196762,0.17008743140408528
+"MR_BraTS-T2w(mri), enhancing tissue in head t2 weighted mr",0.1775897153452064,0.17889185883729916
+"MR_BraTS-T2w(mri), t2 weighted mr imaging of enhancing tissue in head",0.17818865096419173,0.17936904379485583
+"MR_BraTS-T2w(mri), visualization of enhancing tissue in head t2 weighted mr",0.17769987604713397,0.1794345465730609
+"MR_BraTS-T2w(mri), enhancing tissue observed in head t2 weighted mr",0.1758831973275048,0.17699728645270257
+"MR_BraTS-T2w(mri), segmentation of enhancing tissue in head t2 weighted mr",0.17672065541041074,0.17778897431628088
+"MR_BraTS-T2w(mri), delineation of enhancing tissue in head t2 weighted mr imaging",0.1774618554286895,0.17860365115660218
+"MR_BraTS-T2w(mri), identification of enhancing tissue in head t2 weighted mr",0.17770134571187207,0.17910588456269325
+"MR_BraTS-T2w(mri), localization of enhancing tissue in head t2 weighted mr",0.17762272310084543,0.17907558612734095
+"MR_BraTS-T2w(mri), characterization of enhancing tissue in head t2 weighted mr",0.17761042913447642,0.17916366693712044
+"MR_BraTS-T2w(mri), resection cavity",0.45377601533789225,0.3932465620353042
+"MR_BraTS-T2w(mri), resection cavity in head t2 weighted mr",0.47245976340134,0.41569860533250624
+"MR_BraTS-T2w(mri), t2 weighted mr imaging of resection cavity in head",0.47308545421445264,0.41647912886700766
+"MR_BraTS-T2w(mri), visualization of resection cavity in head t2 weighted mr",0.471654845423107,0.41463501510496675
+"MR_BraTS-T2w(mri), resection cavity observed in head t2 weighted mr",0.4724038460852452,0.41576989804831443
+"MR_BraTS-T2w(mri), segmentation of resection cavity in head t2 weighted mr",0.46753128165587493,0.4115364182698471
+"MR_BraTS-T2w(mri), delineation of resection cavity in head t2 weighted mr imaging",0.47139897482907045,0.41426386292197825
+"MR_BraTS-T2w(mri), identification of resection cavity in head t2 weighted mr",0.47392998161921013,0.41790170498761087
+"MR_BraTS-T2w(mri), localization of resection cavity in head t2 weighted mr",0.4732232563260214,0.41682649918200726
+MR_ISLES_ADC(mri),0.16848899629478586,0.15912203300366645
+"MR_ISLES_ADC(mri), stroke lesion",0.16297240215095235,0.15448312387487048
+"MR_ISLES_ADC(mri), stroke lesion segmented in brain mr adc imaging",0.1682240114671869,0.15897842583314767
+"MR_ISLES_ADC(mri), acute ischemic lesion identified via adc map analysis in brain mri",0.17026998262410337,0.16074281458513595
+"MR_ISLES_ADC(mri), stroke lesion visualized in cerebral adc sequences",0.16836078773114277,0.15885906611775494
+"MR_ISLES_ADC(mri), adc hypointense lesion characterized in brain mr adc protocols",0.17002623932844507,0.16126813572311816
+"MR_ISLES_ADC(mri), stroke lesion mapped through apparent diffusion coefficient imaging of the brain parenchyma",0.16469085170439426,0.15508950884951495
+"MR_ISLES_ADC(mri), ischemic lesion documented in brain adc-mr studies",0.16981229409939755,0.16051966400809384
+"MR_ISLES_ADC(mri), stroke lesion demonstrating adc signal reduction on brain mr adc",0.17124640566716925,0.16139017839866088
+"MR_ISLES_ADC(mri), hypointense stroke lesion assessed with adc parametric mapping in brain mri",0.16913108266717017,0.16000628303844483
+"MR_ISLES_ADC(mri), stroke lesion localized in axial brain adc acquisitions",0.1686310076287353,0.1591392179819265
+"MR_ISLES_ADC(mri), diffusion coefficient abnormalities quantified in volumetric brain mr adc scans",0.1700138941739477,0.15986594462966278
+MR_WMH_T1(mri),0.44420954188200107,0.5619984511068457
+"MR_WMH_T1(mri), white matter hyperintensities",0.44451455669037854,0.5622080785363065
+"MR_WMH_T1(mri), white matter hyperintensities delineation in brain mr t1 imaging",0.4446950718841088,0.562215093380587
+"MR_WMH_T1(mri), segmentation of white matter hyperintensities on t1-weighted brain mri",0.44359134190572247,0.5615081276551618
+"MR_WMH_T1(mri), detection of white matter hyperintensities within cerebral t1 magnetic resonance",0.4442227823739919,0.5621056592308944
+"MR_WMH_T1(mri), white matter hyperintensities localization in brain t1 mr acquisitions",0.44383946717445927,0.5618463313372604
+"MR_WMH_T1(mri), visualization of white matter hyperintensities via t1 mri protocols in the brain",0.4452802291638247,0.5627585571592875
+"MR_WMH_T1(mri), boundary demarcation of white matter hyperintensities on brain t1 mr studies",0.44378083089277254,0.56177979648115
+"MR_WMH_T1(mri), mapping of white matter hyperintensities in cerebral t1-weighted mri",0.44422518787128906,0.5617178734886892
+"MR_WMH_T1(mri), characterization of white matter hyperintensities using brain t1 mr sequences",0.44357502569113627,0.5615821159235987
+"MR_WMH_T1(mri), identification of white matter hyperintensities in brain mr t1 datasets",0.44437092517232746,0.562262877875521
+MR_HNTS-MRG_HeadTumor(mri),0.3883985496409643,0.20792036825611407
+"MR_HNTS-MRG_HeadTumor(mri), gtvp and gtvn tumor",0.3875168447176295,0.2076400429002104
+"MR_HNTS-MRG_HeadTumor(mri), gtvp and gtvn tumor demarcation in head mr imaging",0.3872695206616714,0.20658675288957956
+"MR_HNTS-MRG_HeadTumor(mri), gtvp and gtvn tumor segmentation within cranial mr scans",0.3890080588393766,0.20865938436440717
+"MR_HNTS-MRG_HeadTumor(mri), volumetric analysis of gtvp and gtvn tumors in head magnetic resonance",0.38946022754882614,0.20876106020698024
+"MR_HNTS-MRG_HeadTumor(mri), spatial localization of gtvp and gtvn tumors on head mr acquisitions",0.38826185917753514,0.20753738218879786
+"MR_HNTS-MRG_HeadTumor(mri), gtvp and gtvn tumor volume definition via head mr protocols",0.3878695321414837,0.20738184505824678
+"MR_HNTS-MRG_HeadTumor(mri), anatomical delineation of combined gtvp and gtvn tumors in head mri",0.38724021007799314,0.20759638056083504
+"MR_HNTS-MRG_HeadTumor(mri), gtvp and gtvn tumor boundary identification in head mr studies",0.38875944457098704,0.20819060103936213
+"MR_HNTS-MRG_HeadTumor(mri), gtvp and gtvn in cranial magnetic resonance imaging",0.3905460411271962,0.20968786338071832
+"MR_HNTS-MRG_HeadTumor(mri), gtvp and gtvn tumor extent mapping using head mr sequences",0.3880537575469438,0.20716236997200296
+MR_TotalSeg(mri),0.21162614746456782,0.18836361133234983
+"MR_TotalSeg(mri), spleen",0.10067192088085249,0.04952604444511389
+"MR_TotalSeg(mri), spleen in whole body mr",0.09742205703858714,0.04919640957825237
+"MR_TotalSeg(mri), mr imaging of the spleen in the whole body region",0.13538354921695578,0.08736658425833929
+"MR_TotalSeg(mri), whole body mr showing spleen structures",0.13534000784527356,0.08748527412566601
+"MR_TotalSeg(mri), visualization of the spleen in whole body mr scans",0.09747403382806899,0.04919798891903023
+"MR_TotalSeg(mri), spleen observed in whole body mr imaging",0.09845391817104174,0.049417348461443036
+"MR_TotalSeg(mri), mr scan of the whole body depicting the spleen",0.1358769709255892,0.08779437636188381
+"MR_TotalSeg(mri), spleen segmentation in whole body mr",0.0976193231648478,0.049345218305456386
+"MR_TotalSeg(mri), spleen delineation in whole body mr imaging",0.09836920688026811,0.049420514457186586
+"MR_TotalSeg(mri), mr-based localization of the spleen in the whole body",0.1359536323613327,0.0877336067105019
+"MR_TotalSeg(mri), spleen anatomy in whole body mr",0.09771499610499737,0.04911013437145671
+"MR_TotalSeg(mri), right kidney",0.2311284236924528,0.1626617132284231
+"MR_TotalSeg(mri), right kidney in whole body mr",0.22259567930909296,0.15340930702688568
+"MR_TotalSeg(mri), mr imaging of the right kidney in the whole body region",0.22414348441045584,0.1554865599930505
+"MR_TotalSeg(mri), whole body mr showing right kidney structures",0.2255464960082536,0.15689204701135134
+"MR_TotalSeg(mri), visualization of the right kidney in whole body mr scans",0.22385124490818006,0.15511412464565572
+"MR_TotalSeg(mri), right kidney observed in whole body mr imaging",0.22308764054169605,0.15428982776868974
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the right kidney",0.2239148436381343,0.1546758030546472
+"MR_TotalSeg(mri), right kidney segmentation in whole body mr",0.2233755946961993,0.1544318573887786
+"MR_TotalSeg(mri), right kidney delineation in whole body mr imaging",0.22454172043700166,0.156171832440761
+"MR_TotalSeg(mri), mr-based identification of the right kidney in the whole body",0.22189057621574299,0.15350569896717642
+"MR_TotalSeg(mri), right kidney anatomy in whole body mr",0.22338307985050943,0.1545209004915699
+"MR_TotalSeg(mri), left kidney",0.22018606713929578,0.15052773704264327
+"MR_TotalSeg(mri), left kidney in whole body mr",0.29310546513980335,0.22232207008147037
+"MR_TotalSeg(mri), mr imaging of the left kidney in the whole body region",0.292877672537055,0.22323813006447477
+"MR_TotalSeg(mri), whole body mr showing left kidney structures",0.2554829196943212,0.1860046256672469
+"MR_TotalSeg(mri), visualization of the left kidney in whole body mr scans",0.29271823671623876,0.22334392872826514
+"MR_TotalSeg(mri), left kidney observed in whole body mr imaging",0.2927432344179415,0.22364544423719715
+"MR_TotalSeg(mri), mr scan of the whole body depicting the left kidney",0.2934116474732569,0.22411387263033364
+"MR_TotalSeg(mri), left kidney segmentation in whole body mr",0.2545172366342008,0.184515352307055
+"MR_TotalSeg(mri), left kidney delineation in whole body mr imaging",0.254525525535393,0.18498385195056374
+"MR_TotalSeg(mri), mr-based localization of the left kidney in the whole body",0.29262666645371344,0.22337452341550712
+"MR_TotalSeg(mri), left kidney anatomy in whole body mr",0.25375522930366384,0.18326022650073448
+"MR_TotalSeg(mri), gallbladder",0.07988367041497753,0.06378461415752093
+"MR_TotalSeg(mri), gallbladder in whole body mr",0.07919516834763314,0.06360171782363631
+"MR_TotalSeg(mri), mr imaging of the gallbladder in the whole body region",0.07933585546901259,0.06366658726814631
+"MR_TotalSeg(mri), whole body mr showing gallbladder structures",0.07943879809983653,0.06384785609346823
+"MR_TotalSeg(mri), visualization of the gallbladder in whole body mr scans",0.07886594879625472,0.06331469577926302
+"MR_TotalSeg(mri), gallbladder observed in whole body mr imaging",0.11728273679889721,0.10169309963703783
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the gallbladder",0.11756334656534836,0.10199449423006696
+"MR_TotalSeg(mri), gallbladder segmentation in whole body mr",0.11776044593545978,0.10213670277703474
+"MR_TotalSeg(mri), gallbladder delineation in whole body mr imaging",0.11737521777296182,0.10182711440496275
+"MR_TotalSeg(mri), mr-based identification of the gallbladder in the whole body",0.11712897752321384,0.10171800247466319
+"MR_TotalSeg(mri), gallbladder anatomy in whole body mr",0.0793023149491763,0.06371628657863555
+"MR_TotalSeg(mri), liver",0.23809756335520685,0.08925765717959974
+"MR_TotalSeg(mri), liver in whole body mr",0.2362907191746914,0.08940722898085562
+"MR_TotalSeg(mri), mr imaging of the liver in the whole body region",0.23562658369650272,0.0891074005386297
+"MR_TotalSeg(mri), whole body mr showing hepatic structures",0.23547775936734303,0.08929711301055346
+"MR_TotalSeg(mri), visualization of the liver in whole body mr scans",0.23775194749424478,0.08966900702210144
+"MR_TotalSeg(mri), liver observed in whole body mr imaging",0.23835699400068588,0.08978277263671108
+"MR_TotalSeg(mri), mr scan of the whole body depicting the liver",0.23537981829631383,0.08921929659910195
+"MR_TotalSeg(mri), liver segmentation in whole body mr",0.23462399302661568,0.08919239680552013
+"MR_TotalSeg(mri), liver delineation in whole body mr imaging",0.23723329927497272,0.08939922125631075
+"MR_TotalSeg(mri), mr-based localization of the liver in the whole body",0.23452389545321878,0.08905605798826993
+"MR_TotalSeg(mri), hepatic anatomy in whole body mr",0.2334531978965146,0.0886472071625012
+"MR_TotalSeg(mri), stomach",0.1694614569306547,0.11811367923542569
+"MR_TotalSeg(mri), stomach in whole body mr",0.16736343437012777,0.11653481917627748
+"MR_TotalSeg(mri), mr imaging of the stomach in the whole body region",0.20612833488303814,0.15506464052987795
+"MR_TotalSeg(mri), whole body mr showing gastric structures",0.16675906755104902,0.11623231825335238
+"MR_TotalSeg(mri), visualization of the stomach in whole body mr scans",0.205981106000204,0.15473456533261395
+"MR_TotalSeg(mri), stomach observed in whole body mr imaging",0.20633906784380743,0.15511387069883223
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the stomach",0.16886047253773404,0.11773043433730655
+"MR_TotalSeg(mri), stomach segmentation in whole body mr",0.2055252273128456,0.15474976143902192
+"MR_TotalSeg(mri), stomach delineation in whole body mr imaging",0.20585895868133347,0.1547735109324562
+"MR_TotalSeg(mri), mr-based identification of the stomach in the whole body",0.24357242129053397,0.1936757748884736
+"MR_TotalSeg(mri), gastric anatomy in whole body mr",0.28108379447842374,0.2310465038042175
+"MR_TotalSeg(mri), pancreas",0.18048531534857437,0.15699269373382288
+"MR_TotalSeg(mri), pancreas in whole body mr",0.14090390806948194,0.11811731802143453
+"MR_TotalSeg(mri), mr imaging of the pancreas in the whole body region",0.17908613247029395,0.15668385746593685
+"MR_TotalSeg(mri), whole body mr showing pancreatic structures",0.17935121423767666,0.1565366688903032
+"MR_TotalSeg(mri), visualization of the pancreas in whole body mr scans",0.17886871897597748,0.15670502740182407
+"MR_TotalSeg(mri), pancreas observed in whole body mr imaging",0.1783250952392567,0.1565013382045262
+"MR_TotalSeg(mri), mr scan of the whole body depicting the pancreas",0.1793718200976427,0.1567626174776004
+"MR_TotalSeg(mri), pancreas segmentation in whole body mr",0.14082189309106513,0.11800860121249285
+"MR_TotalSeg(mri), pancreas delineation in whole body mr imaging",0.17843741088762394,0.15654872430318634
+"MR_TotalSeg(mri), mr-based localization of the pancreas in the whole body",0.17909289407646714,0.15698066939322713
+"MR_TotalSeg(mri), pancreatic anatomy in whole body mr",0.10219890830052515,0.07985547873726241
+"MR_TotalSeg(mri), right adrenal gland",0.4061116965226554,0.40532208428211275
+"MR_TotalSeg(mri), right adrenal gland in whole body mr",0.44378424535686334,0.44290841007876985
+"MR_TotalSeg(mri), mr imaging of the right adrenal gland in the whole body region",0.44329342605204675,0.44262211687490055
+"MR_TotalSeg(mri), whole body mr showing right adrenal structures",0.4053881602268699,0.4049206811532881
+"MR_TotalSeg(mri), visualization of the right adrenal gland in whole body mr scans",0.4434850863422292,0.4427594100600643
+"MR_TotalSeg(mri), right adrenal gland observed in whole body mr imaging",0.4434850863422292,0.4427594100600643
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the right adrenal gland",0.44338004003431514,0.4426978644917394
+"MR_TotalSeg(mri), right adrenal gland segmentation in whole body mr",0.44364192699067817,0.44296478319966054
+"MR_TotalSeg(mri), right adrenal gland delineation in whole body mr imaging",0.40504249696450256,0.4041056359680588
+"MR_TotalSeg(mri), mr-based identification of the right adrenal gland in the whole body",0.4048130640309412,0.4041459283213207
+"MR_TotalSeg(mri), right adrenal anatomy in whole body mr",0.40532270689532485,0.4046849194876368
+"MR_TotalSeg(mri), left adrenal gland",0.23764728751366287,0.23660996322207448
+"MR_TotalSeg(mri), left adrenal gland in whole body mr",0.23842979125942285,0.23712352092789188
+"MR_TotalSeg(mri), mr imaging of the left adrenal gland in the whole body region",0.23768570032221115,0.23638476243107062
+"MR_TotalSeg(mri), whole body mr showing left adrenal structures",0.23837262216669255,0.2370388949069711
+"MR_TotalSeg(mri), visualization of the left adrenal gland in whole body mr scans",0.23797837942010888,0.23670911825674545
+"MR_TotalSeg(mri), left adrenal gland observed in whole body mr imaging",0.23787626829894967,0.2365794380296921
+"MR_TotalSeg(mri), mr scan of the whole body depicting the left adrenal gland",0.23801497212426392,0.23677417392879663
+"MR_TotalSeg(mri), left adrenal gland segmentation in whole body mr",0.2383124404790503,0.23704885577211032
+"MR_TotalSeg(mri), left adrenal gland delineation in whole body mr imaging",0.23785139075391962,0.2366477845474595
+"MR_TotalSeg(mri), mr-based localization of the left adrenal gland in the whole body",0.23806604538434906,0.23691606930007814
+"MR_TotalSeg(mri), left adrenal anatomy in whole body mr",0.23846530663497592,0.23706461603300583
+"MR_TotalSeg(mri), left lung",0.16507519575414611,0.07042039717861602
+"MR_TotalSeg(mri), left lung in whole body mr",0.16385367422202576,0.06995048247435741
+"MR_TotalSeg(mri), mr imaging of the left lung in the whole body region",0.1624695258489635,0.06851196390838708
+"MR_TotalSeg(mri), whole body mr showing left pulmonary structures",0.16289789687183276,0.0689152726704282
+"MR_TotalSeg(mri), visualization of the left lung in whole body mr scans",0.16226369758531364,0.06849219805015416
+"MR_TotalSeg(mri), left lung observed in whole body mr imaging",0.16268872897742676,0.06914824050780143
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the left lung",0.1619867815717994,0.06799509602901416
+"MR_TotalSeg(mri), left lung segmentation in whole body mr",0.16289495217781155,0.06903638075281718
+"MR_TotalSeg(mri), left lung delineation in whole body mr imaging",0.1624261644299585,0.06880852404881681
+"MR_TotalSeg(mri), mr-based identification of the left lung in the whole body",0.16021014849466642,0.0666115318892751
+"MR_TotalSeg(mri), left pulmonary anatomy in whole body mr",0.1634560747100678,0.06980294025607589
+"MR_TotalSeg(mri), right lung",0.1719220123461372,0.08937885788610515
+"MR_TotalSeg(mri), right lung in whole body mr",0.1727824289793473,0.09068391862136584
+"MR_TotalSeg(mri), mr imaging of the right lung in the whole body region",0.17155675901566453,0.09016643957263468
+"MR_TotalSeg(mri), whole body mr showing right pulmonary structures",0.16908311435628479,0.0874153581367614
+"MR_TotalSeg(mri), visualization of the right lung in whole body mr scans",0.1717882172491258,0.08965660526741868
+"MR_TotalSeg(mri), right lung observed in whole body mr imaging",0.17082817141746948,0.08941290246155832
+"MR_TotalSeg(mri), mr scan of the whole body depicting the right lung",0.17355913497008163,0.0911182113624906
+"MR_TotalSeg(mri), right lung segmentation in whole body mr",0.17029842113618862,0.08804237462353881
+"MR_TotalSeg(mri), right lung delineation in whole body mr imaging",0.17082893936219593,0.08901077579209529
+"MR_TotalSeg(mri), mr-based localization of the right lung in the whole body",0.17163414385631443,0.08929042183258785
+"MR_TotalSeg(mri), right pulmonary anatomy in whole body mr",0.17095826509796078,0.0888173759809494
+"MR_TotalSeg(mri), esophagus",0.16378336464289467,0.14977682832244021
+"MR_TotalSeg(mri), esophagus in whole body mr",0.16417620435078978,0.15007735140811718
+"MR_TotalSeg(mri), mr imaging of the esophagus in the whole body region",0.16413929591460524,0.15015348105409965
+"MR_TotalSeg(mri), whole body mr showing esophageal structures",0.1639099701020095,0.14991822958232157
+"MR_TotalSeg(mri), visualization of the esophagus in whole body mr scans",0.1638149414306262,0.14998178412715837
+"MR_TotalSeg(mri), esophagus observed in whole body mr imaging",0.16381181702421183,0.14992374406672537
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the esophagus",0.16393912576120367,0.14995843047184065
+"MR_TotalSeg(mri), esophagus segmentation in whole body mr",0.16413479416400836,0.15017188971928666
+"MR_TotalSeg(mri), esophagus delineation in whole body mr imaging",0.16381684345104858,0.15000133315167488
+"MR_TotalSeg(mri), mr-based identification of the esophagus in the whole body",0.16403725018742693,0.15010260032028072
+"MR_TotalSeg(mri), esophageal anatomy in whole body mr",0.16392770000662332,0.15001709728325757
+"MR_TotalSeg(mri), small bowel",0.30537543706883824,0.26913428679168616
+"MR_TotalSeg(mri), small bowel in whole body mr",0.2259198331085936,0.19201003391043794
+"MR_TotalSeg(mri), mr imaging of the small bowel in the whole body region",0.22712728198761875,0.19191904178517155
+"MR_TotalSeg(mri), whole body mr showing small bowel structures",0.2658221343250369,0.23069031713401736
+"MR_TotalSeg(mri), visualization of the small bowel in whole body mr scans",0.2271298030299587,0.19203965892715769
+"MR_TotalSeg(mri), small bowel observed in whole body mr imaging",0.2274653714453954,0.1921238976954134
+"MR_TotalSeg(mri), mr scan of the whole body depicting the small bowel",0.266603453075459,0.2306610534173643
+"MR_TotalSeg(mri), small bowel segmentation in whole body mr",0.22697705213498512,0.19228968796197246
+"MR_TotalSeg(mri), small bowel delineation in whole body mr imaging",0.22754530080734622,0.19212851975658646
+"MR_TotalSeg(mri), mr-based localization of the small bowel in the whole body",0.22740728589357165,0.1921414189922997
+"MR_TotalSeg(mri), small bowel anatomy in whole body mr",0.18896827243597986,0.15396640595349959
+"MR_TotalSeg(mri), duodenum",0.19628136767542645,0.17540094359949523
+"MR_TotalSeg(mri), duodenum in whole body mr",0.2727740433356426,0.2528317342377938
+"MR_TotalSeg(mri), mr imaging of the duodenum in the whole body region",0.2724490958972113,0.25192274967739775
+"MR_TotalSeg(mri), whole body mr showing duodenal structures",0.2724983440422278,0.2519701814731876
+"MR_TotalSeg(mri), visualization of the duodenum in whole body mr scans",0.27261280658167686,0.25198497227146477
+"MR_TotalSeg(mri), duodenum observed in whole body mr imaging",0.27262343062376343,0.2520492149627407
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the duodenum",0.27223612869355146,0.25211998537679936
+"MR_TotalSeg(mri), duodenum segmentation in whole body mr",0.2727851861413616,0.2521027228004091
+"MR_TotalSeg(mri), duodenum delineation in whole body mr imaging",0.27292076690465544,0.25231679011667146
+"MR_TotalSeg(mri), mr-based identification of the duodenum in the whole body",0.272418254534343,0.25260520758359256
+"MR_TotalSeg(mri), duodenal anatomy in whole body mr",0.2724630875247296,0.2524686146424329
+"MR_TotalSeg(mri), colon",0.09971011747790502,0.05292090864606553
+"MR_TotalSeg(mri), colon in whole body mr",0.10003827040137245,0.052990772063391166
+"MR_TotalSeg(mri), mr imaging of the colon in the whole body region",0.10184864916424835,0.053816205415885526
+"MR_TotalSeg(mri), whole body mr showing colonic structures",0.10245889388145296,0.054100079604642255
+"MR_TotalSeg(mri), visualization of the colon in whole body mr scans",0.10089215849866491,0.05341303487689265
+"MR_TotalSeg(mri), colon observed in whole body mr imaging",0.10054721135940269,0.05314346078484896
+"MR_TotalSeg(mri), mr scan of the whole body depicting the colon",0.10072597706309394,0.05321184176382547
+"MR_TotalSeg(mri), colon segmentation in whole body mr",0.10113026118365204,0.053661459760977324
+"MR_TotalSeg(mri), colon delineation in whole body mr imaging",0.10116130312738827,0.05344874400902945
+"MR_TotalSeg(mri), mr-based localization of the colon in the whole body",0.10144498646960277,0.05382669872295451
+"MR_TotalSeg(mri), colonic anatomy in whole body mr",0.10165534824553962,0.0538167867012798
+"MR_TotalSeg(mri), urinary bladder",0.19230769230769232,0.19252920128487655
+"MR_TotalSeg(mri), urinary bladder in whole body mr",0.3076923076923077,0.3079551686193192
+"MR_TotalSeg(mri), mr imaging of the urinary bladder in the whole body region",0.2692307692307692,0.26957444004565645
+"MR_TotalSeg(mri), whole body mr showing bladder structures",0.2692307692307692,0.2693620182915892
+"MR_TotalSeg(mri), visualization of the urinary bladder in whole body mr scans",0.3076923076923077,0.30801821523087713
+"MR_TotalSeg(mri), urinary bladder observed in whole body mr imaging",0.3076923076923077,0.30807251975150646
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the urinary bladder",0.3076923076923077,0.3080978927143278
+"MR_TotalSeg(mri), urinary bladder segmentation in whole body mr",0.2692307692307692,0.26952402505718165
+"MR_TotalSeg(mri), urinary bladder delineation in whole body mr imaging",0.23076923076923078,0.23120292886240873
+"MR_TotalSeg(mri), mr-based identification of the urinary bladder in the whole body",0.2692307692307692,0.2694689845362
+"MR_TotalSeg(mri), bladder anatomy in whole body mr",0.2692307692307692,0.2693581600370318
+"MR_TotalSeg(mri), prostate",0.11538461538461539,0.11538461538461539
+"MR_TotalSeg(mri), prostate in whole body mr",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), mr imaging of the prostate in the whole body region",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), whole body mr showing prostatic structures",0.11538461538461539,0.11538461538461539
+"MR_TotalSeg(mri), visualization of the prostate in whole body mr scans",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), prostate observed in whole body mr imaging",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), mr scan of the whole body depicting the prostate",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), prostate segmentation in whole body mr",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), prostate delineation in whole body mr imaging",0.19230769230769232,0.19230769230769232
+"MR_TotalSeg(mri), mr-based localization of the prostate in the whole body",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), prostatic anatomy in whole body mr",0.19230769230769232,0.19230769230769232
+"MR_TotalSeg(mri), sacrum",0.16313002342748745,0.16154968918512222
+"MR_TotalSeg(mri), sacrum in whole body mr",0.16224065572240007,0.16111554294419952
+"MR_TotalSeg(mri), mr imaging of the sacrum in the whole body region",0.2011674752548372,0.19987534835043977
+"MR_TotalSeg(mri), whole body mr showing sacral structures",0.16308517846573475,0.16144026129900385
+"MR_TotalSeg(mri), visualization of the sacrum in whole body mr scans",0.16295804980382542,0.1614609289085785
+"MR_TotalSeg(mri), sacrum observed in whole body mr imaging",0.12430875391709587,0.12293352356011339
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the sacrum",0.12416830401949155,0.12291853858211231
+"MR_TotalSeg(mri), sacrum segmentation in whole body mr",0.16265178907575872,0.16132642990798643
+"MR_TotalSeg(mri), sacrum delineation in whole body mr imaging",0.20115372164960246,0.1998490307573861
+"MR_TotalSeg(mri), mr-based identification of the sacrum in the whole body",0.1628881758985748,0.16142975591693326
+"MR_TotalSeg(mri), sacral anatomy in whole body mr",0.16303455948357942,0.16146686586272507
+"MR_TotalSeg(mri), vertebrae",0.1940060850675106,0.1355371152746481
+"MR_TotalSeg(mri), vertebrae in whole body mr",0.19541412624634433,0.13715983276422505
+"MR_TotalSeg(mri), mr imaging of the vertebrae in the whole body region",0.19528069008165655,0.13689892433314965
+"MR_TotalSeg(mri), whole body mr showing vertebral structures",0.19444143730650232,0.13547786053205377
+"MR_TotalSeg(mri), visualization of the vertebrae in whole body mr scans",0.1935239362045436,0.1366626336392827
+"MR_TotalSeg(mri), vertebrae observed in whole body mr imaging",0.1950398277541563,0.1367090682037829
+"MR_TotalSeg(mri), mr scan of the whole body depicting the vertebrae",0.19706613288467992,0.1371393388086469
+"MR_TotalSeg(mri), vertebrae segmentation in whole body mr",0.19384828257889616,0.13677516550810065
+"MR_TotalSeg(mri), vertebrae delineation in whole body mr imaging",0.1959550466971434,0.1367723599291215
+"MR_TotalSeg(mri), mr-based localization of the vertebrae in the whole body",0.1947057031551562,0.13685369839795464
+"MR_TotalSeg(mri), vertebral anatomy in whole body mr",0.19417883510516912,0.13492749991980924
+"MR_TotalSeg(mri), intervertebral discs",0.11003194921663279,0.10181009635992735
+"MR_TotalSeg(mri), intervertebral discs in whole body mr",0.10861009987795797,0.10008749787808664
+"MR_TotalSeg(mri), mr imaging of the intervertebral discs in the whole body region",0.1085418475102687,0.09970616194953268
+"MR_TotalSeg(mri), whole body mr showing disc structures",0.10921393466786802,0.0996853435458325
+"MR_TotalSeg(mri), visualization of the intervertebral discs in whole body mr scans",0.10895268927207785,0.09998190748191728
+"MR_TotalSeg(mri), intervertebral discs observed in whole body mr imaging",0.10920214229890811,0.10015280721548538
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the intervertebral discs",0.10779180671501883,0.09955901606995479
+"MR_TotalSeg(mri), intervertebral discs segmentation in whole body mr",0.10899729242896093,0.100050247107967
+"MR_TotalSeg(mri), intervertebral discs delineation in whole body mr imaging",0.10896612947266374,0.09957597796698361
+"MR_TotalSeg(mri), mr-based identification of the intervertebral discs in the whole body",0.1091273555749431,0.10062896292654205
+"MR_TotalSeg(mri), disc anatomy in whole body mr",0.11129951683663329,0.10170024030589211
+"MR_TotalSeg(mri), spinal cord",0.11796157658901535,0.08144373026854229
+"MR_TotalSeg(mri), spinal cord in whole body mr",0.11866278951846375,0.08304671461002332
+"MR_TotalSeg(mri), mr imaging of the spinal cord in the whole body region",0.1178611976562009,0.08211727655433652
+"MR_TotalSeg(mri), whole body mr showing spinal cord structures",0.11791014390774926,0.08212079601610872
+"MR_TotalSeg(mri), visualization of the spinal cord in whole body mr scans",0.11839927519630529,0.08263250693390686
+"MR_TotalSeg(mri), spinal cord observed in whole body mr imaging",0.1181897022844895,0.08243909079994277
+"MR_TotalSeg(mri), mr scan of the whole body depicting the spinal cord",0.11817031354300099,0.08238887182500984
+"MR_TotalSeg(mri), spinal cord segmentation in whole body mr",0.1192763457758149,0.08330485694455346
+"MR_TotalSeg(mri), spinal cord delineation in whole body mr imaging",0.11808115815006576,0.08229449196584336
+"MR_TotalSeg(mri), mr-based localization of the spinal cord in the whole body",0.11849946797502023,0.08263141447698576
+"MR_TotalSeg(mri), spinal cord anatomy in whole body mr",0.11890856573320743,0.08301206020859213
+"MR_TotalSeg(mri), heart",0.15356992833596717,0.06260355306345275
+"MR_TotalSeg(mri), heart in whole body mr",0.15292645704511137,0.062568217902531
+"MR_TotalSeg(mri), mr imaging of the heart in the whole body region",0.15323325612663305,0.06221147995170652
+"MR_TotalSeg(mri), whole body mr showing cardiac structures",0.15285645946471,0.062138602708652554
+"MR_TotalSeg(mri), visualization of the heart in whole body mr scans",0.15337246254502995,0.062408671312485446
+"MR_TotalSeg(mri), heart observed in whole body mr imaging",0.15318102331635777,0.062369480163839294
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the heart",0.1540268219641415,0.06202449026159898
+"MR_TotalSeg(mri), heart segmentation in whole body mr",0.15266515578958145,0.06260204011083266
+"MR_TotalSeg(mri), heart delineation in whole body mr imaging",0.15350782400576096,0.06244039974829973
+"MR_TotalSeg(mri), mr-based identification of the heart in the whole body",0.15386040470972234,0.0625989280378053
+"MR_TotalSeg(mri), aorta",0.3820493403348109,0.31506880802302706
+"MR_TotalSeg(mri), aorta in whole body mr",0.3430014213060646,0.27705556783357826
+"MR_TotalSeg(mri), mr imaging of the aorta in the whole body region",0.3815209869529852,0.3149697039100744
+"MR_TotalSeg(mri), whole body mr showing aortic structures",0.38135845100745097,0.31474746643321794
+"MR_TotalSeg(mri), visualization of the aorta in whole body mr scans",0.381223608736541,0.3149939326620072
+"MR_TotalSeg(mri), aorta observed in whole body mr imaging",0.38083000270290557,0.31378885328921985
+"MR_TotalSeg(mri), mr scan of the whole body depicting the aorta",0.3814205843542614,0.31497685595751
+"MR_TotalSeg(mri), aorta segmentation in whole body mr",0.3817555371165664,0.3161485912153183
+"MR_TotalSeg(mri), aorta delineation in whole body mr imaging",0.3812258528930918,0.3144515560025545
+"MR_TotalSeg(mri), mr-based localization of the aorta in the whole body",0.3440259290194143,0.27787834349303125
+"MR_TotalSeg(mri), aortic anatomy in whole body mr",0.3810656429075428,0.3142706470948158
+"MR_TotalSeg(mri), inferior vena cava",0.0800515967401064,0.06325116617851506
+"MR_TotalSeg(mri), inferior vena cava in whole body mr",0.07826695697020139,0.06068236691649602
+"MR_TotalSeg(mri), mr imaging of the inferior vena cava in the whole body region",0.07874937285229183,0.061045824554080655
+"MR_TotalSeg(mri), whole body mr showing ivc structures",0.08080297458010836,0.06387094648292135
+"MR_TotalSeg(mri), visualization of the inferior vena cava in whole body mr scans",0.07810080884692003,0.06071497672632689
+"MR_TotalSeg(mri), inferior vena cava observed in whole body mr imaging",0.07967499141081193,0.06193308239638599
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the inferior vena cava",0.07868866495723835,0.061236316368973344
+"MR_TotalSeg(mri), inferior vena cava segmentation in whole body mr",0.07798400794251602,0.06069516027578364
+"MR_TotalSeg(mri), inferior vena cava delineation in whole body mr imaging",0.07872729858714181,0.06119863730158904
+"MR_TotalSeg(mri), mr-based identification of the inferior vena cava in the whole body",0.07915718520459802,0.06155566165861866
+"MR_TotalSeg(mri), ivc anatomy in whole body mr",0.08119055783728814,0.06405093720250843
+"MR_TotalSeg(mri), portal vein and splenic vein",0.21530307732295903,0.2139700895954468
+"MR_TotalSeg(mri), portal vein and splenic vein in whole body mr",0.2153013512642636,0.21394766549925628
+"MR_TotalSeg(mri), mr imaging of the portal vein and splenic vein in the whole body region",0.176176575862934,0.17459581336995667
+"MR_TotalSeg(mri), whole body mr showing portal and splenic venous structures",0.21645691208713785,0.21487693377173753
+"MR_TotalSeg(mri), visualization of the portal vein and splenic vein in whole body mr scans",0.1758698522472362,0.17442683180565813
+"MR_TotalSeg(mri), portal vein and splenic vein observed in whole body mr imaging",0.21403744863213128,0.2126200684599988
+"MR_TotalSeg(mri), mr scan of the whole body depicting the portal vein and splenic vein",0.21470545233237753,0.2131258245956748
+"MR_TotalSeg(mri), portal vein and splenic vein segmentation in whole body mr",0.21425193014921337,0.2125338108263706
+"MR_TotalSeg(mri), portal vein and splenic vein delineation in whole body mr imaging",0.21348450292266088,0.21161631401020517
+"MR_TotalSeg(mri), mr-based localization of the portal vein and splenic vein in the whole body",0.21471072589624104,0.21319157020111687
+"MR_TotalSeg(mri), portal and splenic venous anatomy in whole body mr",0.21539395498649896,0.21405886927909193
+"MR_TotalSeg(mri), left iliac artery",0.038461538461538464,0.038461538461538464
+"MR_TotalSeg(mri), left iliac artery in whole body mr",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), mr imaging of the left iliac artery in the whole body region",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), whole body mr showing left iliac arterial structures",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), visualization of the left iliac artery in whole body mr scans",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), left iliac artery observed in whole body mr imaging",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the left iliac artery",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), left iliac artery segmentation in whole body mr",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), left iliac artery delineation in whole body mr imaging",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), mr-based identification of the left iliac artery in the whole body",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), left iliac arterial anatomy in whole body mr",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), right iliac artery",0.12983231907534695,0.1274125848989953
+"MR_TotalSeg(mri), right iliac artery in whole body mr",0.1295764224456924,0.12737941341935216
+"MR_TotalSeg(mri), mr imaging of the right iliac artery in the whole body region",0.1293980682994136,0.12720259105629128
+"MR_TotalSeg(mri), whole body mr showing right iliac arterial structures",0.1295557963163597,0.12719615864075243
+"MR_TotalSeg(mri), visualization of the right iliac artery in whole body mr scans",0.12959723619189226,0.1274057325822605
+"MR_TotalSeg(mri), right iliac artery observed in whole body mr imaging",0.12924424972617743,0.12709250136848038
+"MR_TotalSeg(mri), mr scan of the whole body depicting the right iliac artery",0.12945276200309758,0.1271961598261077
+"MR_TotalSeg(mri), right iliac artery segmentation in whole body mr",0.12952042320700718,0.12727108126127032
+"MR_TotalSeg(mri), right iliac artery delineation in whole body mr imaging",0.12950721153846154,0.12727170828034612
+"MR_TotalSeg(mri), mr-based localization of the right iliac artery in the whole body",0.12944858931481004,0.12716961258417803
+"MR_TotalSeg(mri), right iliac arterial anatomy in whole body mr",0.12962319847195694,0.12737691722192052
+"MR_TotalSeg(mri), left iliac vena",0.07956812714482792,0.07857287077785145
+"MR_TotalSeg(mri), left iliac vena in whole body mr",0.04110105580693816,0.040112019368756927
+"MR_TotalSeg(mri), mr imaging of the left iliac vena in the whole body region",0.041116039622164514,0.04014353956686294
+"MR_TotalSeg(mri), whole body mr showing left iliac venous structures",0.04109012289485662,0.04011156247212053
+"MR_TotalSeg(mri), visualization of the left iliac vena in whole body mr scans",0.04108391608391608,0.040121034960811326
+"MR_TotalSeg(mri), left iliac vena observed in whole body mr imaging",0.0410728714123447,0.04011297771922709
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the left iliac vena",0.04110212976949598,0.040101053257995324
+"MR_TotalSeg(mri), left iliac vena segmentation in whole body mr",0.04122207073723113,0.040244296286099386
+"MR_TotalSeg(mri), left iliac vena delineation in whole body mr imaging",0.041116425972123685,0.04011468835595719
+"MR_TotalSeg(mri), mr-based identification of the left iliac vena in the whole body",0.04112999179826031,0.0401360331326543
+"MR_TotalSeg(mri), left iliac venous anatomy in whole body mr",0.04110850250886157,0.04009846158552883
+"MR_TotalSeg(mri), right iliac vena",0.19927778585623576,0.1981473794801275
+"MR_TotalSeg(mri), right iliac vena in whole body mr",0.23760600739716817,0.2363404745323223
+"MR_TotalSeg(mri), mr imaging of the right iliac vena in the whole body region",0.2762110678272539,0.2749127142940881
+"MR_TotalSeg(mri), whole body mr showing right iliac venous structures",0.23755212165808193,0.23642493458206978
+"MR_TotalSeg(mri), visualization of the right iliac vena in whole body mr scans",0.27618474232962764,0.27490906711785823
+"MR_TotalSeg(mri), right iliac vena observed in whole body mr imaging",0.27612771136627384,0.2749205190358209
+"MR_TotalSeg(mri), mr scan of the whole body depicting the right iliac vena",0.2761598469789596,0.2748861067996933
+"MR_TotalSeg(mri), right iliac vena segmentation in whole body mr",0.2375995899920794,0.23633018010714762
+"MR_TotalSeg(mri), right iliac vena delineation in whole body mr imaging",0.2377003302300416,0.2364034574444915
+"MR_TotalSeg(mri), mr-based localization of the right iliac vena in the whole body",0.27623896557165534,0.2748875666638563
+"MR_TotalSeg(mri), right iliac venous anatomy in whole body mr",0.23748451572643364,0.23634054782863204
+"MR_TotalSeg(mri), left humerus",0.19230769230769232,0.19230769230769232
+"MR_TotalSeg(mri), left humerus in whole body mr",0.15384615384615385,0.15384615384615385
+"MR_TotalSeg(mri), mr imaging of the left humerus in the whole body region",0.15384615384615385,0.15384615384615385
+"MR_TotalSeg(mri), whole body mr showing left humeral structures",0.11538461538461539,0.11538461538461539
+"MR_TotalSeg(mri), visualization of the left humerus in whole body mr scans",0.11538461538461539,0.11538461538461539
+"MR_TotalSeg(mri), left humerus observed in whole body mr imaging",0.11538461538461539,0.11538461538461539
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the left humerus",0.11538461538461539,0.11538461538461539
+"MR_TotalSeg(mri), left humerus segmentation in whole body mr",0.11538461538461539,0.11538461538461539
+"MR_TotalSeg(mri), left humerus delineation in whole body mr imaging",0.11538461538461539,0.11538461538461539
+"MR_TotalSeg(mri), mr-based identification of the left humerus in the whole body",0.15384615384615385,0.15384615384615385
+"MR_TotalSeg(mri), left humeral anatomy in whole body mr",0.11538461538461539,0.11538461538461539
+"MR_TotalSeg(mri), right humerus",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), right humerus in whole body mr",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), mr imaging of the right humerus in the whole body region",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), whole body mr showing right humeral structures",0.3076923076923077,0.3076923076923077
+"MR_TotalSeg(mri), visualization of the right humerus in whole body mr scans",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), right humerus observed in whole body mr imaging",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), mr scan of the whole body depicting the right humerus",0.19230769230769232,0.19230769230769232
+"MR_TotalSeg(mri), right humerus segmentation in whole body mr",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), right humerus delineation in whole body mr imaging",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), mr-based localization of the right humerus in the whole body",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), right humeral anatomy in whole body mr",0.3076923076923077,0.3076923076923077
+"MR_TotalSeg(mri), left scapula",0.5,0.50000280167337
+"MR_TotalSeg(mri), left scapula in whole body mr",0.46153846153846156,0.4615410554805455
+"MR_TotalSeg(mri), mr imaging of the left scapula in the whole body region",0.5,0.5000025349342662
+"MR_TotalSeg(mri), whole body mr showing left scapular structures",0.34615384615384615,0.34615630897929744
+"MR_TotalSeg(mri), visualization of the left scapula in whole body mr scans",0.5384615384615384,0.538464115309567
+"MR_TotalSeg(mri), left scapula observed in whole body mr imaging",0.5384615384615384,0.5384641807402674
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the left scapula",0.5,0.5000025990022178
+"MR_TotalSeg(mri), left scapula segmentation in whole body mr",0.46153846153846156,0.46154102541257463
+"MR_TotalSeg(mri), left scapula delineation in whole body mr imaging",0.5384615384615384,0.5384641154015287
+"MR_TotalSeg(mri), mr-based identification of the left scapula in the whole body",0.5,0.5000025809982317
+"MR_TotalSeg(mri), left scapular anatomy in whole body mr",0.46153846153846156,0.46154102000215247
+"MR_TotalSeg(mri), right scapula",0.2722249532358255,0.2742406417611262
+"MR_TotalSeg(mri), right scapula in whole body mr",0.38733199446278016,0.3890307353783593
+"MR_TotalSeg(mri), mr imaging of the right scapula in the whole body region",0.23340045478530205,0.23517175335530863
+"MR_TotalSeg(mri), whole body mr showing right scapular structures",0.195027337254278,0.19654455142445737
+"MR_TotalSeg(mri), visualization of the right scapula in whole body mr scans",0.23361292882996595,0.23534113714804977
+"MR_TotalSeg(mri), right scapula observed in whole body mr imaging",0.2719258655095376,0.27385923666159295
+"MR_TotalSeg(mri), mr scan of the whole body depicting the right scapula",0.2334966265199992,0.23522151183552875
+"MR_TotalSeg(mri), right scapula segmentation in whole body mr",0.2719754102107043,0.27369483840388603
+"MR_TotalSeg(mri), right scapula delineation in whole body mr imaging",0.233308322127818,0.23512611025096822
+"MR_TotalSeg(mri), mr-based localization of the right scapula in the whole body",0.2717427271973393,0.2735286625819158
+"MR_TotalSeg(mri), right scapular anatomy in whole body mr",0.23331240188383043,0.23495345450577876
+"MR_TotalSeg(mri), left clavicula",0.0,0.0
+"MR_TotalSeg(mri), left clavicula in whole body mr",0.0,0.0
+"MR_TotalSeg(mri), mr imaging of the left clavicula in the whole body region",0.038461538461538464,0.038461538461538464
+"MR_TotalSeg(mri), whole body mr showing left clavicular structures",0.07692307692307693,0.07692307692307693
+"MR_TotalSeg(mri), visualization of the left clavicula in whole body mr scans",0.038461538461538464,0.038461538461538464
+"MR_TotalSeg(mri), left clavicula observed in whole body mr imaging",0.038461538461538464,0.038461538461538464
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the left clavicula",0.038461538461538464,0.038461538461538464
+"MR_TotalSeg(mri), left clavicula segmentation in whole body mr",0.0,0.0
+"MR_TotalSeg(mri), left clavicula delineation in whole body mr imaging",0.038461538461538464,0.038461538461538464
+"MR_TotalSeg(mri), mr-based identification of the left clavicula in the whole body",0.038461538461538464,0.038461538461538464
+"MR_TotalSeg(mri), left clavicular anatomy in whole body mr",0.0,0.0
+"MR_TotalSeg(mri), right clavicula",0.014416145999458639,0.012738529521152973
+"MR_TotalSeg(mri), right clavicula in whole body mr",0.015246419467141246,0.013002721616680955
+"MR_TotalSeg(mri), mr imaging of the right clavicula in the whole body region",0.015288742462809464,0.0129299788085278
+"MR_TotalSeg(mri), whole body mr showing right clavicular structures",0.014803290984242169,0.012255702402007225
+"MR_TotalSeg(mri), visualization of the right clavicula in whole body mr scans",0.015095576805099351,0.01261074168666837
+"MR_TotalSeg(mri), right clavicula observed in whole body mr imaging",0.01520034086734179,0.01298034817447108
+"MR_TotalSeg(mri), mr scan of the whole body depicting the right clavicula",0.015033938094763586,0.012786877662418051
+"MR_TotalSeg(mri), right clavicula segmentation in whole body mr",0.015160823112237496,0.012976852071836381
+"MR_TotalSeg(mri), right clavicula delineation in whole body mr imaging",0.015077817511195087,0.012705037246619902
+"MR_TotalSeg(mri), mr-based localization of the right clavicula in the whole body",0.015119990895813768,0.013144514880300644
+"MR_TotalSeg(mri), right clavicular anatomy in whole body mr",0.014741089689017809,0.0126170420976272
+"MR_TotalSeg(mri), left femur",0.15931976963859895,0.15851451416835768
+"MR_TotalSeg(mri), left femur in whole body mr",0.15917911502885812,0.15850693521038048
+"MR_TotalSeg(mri), mr imaging of the left femur in the whole body region",0.15925787072972467,0.15851437057372023
+"MR_TotalSeg(mri), whole body mr showing left femoral structures",0.23638130331087528,0.23558126482193964
+"MR_TotalSeg(mri), visualization of the left femur in whole body mr scans",0.15923272139441533,0.1585069898667333
+"MR_TotalSeg(mri), left femur observed in whole body mr imaging",0.1978305796872156,0.19704670649846412
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the left femur",0.19770903435452192,0.1969882978158779
+"MR_TotalSeg(mri), left femur segmentation in whole body mr",0.15910063220174253,0.1584409003804142
+"MR_TotalSeg(mri), left femur delineation in whole body mr imaging",0.19777811255574335,0.1970379684587304
+"MR_TotalSeg(mri), mr-based identification of the left femur in the whole body",0.19770825604829786,0.19694476915929932
+"MR_TotalSeg(mri), left femoral anatomy in whole body mr",0.1594483157850582,0.15865430912644857
+"MR_TotalSeg(mri), right femur",0.16585179418244259,0.1615396262262463
+"MR_TotalSeg(mri), right femur in whole body mr",0.16536252386515954,0.16115711114943324
+"MR_TotalSeg(mri), mr imaging of the right femur in the whole body region",0.16582580405790223,0.16152222126372898
+"MR_TotalSeg(mri), whole body mr showing right femoral structures",0.1661757185100317,0.16165952881092643
+"MR_TotalSeg(mri), visualization of the right femur in whole body mr scans",0.16552080630832633,0.16133858683903923
+"MR_TotalSeg(mri), right femur observed in whole body mr imaging",0.16573787763472628,0.1614542865818043
+"MR_TotalSeg(mri), mr scan of the whole body depicting the right femur",0.16526288123105595,0.16122702160783015
+"MR_TotalSeg(mri), right femur segmentation in whole body mr",0.16551189701472055,0.1611863999290914
+"MR_TotalSeg(mri), right femur delineation in whole body mr imaging",0.12718019730774308,0.12294734745002393
+"MR_TotalSeg(mri), mr-based localization of the right femur in the whole body",0.16586448741509943,0.16147903958582577
+"MR_TotalSeg(mri), right femoral anatomy in whole body mr",0.16642381643506857,0.1618048009301066
+"MR_TotalSeg(mri), left hip",0.43504046330048973,0.4285141949611991
+"MR_TotalSeg(mri), left hip in whole body mr",0.47290662939505435,0.46674222015700256
+"MR_TotalSeg(mri), mr imaging of the left hip in the whole body region",0.47327112895081114,0.46681528356938884
+"MR_TotalSeg(mri), whole body mr showing left hip structures",0.5102041238149015,0.5046508162121602
+"MR_TotalSeg(mri), visualization of the left hip in whole body mr scans",0.47335512441901706,0.46691780834206226
+"MR_TotalSeg(mri), left hip observed in whole body mr imaging",0.5109877081646867,0.5050089801789142
+"MR_TotalSeg(mri), mr scan of the whole body depicting the left hip",0.4348666185681669,0.42839202699555295
+"MR_TotalSeg(mri), left hip segmentation in whole body mr",0.5111917885810272,0.5051650254538861
+"MR_TotalSeg(mri), left hip delineation in whole body mr imaging",0.5503099172185866,0.5438981402467051
+"MR_TotalSeg(mri), mr-based localization of the left hip in the whole body",0.4361838800976207,0.42928753827694077
+"MR_TotalSeg(mri), left hip anatomy in whole body mr",0.4720227141727815,0.46624270030335563
+"MR_TotalSeg(mri), right hip",0.40112524579319114,0.39396895754280936
+"MR_TotalSeg(mri), right hip in whole body mr",0.554070067620091,0.548207543253649
+"MR_TotalSeg(mri), mr imaging of the right hip in the whole body region",0.5905692474104245,0.5860037020262664
+"MR_TotalSeg(mri), whole body mr showing right hip structures",0.5924845218543229,0.5865365546300543
+"MR_TotalSeg(mri), visualization of the right hip in whole body mr scans",0.5530389955405214,0.5482152054335828
+"MR_TotalSeg(mri), right hip observed in whole body mr imaging",0.5528924882118015,0.5478577938927688
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the right hip",0.5540417718243043,0.5483035922369555
+"MR_TotalSeg(mri), right hip segmentation in whole body mr",0.5547491018420186,0.5487308624215135
+"MR_TotalSeg(mri), right hip delineation in whole body mr imaging",0.5927989211883882,0.5868330990460667
+"MR_TotalSeg(mri), mr-based identification of the right hip in the whole body",0.5529270334739057,0.5481076129158631
+"MR_TotalSeg(mri), right hip anatomy in whole body mr",0.5560740751371954,0.5489810453210924
+"MR_TotalSeg(mri), left gluteus maximus",0.34617437286936636,0.3463715722887496
+"MR_TotalSeg(mri), left gluteus maximus in whole body mr",0.3461696443664364,0.3463376577790861
+"MR_TotalSeg(mri), mr imaging of the left gluteus maximus in the whole body region",0.3077096846555096,0.3079107063520369
+"MR_TotalSeg(mri), whole body mr showing left gluteus maximus structures",0.26924656322652385,0.26941450857177157
+"MR_TotalSeg(mri), visualization of the left gluteus maximus in whole body mr scans",0.34619014253430797,0.34641910839804535
+"MR_TotalSeg(mri), left gluteus maximus observed in whole body mr imaging",0.34617910513736155,0.3463908504867301
+"MR_TotalSeg(mri), mr scan of the whole body depicting the left gluteus maximus",0.34617594821802106,0.3463834657166409
+"MR_TotalSeg(mri), left gluteus maximus segmentation in whole body mr",0.34617279544711643,0.34637170957487534
+"MR_TotalSeg(mri), left gluteus maximus delineation in whole body mr imaging",0.3461869904071061,0.346396686829907
+"MR_TotalSeg(mri), mr-based localization of the left gluteus maximus in the whole body",0.3077191415073343,0.3079290368688057
+"MR_TotalSeg(mri), left gluteus maximus anatomy in whole body mr",0.30771914371003206,0.30792907753210574
+"MR_TotalSeg(mri), right gluteus maximus",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), right gluteus maximus in whole body mr",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), mr imaging of the right gluteus maximus in the whole body region",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), whole body mr showing right gluteus maximus structures",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), visualization of the right gluteus maximus in whole body mr scans",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), right gluteus maximus observed in whole body mr imaging",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the right gluteus maximus",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), right gluteus maximus segmentation in whole body mr",0.38461538461538464,0.38461538461538464
+"MR_TotalSeg(mri), right gluteus maximus delineation in whole body mr imaging",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), mr-based identification of the right gluteus maximus in the whole body",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), right gluteus maximus anatomy in whole body mr",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), left gluteus medius",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), left gluteus medius in whole body mr",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), mr imaging of the left gluteus medius in the whole body region",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), whole body mr showing left gluteus medius structures",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), visualization of the left gluteus medius in whole body mr scans",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), left gluteus medius observed in whole body mr imaging",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), mr scan of the whole body depicting the left gluteus medius",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), left gluteus medius segmentation in whole body mr",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), left gluteus medius delineation in whole body mr imaging",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), mr-based localization of the left gluteus medius in the whole body",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), left gluteus medius anatomy in whole body mr",0.4230769230769231,0.4230769230769231
+"MR_TotalSeg(mri), right gluteus medius",0.5,0.5
+"MR_TotalSeg(mri), right gluteus medius in whole body mr",0.5384615384615384,0.5384615384615384
+"MR_TotalSeg(mri), mr imaging of the right gluteus medius in the whole body region",0.5769230769230769,0.5769230769230769
+"MR_TotalSeg(mri), whole body mr showing right gluteus medius structures",0.5384615384615384,0.5384615384615384
+"MR_TotalSeg(mri), visualization of the right gluteus medius in whole body mr scans",0.5384615384615384,0.5384615384615384
+"MR_TotalSeg(mri), right gluteus medius observed in whole body mr imaging",0.5769230769230769,0.5769230769230769
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the right gluteus medius",0.5384615384615384,0.5384615384615384
+"MR_TotalSeg(mri), right gluteus medius segmentation in whole body mr",0.5384615384615384,0.5384615384615384
+"MR_TotalSeg(mri), right gluteus medius delineation in whole body mr imaging",0.5384615384615384,0.5384615384615384
+"MR_TotalSeg(mri), mr-based identification of the right gluteus medius in the whole body",0.5384615384615384,0.5384615384615384
+"MR_TotalSeg(mri), right gluteus medius anatomy in whole body mr",0.5384615384615384,0.5384615384615384
+"MR_TotalSeg(mri), left gluteus minimus",0.051608766969933294,0.023992847129839658
+"MR_TotalSeg(mri), left gluteus minimus in whole body mr",0.05226718676217831,0.02421894998991733
+"MR_TotalSeg(mri), mr imaging of the left gluteus minimus in the whole body region",0.05257374879724071,0.0242250217896713
+"MR_TotalSeg(mri), whole body mr showing left gluteus minimus structures",0.05258508677718117,0.02426240440882745
+"MR_TotalSeg(mri), visualization of the left gluteus minimus in whole body mr scans",0.05255058647707403,0.024088567659701892
+"MR_TotalSeg(mri), left gluteus minimus observed in whole body mr imaging",0.0524684040919453,0.024016600179058767
+"MR_TotalSeg(mri), mr scan of the whole body depicting the left gluteus minimus",0.05231691388745407,0.02409152716199871
+"MR_TotalSeg(mri), left gluteus minimus segmentation in whole body mr",0.05251270012881147,0.02415203712855526
+"MR_TotalSeg(mri), left gluteus minimus delineation in whole body mr imaging",0.052459802600077626,0.024004630444992438
+"MR_TotalSeg(mri), mr-based localization of the left gluteus minimus in the whole body",0.05217887326808525,0.024084613410238112
+"MR_TotalSeg(mri), left gluteus minimus anatomy in whole body mr",0.052519566320650815,0.024295238699227825
+"MR_TotalSeg(mri), right gluteus minimus",0.1092183234807025,0.07503621178164949
+"MR_TotalSeg(mri), right gluteus minimus in whole body mr",0.07125025452034452,0.036789609902620354
+"MR_TotalSeg(mri), mr imaging of the right gluteus minimus in the whole body region",0.07018026497938225,0.03645647591832307
+"MR_TotalSeg(mri), whole body mr showing right gluteus minimus structures",0.07001254439119019,0.03654001128318695
+"MR_TotalSeg(mri), visualization of the right gluteus minimus in whole body mr scans",0.07083114060408832,0.03678988060809935
+"MR_TotalSeg(mri), right gluteus minimus observed in whole body mr imaging",0.07047456377357265,0.036424065664767025
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the right gluteus minimus",0.10973088181353546,0.07535017213521597
+"MR_TotalSeg(mri), right gluteus minimus segmentation in whole body mr",0.07048099764910722,0.03657911425907469
+"MR_TotalSeg(mri), right gluteus minimus delineation in whole body mr imaging",0.109426591781791,0.07526302611662904
+"MR_TotalSeg(mri), mr-based identification of the right gluteus minimus in the whole body",0.10951649455283514,0.07545906046072737
+"MR_TotalSeg(mri), right gluteus minimus anatomy in whole body mr",0.0701549495139346,0.03632623270344774
+"MR_TotalSeg(mri), left autochthon",0.13229715027949068,0.09110617502173834
+"MR_TotalSeg(mri), left autochthon in whole body mr",0.2062383264217084,0.1665576033209657
+"MR_TotalSeg(mri), mr imaging of the left autochthon in the whole body region",0.20731760787042428,0.1670004578837008
+"MR_TotalSeg(mri), whole body mr showing left autochthon structures",0.2066588333955871,0.16683046364530874
+"MR_TotalSeg(mri), visualization of the left autochthon in whole body mr scans",0.20658686615458868,0.16667430929900762
+"MR_TotalSeg(mri), left autochthon observed in whole body mr imaging",0.20713144717725207,0.16698882126428097
+"MR_TotalSeg(mri), mr scan of the whole body depicting the left autochthon",0.20657577706598668,0.16687502877895694
+"MR_TotalSeg(mri), left autochthon segmentation in whole body mr",0.2061692476507592,0.16671007179134145
+"MR_TotalSeg(mri), left autochthon delineation in whole body mr imaging",0.20683361809160028,0.16677442092518968
+"MR_TotalSeg(mri), mr-based localization of the left autochthon in the whole body",0.20709869939526035,0.1671756215425377
+"MR_TotalSeg(mri), left autochthon anatomy in whole body mr",0.2051679170527214,0.16641136997095943
+"MR_TotalSeg(mri), right autochthon",0.22540354862031625,0.17886140737229317
+"MR_TotalSeg(mri), right autochthon in whole body mr",0.22694413250668904,0.17987866219998935
+"MR_TotalSeg(mri), mr imaging of the right autochthon in the whole body region",0.18857667641854625,0.141342421161786
+"MR_TotalSeg(mri), whole body mr showing right autochthon structures",0.1877029915231661,0.14049769325129047
+"MR_TotalSeg(mri), visualization of the right autochthon in whole body mr scans",0.1500545788332604,0.10263214969796407
+"MR_TotalSeg(mri), right autochthon observed in whole body mr imaging",0.18800597018739543,0.14113295384581054
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the right autochthon",0.18852693214096733,0.14119228432506165
+"MR_TotalSeg(mri), right autochthon segmentation in whole body mr",0.18856270735575234,0.14159390520546603
+"MR_TotalSeg(mri), right autochthon delineation in whole body mr imaging",0.14977437392533186,0.1028558290539762
+"MR_TotalSeg(mri), mr-based identification of the right autochthon in the whole body",0.1501796069485897,0.10294803967461566
+"MR_TotalSeg(mri), right autochthon anatomy in whole body mr",0.1878585188558733,0.14119500728374001
+"MR_TotalSeg(mri), left iliopsoas",0.03846748017166449,0.038488390334626116
+"MR_TotalSeg(mri), left iliopsoas in whole body mr",0.076928987263217,0.07694969896255445
+"MR_TotalSeg(mri), mr imaging of the left iliopsoas in the whole body region",0.07692818763820226,0.07694693358628785
+"MR_TotalSeg(mri), whole body mr showing left iliopsoas structures",0.07692980479091469,0.0769507488007791
+"MR_TotalSeg(mri), visualization of the left iliopsoas in whole body mr scans",0.07692817454248865,0.07694682958893638
+"MR_TotalSeg(mri), left iliopsoas observed in whole body mr imaging",0.07692907763116048,0.07695032462586983
+"MR_TotalSeg(mri), mr scan of the whole body depicting the left iliopsoas",0.07692901470194045,0.07694989374796979
+"MR_TotalSeg(mri), left iliopsoas segmentation in whole body mr",0.07692817854309636,0.07694686241104426
+"MR_TotalSeg(mri), left iliopsoas delineation in whole body mr imaging",0.07692820319161478,0.07694705986622655
+"MR_TotalSeg(mri), mr-based localization of the left iliopsoas in the whole body",0.07692903388318911,0.07695002679504194
+"MR_TotalSeg(mri), left iliopsoas anatomy in whole body mr",0.07692900874944389,0.07694986235365915
+"MR_TotalSeg(mri), right iliopsoas",0.0,0.0
+"MR_TotalSeg(mri), right iliopsoas in whole body mr",0.0,0.0
+"MR_TotalSeg(mri), mr imaging of the right iliopsoas in the whole body region",0.0,0.0
+"MR_TotalSeg(mri), whole body mr showing right iliopsoas structures",0.0,0.0
+"MR_TotalSeg(mri), visualization of the right iliopsoas in whole body mr scans",0.0,0.0
+"MR_TotalSeg(mri), right iliopsoas observed in whole body mr imaging",0.0,0.0
+"MR_TotalSeg(mri), mr scan of the whole body highlighting the right iliopsoas",0.0,0.0
+"MR_TotalSeg(mri), right iliopsoas segmentation in whole body mr",0.0,0.0
+"MR_TotalSeg(mri), right iliopsoas delineation in whole body mr imaging",0.0,0.0
+"MR_TotalSeg(mri), mr-based identification of the right iliopsoas in the whole body",0.0,0.0
+"MR_TotalSeg(mri), right iliopsoas anatomy in whole body mr",0.0,0.0
+"MR_TotalSeg(mri), brain",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), brain in whole body mr",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), mr imaging of the brain in the whole body region",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), whole body mr showing brain structures",0.3076923076923077,0.3076923076923077
+"MR_TotalSeg(mri), visualization of the brain in whole body mr scans",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), brain observed in whole body mr imaging",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), mr scan of the whole body depicting the brain",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), brain segmentation in whole body mr",0.34615384615384615,0.34615384615384615
+"MR_TotalSeg(mri), brain delineation in whole body mr imaging",0.2692307692307692,0.2692307692307692
+"MR_TotalSeg(mri), mr-based localization of the brain in the whole body",0.23076923076923078,0.23076923076923078
+"MR_TotalSeg(mri), brain anatomy in whole body mr",0.23076923076923078,0.23076923076923078
+MR_T1c_crossMoDA_Tumor_Cochlea(mri),0.4255445482382515,0.48058838951218946
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), intra-meatal region of vestibular schwannoma",0.751405445213447,0.7051331201640483
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), intra-meatal region of vestibular schwannoma in brain mr",0.7480771343379616,0.7025664021137312
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), mr imaging of intra-meatal region of vestibular schwannoma in brain",0.74842047156068,0.7018502334444919
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), visualization of intra-meatal region of vestibular schwannoma in brain mr",0.7477747756813696,0.7016107014219473
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), intra-meatal region of vestibular schwannoma observed in brain mr",0.7481492290993498,0.7027695654796031
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), segmentation of intra-meatal region of vestibular schwannoma in brain mr",0.7485692226655164,0.7027553546724181
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), delineation of intra-meatal region of vestibular schwannoma in brain mr imaging",0.7481533440401917,0.7020656264527325
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), identification of intra-meatal region of vestibular schwannoma in brain mr",0.7479310847502993,0.7021951374676014
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), localization of intra-meatal region of vestibular schwannoma in brain mr",0.7483437213774383,0.7025633974463873
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), characterization of intra-meatal region of vestibular schwannoma in brain mr",0.747811562659932,0.7020399832723636
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), extra-meatal region of vestibular schwannoma",0.5304945434364036,0.599493949935429
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), extra-meatal region of vestibular schwannoma in brain mr",0.5286899453218908,0.5975671853726863
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), mr imaging of extra-meatal region of vestibular schwannoma in brain",0.5295649477973244,0.5986685527290402
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), visualization of extra-meatal region of vestibular schwannoma in brain mr",0.5294967480904776,0.5979931106375455
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), extra-meatal region of vestibular schwannoma observed in brain mr",0.5294342843380041,0.5983324226406221
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), segmentation of extra-meatal region of vestibular schwannoma in brain mr",0.5291495560397506,0.5982229216304709
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), delineation of extra-meatal region of vestibular schwannoma in brain mr imaging",0.5306419050727251,0.5993041677579238
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), identification of extra-meatal region of vestibular schwannoma in brain mr",0.5304300047652118,0.5991569501557464
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), localization of extra-meatal region of vestibular schwannoma in brain mr",0.5298220775105233,0.5985665092468229
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), characterization of extra-meatal region of vestibular schwannoma in brain mr",0.529827258978799,0.59862221867762
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), right cochlea",0.24640684506593072,0.37574266650711086
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), right cochlea in brain mr",0.24663660207219393,0.3760126035072361
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), mr imaging of right cochlea in brain",0.24386370861367104,0.37322712065927477
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), visualization of right cochlea in brain mr",0.24537022413962653,0.3750511135109616
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), right cochlea observed in brain mr",0.24635702552616223,0.37681812995625896
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), segmentation of right cochlea in brain mr",0.24713203354827334,0.3764991840389502
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), delineation of right cochlea in brain mr imaging",0.2451420001434908,0.3742218923225918
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), identification of right cochlea in brain mr",0.2464921625722317,0.3747830979625438
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), localization of right cochlea in brain mr",0.24486356801033632,0.3742651535289262
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), left cochlea",0.1292938601585389,0.20561471979796872
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), left cochlea in brain mr",0.1299832002829907,0.2067020629421081
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), mr imaging of left cochlea in brain",0.13092982148699492,0.20909202775845623
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), visualization of left cochlea in brain mr",0.13095984552675494,0.208991242322646
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), left cochlea observed in brain mr",0.13087515106992004,0.20819687112550492
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), segmentation of left cochlea in brain mr",0.13075899380223927,0.20823545120289566
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), delineation of left cochlea in brain mr imaging",0.13071530698537934,0.2086461899036587
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), identification of left cochlea in brain mr",0.1311582318717831,0.2091665008262752
+"MR_T1c_crossMoDA_Tumor_Cochlea(mri), localization of left cochlea in brain mr",0.1315669894397455,0.2096152628706025
+MR_AMOS(mri),0.3323096892868842,0.26002412446039347
+"MR_AMOS(mri), spleen",0.4709284454313847,0.2650567048122187
+"MR_AMOS(mri), splenic structure identified via abdominal magnetic resonance",0.48129956826607545,0.27757655051149865
+"MR_AMOS(mri), spleen visualized in multiplanar abdominal mri scans",0.4763908814493112,0.2717075207187461
+"MR_AMOS(mri), splenic parenchyma characterized by abdominal mri",0.48120836081723845,0.2779594481681629
+"MR_AMOS(mri), spleen mapped through volumetric mr imaging of the abdomen",0.47635319608524823,0.27173283199993475
+"MR_AMOS(mri), splenic morphology documented in abdominal mr studies",0.4825265168564188,0.27706505846547125
+"MR_AMOS(mri), spleen demonstrating signal intensity on abdominal magnetic resonance",0.4808292116730748,0.2770987187775114
+"MR_AMOS(mri), intra-abdominal splenic architecture assessed with contrast-enhanced mri",0.48277981267567704,0.2794049704035401
+"MR_AMOS(mri), splenic volume quantified in abdominal mr volumetry",0.47333702835972646,0.26893274390902583
+"MR_AMOS(mri), right kidney",0.661951524247144,0.5291370627261788
+"MR_AMOS(mri), right renal structure identified via abdominal magnetic resonance",0.6621606054147369,0.5263630273757801
+"MR_AMOS(mri), right kidney visualized in abdominal mri scans",0.6543451575316251,0.5111153641993953
+"MR_AMOS(mri), right kidney mapped through mr volumetry of the abdomen",0.6526479503607016,0.5117394282552827
+"MR_AMOS(mri), right renal morphology documented in abdominal mr protocols",0.6584195928603215,0.5204966503542671
+"MR_AMOS(mri), right renal parenchyma assessed with functional mr sequences",0.6618187526349458,0.529833809068633
+"MR_AMOS(mri), right nephric architecture localized in abdominal mr tomography",0.6578421973852365,0.525460394834533
+"MR_AMOS(mri), left renal structure identified via abdominal magnetic resonance",0.5090908595684572,0.39785945956116037
+"MR_AMOS(mri), left kidney visualized in axial abdominal mri scans",0.5118936485999319,0.39746833577717733
+"MR_AMOS(mri), left renal anatomy characterized by abdominal mri",0.5099216307239293,0.39738262695454035
+"MR_AMOS(mri), left renal morphology documented in abdominal mr studies",0.5093373295223868,0.397450854933455
+"MR_AMOS(mri), left renal parenchyma assessed with mr spectroscopy",0.5102599497806939,0.39911811040072837
+"MR_AMOS(mri), left nephric architecture localized in abdominal mr volumetry",0.5060895922243748,0.3968500628650869
+"MR_AMOS(mri), gallbladder",0.15373802451837332,0.09236536005268008
+"MR_AMOS(mri), gallbladder identified via abdominal magnetic resonance",0.15314431815572452,0.0917354133929912
+"MR_AMOS(mri), gallbladder anatomy characterized by abdominal mri",0.15369174234009136,0.09220609167941922
+"MR_AMOS(mri), gallbladder mapped through volumetric mr imaging of the abdomen",0.15195378480084024,0.09149353333311074
+"MR_AMOS(mri), gallbladder morphology documented in abdominal mr studies",0.1518173726177784,0.0913802722097679
+"MR_AMOS(mri), intra-abdominal gallbladder assessed with mr",0.1522543046834184,0.09157507712754392
+"MR_AMOS(mri), gallbladder content observed in abdominal mri",0.1545473631723113,0.0923491913554041
+"MR_AMOS(mri), esophagus",0.16998666365871626,0.17780095480739758
+"MR_AMOS(mri), esophagus segmented in abdominal mri",0.17206216748472533,0.18207039116790766
+"MR_AMOS(mri), esophageal structure identified via abdominal magnetic resonance imaging",0.17435694562921947,0.18451969654060926
+"MR_AMOS(mri), esophagus visualized in cross-sectional abdominal mr scans",0.17195954523453252,0.1814223971001856
+"MR_AMOS(mri), esophageal anatomy characterized by abdominal mr protocols",0.1720142443025837,0.18163695651413939
+"MR_AMOS(mri), esophagus mapped through magnetic resonance imaging of the abdomen",0.17316516736653462,0.1830777955783931
+"MR_AMOS(mri), esophageal morphology documented in abdominal mr studies",0.1709478062842704,0.18109373021228362
+"MR_AMOS(mri), esophageal architecture localized in abdominal mr tomographic imaging",0.17251821578255613,0.1822939950486749
+"MR_AMOS(mri), esophageal tissue delineated in multiparametric abdominal mr sequences",0.17433716608640315,0.18403949221298946
+"MR_AMOS(mri), liver",0.8327136069863128,0.5016028855174307
+"MR_AMOS(mri), hepatic structure identified via abdominal magnetic resonance imaging",0.8349574623656398,0.5013238424988316
+"MR_AMOS(mri), liver visualized in cross-sectional abdominal mr scans",0.8311967214445719,0.5005373890332091
+"MR_AMOS(mri), hepatic parenchyma characterized by abdominal mr protocols",0.8354780438916403,0.5041794395404072
+"MR_AMOS(mri), liver mapped through magnetic resonance imaging of the abdomen",0.8351640114384292,0.5011012905164793
+"MR_AMOS(mri), hepatic morphology documented in abdominal mr studies",0.8355799053174292,0.5017298497645538
+"MR_AMOS(mri), liver demonstrating anatomical lobar boundaries on abdominal magnetic resonance",0.8368975572841496,0.5034118162324513
+"MR_AMOS(mri), liver architecture localized in abdominal mr tomographic imaging",0.8322223553273916,0.502159964526259
+"MR_AMOS(mri), hepatic tissue delineated in abdominal mr sequences",0.832657391275131,0.5027634434872967
+"MR_AMOS(mri), stomach",0.34680518450597386,0.2016716140472741
+"MR_AMOS(mri), stomach identified via abdominal magnetic resonance imaging",0.355798249174578,0.20523653766716862
+"MR_AMOS(mri), stomach visualized in cross-sectional abdominal mr scans",0.3539360574350015,0.2034470391450708
+"MR_AMOS(mri), stomach anatomy characterized by abdominal mr protocols",0.35192833836322085,0.20478521696217059
+"MR_AMOS(mri), stomach mapped through magnetic resonance imaging of the abdomen",0.35282718714471123,0.2049375022530907
+"MR_AMOS(mri), stomach morphology documented in abdominal mr studies",0.3529277017747405,0.2043673769699729
+"MR_AMOS(mri), stomach demonstrating anatomical curvature on abdominal magnetic resonance",0.35380373407947413,0.2054857850591522
+"MR_AMOS(mri), gastric architecture localized in abdominal mr tomographic imaging",0.351395141289748,0.20485182810749555
+"MR_AMOS(mri), stomach tissue delineated in multiparametric abdominal mr sequences",0.3520838916560942,0.20471373461957135
+"MR_AMOS(mri), aorta",0.4112723740227122,0.35412923390698864
+"MR_AMOS(mri), aortic structure identified via abdominal magnetic resonance imaging",0.42063557134055746,0.3669964604511456
+"MR_AMOS(mri), aorta visualized in cross-sectional abdominal mr scans",0.42269196344596716,0.36991907340357516
+"MR_AMOS(mri), aortic lumen characterized by abdominal mr protocols",0.4211436362282097,0.3671612796831385
+"MR_AMOS(mri), aorta mapped through magnetic resonance imaging of the abdomen",0.4201157569939453,0.36620439077834915
+"MR_AMOS(mri), aortic morphology documented in abdominal mr studies",0.42274694485716596,0.36959784145628366
+"MR_AMOS(mri), aortic architecture localized in abdominal mr tomographic imaging",0.42079912169036343,0.36802956339363657
+"MR_AMOS(mri), aortic tissue delineated in multiparametric abdominal mr sequences",0.420235734936212,0.36602712723107717
+"MR_AMOS(mri), inferior vena cava",0.2973652395724661,0.23714800520691026
+"MR_AMOS(mri), ivc structure identified via abdominal magnetic resonance imaging",0.305452777734733,0.2440611143440089
+"MR_AMOS(mri), inferior vena cava visualized in cross-sectional abdominal mr scans",0.29768976480504195,0.23842303324636682
+"MR_AMOS(mri), ivc lumen characterized by abdominal mr protocols",0.3105374876692381,0.24575218986211844
+"MR_AMOS(mri), inferior vena cava mapped through magnetic resonance imaging of the abdomen",0.2974220446292,0.238591113473674
+"MR_AMOS(mri), ivc morphology documented in abdominal mr studies",0.3041803849294299,0.24547608984321115
+"MR_AMOS(mri), inferior vena cava demonstrating anatomical course on abdominal magnetic resonance",0.30138396433498205,0.2413529237238222
+"MR_AMOS(mri), ivc architecture localized in abdominal mr tomographic imaging",0.30918400730119117,0.2439520765020535
+"MR_AMOS(mri), ivc tissue delineated in multiparametric abdominal mr sequences",0.30400601142246025,0.2430911320567205
+"MR_AMOS(mri), pancreas",0.29193451381300256,0.18704955368326878
+"MR_AMOS(mri), pancreatic structure identified via abdominal magnetic resonance imaging",0.2943232195717069,0.18392049295114732
+"MR_AMOS(mri), pancreas visualized in cross-sectional abdominal mr scans",0.295018546529371,0.18519480592999427
+"MR_AMOS(mri), pancreatic parenchyma characterized by abdominal mr protocols",0.29619454166011455,0.18463567995546523
+"MR_AMOS(mri), pancreas mapped through magnetic resonance imaging of the abdomen",0.29751209070726564,0.18621702906224355
+"MR_AMOS(mri), pancreatic morphology documented in abdominal mr studies",0.29444862357209606,0.18476710448147415
+"MR_AMOS(mri), pancreas demonstrating anatomical lobulation on abdominal magnetic resonance",0.2916067880491029,0.18254307364089062
+"MR_AMOS(mri), pancreatic architecture localized in abdominal mr tomographic imaging",0.29640670037161515,0.18560533378691546
+"MR_AMOS(mri), pancreatic tissue delineated in multiparametric abdominal mr sequences",0.2949233629752604,0.18493137215069436
+"MR_AMOS(mri), right adrenal gland",0.12995944783309185,0.19352925871958948
+"MR_AMOS(mri), right adrenal structure identified via abdominal magnetic resonance imaging",0.12460827602173812,0.17576025885260585
+"MR_AMOS(mri), right adrenal gland visualized in cross-sectional abdominal mr scans",0.12816786820370213,0.19106028649407103
+"MR_AMOS(mri), right adrenal parenchyma characterized by abdominal mr protocols",0.12338496111981512,0.17130973902771843
+"MR_AMOS(mri), right adrenal gland mapped through magnetic resonance imaging of the abdomen",0.12719732405722742,0.1910337493971296
+"MR_AMOS(mri), right adrenal morphology documented in abdominal mr studies",0.12381737662780075,0.17241622135100468
+"MR_AMOS(mri), right adrenal gland demonstrating anatomical margins on abdominal magnetic resonance",0.1282035153100151,0.19163902659028417
+"MR_AMOS(mri), right adrenal architecture localized in abdominal mr tomographic imaging",0.12204521913731131,0.16804389073933115
+"MR_AMOS(mri), right adrenal tissue delineated in multiparametric abdominal mr sequences",0.12663443664555876,0.18900174148544557
+"MR_AMOS(mri), left adrenal gland",0.1244398968838455,0.1935380631041476
+"MR_AMOS(mri), left adrenal structure identified via abdominal magnetic resonance imaging",0.12490948009196035,0.19418510855054458
+"MR_AMOS(mri), left adrenal gland visualized in cross-sectional abdominal mr scans",0.1234823143561506,0.19156510068804886
+"MR_AMOS(mri), left adrenal parenchyma characterized by abdominal mr protocols",0.12504739647816895,0.191937025299621
+"MR_AMOS(mri), left adrenal gland mapped through magnetic resonance imaging of the abdomen",0.12428545558659256,0.19303926720353062
+"MR_AMOS(mri), left adrenal morphology documented in abdominal mr studies",0.12413059161094098,0.19288594310869053
+"MR_AMOS(mri), left adrenal gland demonstrating anatomical margins on abdominal magnetic resonance",0.12289179324481363,0.19118567195824135
+"MR_AMOS(mri), left adrenal architecture localized in abdominal mr tomographic imaging",0.12482984902521715,0.19481640697033528
+"MR_AMOS(mri), left adrenal tissue delineated in multiparametric abdominal mr sequences",0.12529658508129432,0.1956709932054147
+"MR_AMOS(mri), duodenum",0.12233783054409543,0.09823548511892603
+"MR_AMOS(mri), duodenal structure identified via abdominal magnetic resonance imaging",0.1232318646390903,0.1003287785286699
+"MR_AMOS(mri), duodenum visualized in cross-sectional abdominal mr scans",0.12289813369905604,0.09835158469839851
+"MR_AMOS(mri), duodenal anatomy characterized by abdominal mr protocols",0.12347334109130044,0.09975107237796088
+"MR_AMOS(mri), duodenum mapped through magnetic resonance imaging of the abdomen",0.12254815972780657,0.09834686857473096
+"MR_AMOS(mri), duodenal morphology documented in abdominal mr studies",0.1224730370190365,0.09847498958036405
+"MR_AMOS(mri), duodenum demonstrating anatomical folds on abdominal magnetic resonance",0.12311506243657126,0.09883345481377111
+"MR_AMOS(mri), duodenal architecture localized in abdominal mr tomographic imaging",0.12281542827400728,0.09904194430369027
+"MR_AMOS(mri), duodenal tissue delineated in multiparametric abdominal mr sequences",0.12224220285039727,0.09879480883550047
+"MR_AMOS(mri), bladder",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), vesical structure identified via abdominal magnetic resonance imaging",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), bladder visualized in cross-sectional abdominal mr scans",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), bladder anatomy characterized by abdominal mr protocols",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), bladder mapped through magnetic resonance imaging of the abdomen",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), vesical morphology documented in abdominal mr studies",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), bladder demonstrating anatomical capacity on abdominal magnetic resonance",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), vesical architecture localized in abdominal mr tomographic imaging",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), bladder tissue delineated in multiparametric abdominal mr sequences",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), prostate or uterus",0.5,0.5
+"MR_AMOS(mri), prostatic or uterine structure identified via abdominal magnetic resonance imaging",0.3333333333333333,0.3333333333333333
+"MR_AMOS(mri), prostate or uterus visualized in cross-sectional abdominal mr scans",0.16666666666666666,0.16666666666666666
+"MR_AMOS(mri), prostatic or uterine anatomy characterized by abdominal mr protocols",0.16666666666666666,0.16666666666666666
+"MR_AMOS(mri), prostate or uterus mapped through magnetic resonance imaging of the abdomen",0.16666666666666666,0.16666666666666666
+"MR_AMOS(mri), prostatic or uterine morphology documented in abdominal mr studies",0.16666666666666666,0.16666666666666666
+"MR_AMOS(mri), prostate or uterus demonstrating anatomical zonation or endometrial layers on abdominal magnetic resonance",0.0,0.0
+"MR_AMOS(mri), prostatic or uterine architecture localized in abdominal mr tomographic imaging",0.16666666666666666,0.16666666666666666
+"MR_AMOS(mri), prostate or uterus tissue delineated in multiparametric abdominal mr sequences",0.16666666666666666,0.16666666666666666
+MR_CHAOS-T2(mri),0.7319625932974798,0.5195099153492178
+"MR_CHAOS-T2(mri), liver",0.8284084494438353,0.550074375596449
+"MR_CHAOS-T2(mri), hepatic structure identified via abdominal magnetic resonance imaging",0.8282768825576589,0.5506755542531138
+"MR_CHAOS-T2(mri), liver visualized in cross-sectional abdominal mr t2 scans",0.8268650246503494,0.5465796692492815
+"MR_CHAOS-T2(mri), hepatic parenchyma characterized by abdominal mr t2 protocols",0.8272940814742411,0.5490155005886145
+"MR_CHAOS-T2(mri), liver mapped through magnetic resonance imaging of the abdomen",0.8285790467433318,0.5518480239697567
+"MR_CHAOS-T2(mri), hepatic morphology documented in abdominal mr t2 studies",0.8267687884610522,0.547124533308425
+"MR_CHAOS-T2(mri), liver demonstrating anatomical lobar boundaries on abdominal magnetic resonance",0.8288804326839223,0.5521399702632181
+"MR_CHAOS-T2(mri), liver architecture localized in abdominal mr t2 tomographic imaging",0.8266569287278172,0.5460885329549966
+"MR_CHAOS-T2(mri), hepatic tissue delineated in abdominal mr t2 sequences",0.8263048131269807,0.546505273377665
+"MR_CHAOS-T2(mri), right kidney",0.6773626721036002,0.5291213462466158
+"MR_CHAOS-T2(mri), right renal structure identified via abdominal magnetic resonance",0.7122962540973156,0.5645365623613177
+"MR_CHAOS-T2(mri), right kidney visualized in abdominal mri t2 scans",0.7080368301412894,0.5561409256285861
+"MR_CHAOS-T2(mri), right kidney mapped through mr t2 volumetry of the abdomen",0.7077664766347067,0.5577881781891461
+"MR_CHAOS-T2(mri), right renal morphology documented in abdominal mr t2 protocols",0.7094696395110427,0.5633702575673253
+"MR_CHAOS-T2(mri), right renal parenchyma assessed with functional mr t2 sequences",0.7053120927070509,0.554080443367412
+"MR_CHAOS-T2(mri), right nephric architecture localized in abdominal mr t2 tomography",0.7122603213420082,0.5631072985970467
+"MR_CHAOS-T2(mri), left kidney",0.7618086287174055,0.5698035331941276
+"MR_CHAOS-T2(mri), left renal structure identified via abdominal magnetic resonance",0.7687970673068432,0.5739701131813266
+"MR_CHAOS-T2(mri), left kidney visualized in axial abdominal mri t2 scans",0.7648369312829963,0.5767154372014267
+"MR_CHAOS-T2(mri), left renal anatomy characterized by abdominal mri t2",0.7753750601218958,0.5926900022645097
+"MR_CHAOS-T2(mri), left renal morphology documented in abdominal mr t2 studies",0.7763529244640746,0.5905065187128542
+"MR_CHAOS-T2(mri), left renal parenchyma assessed with mr t2 spectroscopy",0.7752330564144618,0.5916900176913285
+"MR_CHAOS-T2(mri), left nephric architecture localized in abdominal mr t2 volumetry",0.7800021800690164,0.5984943359357213
+"MR_CHAOS-T2(mri), spleen",0.6186510229638068,0.4097856231019098
+"MR_CHAOS-T2(mri), splenic structure identified via abdominal magnetic resonance",0.6284932210504639,0.41111680476762874
+"MR_CHAOS-T2(mri), spleen visualized in multiplanar abdominal mri t2 scans",0.6231651551095778,0.41218878184124624
+"MR_CHAOS-T2(mri), splenic parenchyma characterized by abdominal mri t2",0.6309076652740879,0.4112333834425531
+"MR_CHAOS-T2(mri), spleen mapped through volumetric mr t2 imaging of the abdomen",0.6221927257921354,0.41175240318955175
+"MR_CHAOS-T2(mri), splenic morphology documented in abdominal mr t2 studies",0.6274586503650627,0.41189481492051994
+"MR_CHAOS-T2(mri), spleen demonstrating signal intensity on abdominal magnetic resonance",0.6278001355690759,0.4123749921108306
+"MR_CHAOS-T2(mri), intra-abdominal splenic architecture assessed with contrast-enhanced mri t2",0.6351133097103326,0.41186149651383536
+"MR_CHAOS-T2(mri), splenic volume quantified in abdominal mr t2 volumetry",0.6260765169019129,0.4100425875866289
+MR_ISLES_DWI(mri),0.6012162998555837,0.7121149866053331
+"MR_ISLES_DWI(mri), stroke lesion",0.5917841832199227,0.7053428825164731
+"MR_ISLES_DWI(mri), acute ischemic focus identified via diffusion-weighted brain mri",0.6059009738059542,0.7136651922674284
+"MR_ISLES_DWI(mri), stroke lesion visualized in cerebral dwi sequences",0.6027944882660864,0.7126147057498603
+"MR_ISLES_DWI(mri), diffusion-restricted lesion characterized by brain mr dwi protocols",0.6022945968036574,0.7117068134691332
+"MR_ISLES_DWI(mri), stroke lesion mapped through diffusion-weighted imaging of the brain parenchyma",0.5940902907803632,0.7061732650902057
+"MR_ISLES_DWI(mri), acute infarcted tissue documented in brain dwi-mr studies",0.6135299873450485,0.7250273295681456
+"MR_ISLES_DWI(mri), stroke lesion demonstrating hyperintensity on brain diffusion-weighted mri",0.6062062908184283,0.7159833279186902
+"MR_ISLES_DWI(mri), ischemic brain lesion assessed with adc map correlation in mr dwi",0.5935391121810036,0.706393296061533
+"MR_ISLES_DWI(mri), stroke lesion localized in axial brain dwi acquisitions",0.5925545971102061,0.7054804507753838
+"MR_ISLES_DWI(mri), diffusion abnormality quantified in volumetric brain mr dwi scans",0.6094684782251661,0.7187626026364776
+MR_WMH_FLAIR(mri),0.48016388583849173,0.6119124355575198
+"MR_WMH_FLAIR(mri), white matter hyperintensities",0.37560229277813395,0.5101202229766455
+"MR_WMH_FLAIR(mri), white matter hyperintensities delineation in brain mr flair imaging",0.49321739607092213,0.6266682626936219
+"MR_WMH_FLAIR(mri), segmentation of white matter hyperintensities on flair brain mri",0.5071094662457815,0.640303737709941
+"MR_WMH_FLAIR(mri), detection of white matter hyperintensities within cerebral flair magnetic resonance",0.506158367377931,0.639583592398064
+"MR_WMH_FLAIR(mri), white matter hyperintensities localization in brain flair mr acquisitions",0.48324899859958076,0.6156862650826361
+"MR_WMH_FLAIR(mri), visualization of white matter hyperintensities via flair mri protocols in the brain",0.5032144553031509,0.6366479986221546
+"MR_WMH_FLAIR(mri), boundary demarcation of white matter hyperintensities on brain flair mr studies",0.5105635662674773,0.6430677984744002
+"MR_WMH_FLAIR(mri), mapping of white matter hyperintensities in cerebral flair mri",0.5115500764305014,0.64403725183533
+"MR_WMH_FLAIR(mri), characterization of white matter hyperintensities using brain flair mr sequences",0.44948090100196064,0.5735524910802515
+"MR_WMH_FLAIR(mri), identification of white matter hyperintensities in brain mr flair datasets",0.4614933383094783,0.5894567347021542
+MR_CHAOS-T1(mri),0.18826681202762752,0.10145363246310544
+"MR_CHAOS-T1(mri), liver",0.42544881994487416,0.20529039216345968
+"MR_CHAOS-T1(mri), hepatic structure identified via abdominal magnetic resonance t1 imaging",0.45116469661205927,0.2331572830809502
+"MR_CHAOS-T1(mri), liver visualized in cross-sectional abdominal mr t1 scans",0.4533537305412195,0.23599187216574868
+"MR_CHAOS-T1(mri), hepatic parenchyma characterized by abdominal mr t1 protocols",0.4295829211207228,0.20791188700683805
+"MR_CHAOS-T1(mri), liver mapped through magnetic resonance t1 imaging of the abdomen",0.45044518929183985,0.23019903158346275
+"MR_CHAOS-T1(mri), hepatic morphology documented in abdominal mr t1 studies",0.44620026853651173,0.22532256012625027
+"MR_CHAOS-T1(mri), liver demonstrating anatomical lobar boundaries on abdominal magnetic resonance t1",0.44875705163939317,0.22848259830081719
+"MR_CHAOS-T1(mri), liver architecture localized in abdominal mr t1 tomographic imaging",0.4564261328502622,0.2388650608607164
+"MR_CHAOS-T1(mri), hepatic tissue delineated in abdominal mr t1 sequences",0.4465018548137941,0.22773722243225658
+"MR_CHAOS-T1(mri), right kidney",0.05802047781569966,0.04894949513014868
+"MR_CHAOS-T1(mri), right renal structure identified via abdominal magnetic resonance t1 imaging",0.060406253323407426,0.04986737941815056
+"MR_CHAOS-T1(mri), right kidney visualized in abdominal mr t1 scans",0.06277836691410392,0.05172204539394585
+"MR_CHAOS-T1(mri), right kidney mapped through mr t1 volumetry of the abdomen",0.06306974772100912,0.05213451463481006
+"MR_CHAOS-T1(mri), right renal morphology documented in abdominal mr t1 protocols",0.05911802300809544,0.04935755043454752
+"MR_CHAOS-T1(mri), right renal parenchyma assessed with functional mr t1 sequences",0.05671864986114078,0.047963078871501585
+"MR_CHAOS-T1(mri), right nephric architecture localized in abdominal mr t1 tomography",0.0634870164281929,0.05160579243956368
+"MR_CHAOS-T1(mri), left kidney",0.21962193550506373,0.12188709361025683
+"MR_CHAOS-T1(mri), left renal structure identified via abdominal magnetic resonance t1 imaging",0.2449085484418309,0.12419007855813495
+"MR_CHAOS-T1(mri), left kidney visualized in axial abdominal mr t1 scans",0.2197004518117064,0.12273903372366164
+"MR_CHAOS-T1(mri), left renal anatomy characterized by abdominal mr t1 imaging",0.2201751392158407,0.1218838143481952
+"MR_CHAOS-T1(mri), left renal morphology documented in abdominal mr t1 studies",0.23583152778172453,0.12256234829722043
+"MR_CHAOS-T1(mri), left renal parenchyma assessed with mr t1 spectroscopy",0.22680118886674833,0.12132241955116266
+"MR_CHAOS-T1(mri), left nephric architecture localized in abdominal mr t1 volumetry",0.22601999283884028,0.12151727388119671
+"MR_CHAOS-T1(mri), spleen",0.0,0.0
+"MR_CHAOS-T1(mri), splenic structure identified via abdominal magnetic resonance t1 imaging",0.0,0.0009097320156156389
+"MR_CHAOS-T1(mri), spleen visualized in multiplanar abdominal mr t1 scans",0.0,0.0005120217235201412
+"MR_CHAOS-T1(mri), splenic parenchyma characterized by abdominal mr t1 imaging",0.0,0.00031638991279397965
+"MR_CHAOS-T1(mri), spleen mapped through volumetric mr t1 imaging of the abdomen",0.0,0.0005124976370339447
+"MR_CHAOS-T1(mri), splenic morphology documented in abdominal mr t1 studies",0.0,0.000683476410234844
+"MR_CHAOS-T1(mri), spleen demonstrating signal intensity on abdominal magnetic resonance t1",0.0,0.0022587897016621093
+"MR_CHAOS-T1(mri), intra-abdominal splenic architecture assessed with contrast-enhanced mr t1",0.0,0.000315006771332293
+"MR_CHAOS-T1(mri), splenic volume quantified in abdominal mr t1 volumetry",0.0,0.0003484986341852046

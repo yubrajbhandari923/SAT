@@ -1,0 +1,83 @@
+,dice,nsd
+US_Low-limb-Leg(us),0.4110609501503101,0.1694352286611723
+"US_Low-limb-Leg(us), soleus",0.4929093069710018,0.1545111359246925
+"US_Low-limb-Leg(us), soleus in low-limb leg ultrasound",0.4978641198595676,0.15972372775905636
+"US_Low-limb-Leg(us), ultrasound imaging of the soleus in the low-limb leg region",0.49710757737964356,0.1592825340708719
+"US_Low-limb-Leg(us), low-limb leg ultrasound showing soleus structures",0.4994133868838443,0.16067934616517804
+"US_Low-limb-Leg(us), visualization of the soleus in low-limb leg ultrasound scans",0.4980180569061816,0.15998055905804995
+"US_Low-limb-Leg(us), soleus observed in low-limb leg ultrasound imaging",0.496966355335638,0.1592893278745104
+"US_Low-limb-Leg(us), ultrasound scan of the low-limb leg depicting the soleus",0.49716382497401757,0.15935766818637684
+"US_Low-limb-Leg(us), soleus segmentation in low-limb leg ultrasound",0.4959765982222858,0.1587135864089096
+"US_Low-limb-Leg(us), soleus delineation in low-limb leg ultrasound imaging",0.4957608097434334,0.15870522916124175
+"US_Low-limb-Leg(us), ultrasound-based localization of the soleus in the low-limb leg",0.49694338923675196,0.15903940369494288
+"US_Low-limb-Leg(us), gastrocnemius medialis",0.29555229319793735,0.16339618737828593
+"US_Low-limb-Leg(us), gastrocnemius medialis in low-limb leg ultrasound",0.29629279065301073,0.16443838885369355
+"US_Low-limb-Leg(us), ultrasound imaging of the gastrocnemius medialis in the low-limb leg region",0.2969946468151231,0.16419979777877053
+"US_Low-limb-Leg(us), low-limb leg ultrasound showing gastrocnemius medialis structures",0.2968951960300821,0.1644169568006285
+"US_Low-limb-Leg(us), visualization of the gastrocnemius medialis in low-limb leg ultrasound scans",0.2980452070060055,0.1646769396601121
+"US_Low-limb-Leg(us), gastrocnemius medialis observed in low-limb leg ultrasound imaging",0.2975912223110307,0.1648147990970427
+"US_Low-limb-Leg(us), ultrasound scan of the low-limb leg depicting the gastrocnemius medialis",0.2973596212153592,0.16439132802839265
+"US_Low-limb-Leg(us), gastrocnemius medialis segmentation in low-limb leg ultrasound",0.29677403354041204,0.16442720884932008
+"US_Low-limb-Leg(us), gastrocnemius medialis delineation in low-limb leg ultrasound imaging",0.29677173092172654,0.16459222370997956
+"US_Low-limb-Leg(us), ultrasound-based localization of the gastrocnemius medialis in the low-limb leg",0.2956512360820084,0.16378221537553384
+"US_Low-limb-Leg(us), gastrocnemius lateralis",0.4378847908234203,0.18521047428960083
+"US_Low-limb-Leg(us), gastrocnemius lateralis in low-limb leg ultrasound",0.4395201558586802,0.18509819125090068
+"US_Low-limb-Leg(us), ultrasound imaging of the gastrocnemius lateralis in the low-limb leg region",0.44015660437138615,0.1852365705796495
+"US_Low-limb-Leg(us), low-limb leg ultrasound showing gastrocnemius lateralis structures",0.4394928696346314,0.1849120794056962
+"US_Low-limb-Leg(us), visualization of the gastrocnemius lateralis in low-limb leg ultrasound scans",0.44013287875867313,0.18509996018790092
+"US_Low-limb-Leg(us), gastrocnemius lateralis observed in low-limb leg ultrasound imaging",0.43975416290369873,0.1851762945157545
+"US_Low-limb-Leg(us), ultrasound scan of the low-limb leg highlighting the gastrocnemius lateralis",0.4394416650769683,0.18477223555322733
+"US_Low-limb-Leg(us), gastrocnemius lateralis segmentation in low-limb leg ultrasound",0.4396573787844189,0.18495372129423038
+"US_Low-limb-Leg(us), gastrocnemius lateralis delineation in low-limb leg ultrasound imaging",0.43910128155977135,0.18477650351768715
+"US_Low-limb-Leg(us), ultrasound-based identification of the gastrocnemius lateralis in the low-limb leg",0.44063531345259277,0.18540226540493138
+US_Cardiac(us),0.8348734732001251,0.498061514971317
+"US_Cardiac(us), left ventricle",0.8853900459800087,0.5743441606227637
+"US_Cardiac(us), left ventricle in heart ultrasound",0.885488578576646,0.5746461253082152
+"US_Cardiac(us), echocardiography imaging of the left ventricle in the cardiac region",0.8855575821162853,0.5744522157116606
+"US_Cardiac(us), visualization of the left ventricle in cardiac ultrasound scans",0.8856407838448306,0.5744681804815623
+"US_Cardiac(us), left ventricle observed in heart echocardiography",0.8856078227003262,0.5745363282480671
+"US_Cardiac(us), echocardiographic segmentation of the left ventricle",0.8855275100139918,0.574494757901799
+"US_Cardiac(us), cardiac ultrasound depicting left ventricular chamber",0.8856373736410472,0.5747841601474442
+"US_Cardiac(us), myocardium",0.7871412413595787,0.4168065796641562
+"US_Cardiac(us), myocardium in heart ultrasound",0.7868860547438953,0.4165616824762536
+"US_Cardiac(us), echocardiography imaging of the myocardial tissue in the cardiac region",0.7875310311883985,0.4172800903613832
+"US_Cardiac(us), visualization of the myocardium in cardiac ultrasound scans",0.7869262053902921,0.41665020252465884
+"US_Cardiac(us), myocardium observed in heart echocardiography",0.7871306644398706,0.4166227922444631
+"US_Cardiac(us), echocardiographic delineation of myocardium",0.7869350975267697,0.41693410735482994
+"US_Cardiac(us), left atrium",0.8280153760946167,0.49478651251959177
+"US_Cardiac(us), left atrium in heart ultrasound",0.8234965880106309,0.4893538609810841
+"US_Cardiac(us), echocardiography imaging of the left atrium in the cardiac region",0.8250363112721967,0.4910510440826295
+"US_Cardiac(us), visualization of the left atrium in cardiac ultrasound scans",0.8245532346565504,0.49071685126608733
+"US_Cardiac(us), left atrial chamber observed in heart echocardiography",0.8251317392818813,0.4909766262396085
+"US_Cardiac(us), echocardiographic segmentation of the left atrial cavity",0.82466109543961,0.4906391388627814
+"US_Cardiac(us), ultrasound depicting left atrium",0.8251751277250743,0.4911248824273009
+autoPET(pet),0.6196481277664503,0.6435680378385145
+"autoPET(pet), lesion",0.618890899587924,0.6431173514987459
+"autoPET(pet), lesion in whole body pet",0.6197449783228081,0.6434980028444901
+"autoPET(pet), pet imaging of the lesion in the whole body region",0.6200638068407848,0.6438319530079695
+"autoPET(pet), visualization of the lesion in whole body pet scans",0.6199011717126807,0.6440930004909527
+"autoPET(pet), lesion observed in whole body pet imaging",0.6201419885519788,0.6443371345061137
+"autoPET(pet), lesion segmentation in whole body pet",0.6198843936917474,0.6437801425654008
+"autoPET(pet), lesion delineation in whole body pet imaging",0.6201375551025009,0.6442340512890059
+"autoPET(pet), pet-based localization of the lesion in the whole body",0.6197678642702547,0.643566700406222
+"autoPET(pet), detection of lesion metabolic activity via whole body pet",0.6188234889159036,0.642472100120225
+"autoPET(pet), quantitative analysis of lesion fdg uptake in whole body pet.",0.6191251306679197,0.6427499416560193
+Microscopy_SELMA3D_vessel(microscopy),0.8096463064996098,0.8399798741391793
+"Microscopy_SELMA3D_vessel(microscopy), vessel",0.8105013362282243,0.8411583101087196
+"Microscopy_SELMA3D_vessel(microscopy), vessel in brain light-sheet microscopy",0.8099212592650593,0.8401918939993857
+"Microscopy_SELMA3D_vessel(microscopy), light-sheet microscopy imaging of vessel in brain",0.8088682254886116,0.8389660053983006
+"Microscopy_SELMA3D_vessel(microscopy), visualization of vessel in brain light-sheet microscopy",0.8093522136063008,0.8394941748515499
+"Microscopy_SELMA3D_vessel(microscopy), vessel observed in brain light-sheet microscopy",0.8100240862029578,0.8404665245767164
+"Microscopy_SELMA3D_vessel(microscopy), vessel segmentation in brain light-sheet microscopy",0.8095643323266507,0.8399296616437067
+"Microscopy_SELMA3D_vessel(microscopy), vessel delineation in brain light-sheet microscopy imaging",0.8098745694052075,0.8404779073179601
+"Microscopy_SELMA3D_vessel(microscopy), vessel identification in brain light-sheet microscopy",0.8097279335028382,0.8399512898350392
+"Microscopy_SELMA3D_vessel(microscopy), vessel localization in brain light-sheet microscopy",0.8089828024706373,0.8391830995212352
+Microscopy_SELMA3D_ADplaques(microscopy),0.6793128417609507,0.8023303971087613
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque",0.6771928078027781,0.8024675577189665
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque in brain light-sheet microscopy",0.677908387188165,0.8027596256419929
+"Microscopy_SELMA3D_ADplaques(microscopy), light-sheet microscopy imaging of alzheimer's disease plaque in brain",0.6773329801547939,0.800949689157909
+"Microscopy_SELMA3D_ADplaques(microscopy), visualization of alzheimer's disease plaque in brain light-sheet microscopy",0.6800362712858149,0.8019092041009119
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque observed in brain light-sheet microscopy",0.6789506301073719,0.802958161008335
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque delineation in brain light-sheet microscopy imaging",0.6833539408527486,0.804155490754244
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque identification in brain light-sheet microscopy",0.6814786511218033,0.8007515463179029
+"Microscopy_SELMA3D_ADplaques(microscopy), alzheimer's disease plaque localization in brain light-sheet microscopy",0.6782490655741303,0.8026919021698279

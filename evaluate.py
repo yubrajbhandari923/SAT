@@ -18,6 +18,7 @@ from evaluate.evaluator import evaluate
 from evaluate.params import parse_args
 from train.dist import is_master
 
+
 def set_seed(config):
     seed = config.seed
     torch.manual_seed(seed)
@@ -30,51 +31,148 @@ def set_seed(config):
     cudnn.benchmark = False
     cudnn.deterministic = True
 
+
+class EnsembleModel:
+    def __init__(
+        self,
+        ct_ckpt: str,
+        mri_ckpt: str,
+        pet_ckpt: str,
+        us_ckpt: str,
+        ms_ckpt: str,
+        model_class,
+        device,
+    ):
+        # map modality name → checkpoint path
+        self.ckpt_map = {
+            "CT": ct_ckpt,
+            "MRI": mri_ckpt,
+            "PET": pet_ckpt,
+            "US": us_ckpt,
+            "MS": ms_ckpt,
+        }
+        self.model_class = model_class
+        self.device = device
+        self.current_modality = None
+        self.current_model = None
+        self.model_class = model_class
+
+    def __call__(
+        self,
+        patch,  # your image patch (unused here)
+        text_label: str,  # e.g. "CT", "MRI", ...
+    ):
+        # If the modality has changed, load the new checkpoint
+        modality = ""
+        if " ct " in text_label.lower():
+            modality = "CT"
+        elif " mri " in text_label.lower():
+            modality = "MRI"
+        elif " pet " in text_label.lower():
+            modality = "PET"
+        elif " us " in text_label.lower():
+            modality = "US"
+        elif " ms " in text_label.lower():
+            modality = "MS"
+        else:
+            print(f"Unknown modality in text label: {text_label}. Defaulting to CT.")
+            modality = "CT"
+
+        if modality != self.current_modality:
+            ckpt_path = self.ckpt_map.get(modality)
+
+            if self.current_model is not None:
+                # Unload the previous model
+                del self.current_model
+                torch.cuda.empty_cache()
+                torch.cuda.synchronize(self.device)
+                torch.distributed.barrier()
+
+            model, _, _ = load_checkpoint(
+                checkpoint=ckpt_path,
+                resume=False,
+                partial_load=args.partial_load,
+                model=self.model_class,
+                device=self.device,
+            )
+            # model.eval()
+
+            self.current_modality = modality
+            self.current_model = model
+            return model
+
+        # Otherwise just keep using the same
+        return self.current_model
+
+
 def main(args):
     # set gpu
     if args.gpu:
-        os.environ['CUDA_VISIBLE_DEVICES'] = args.gpu
-        
+        os.environ["CUDA_VISIBLE_DEVICES"] = args.gpu
+
     torch.cuda.set_device(int(os.environ["LOCAL_RANK"]))
-    device=torch.device("cuda", int(os.environ["LOCAL_RANK"]))
+    device = torch.device("cuda", int(os.environ["LOCAL_RANK"]))
     gpu_id = int(os.environ["LOCAL_RANK"])
-    torch.distributed.init_process_group(backend="nccl", init_method='env://', timeout=datetime.timedelta(seconds=10800))   # might takes a long time to sync between process
-    
+    torch.distributed.init_process_group(
+        backend="nccl", init_method="env://", timeout=datetime.timedelta(seconds=10800)
+    )  # might takes a long time to sync between process
+
     # dispaly
     if is_master():
-        print('** GPU NUM ** : ', torch.cuda.device_count())  # 打印gpu数量
-        print('** WORLD SIZE ** : ', torch.distributed.get_world_size())
+        print("** GPU NUM ** : ", torch.cuda.device_count())  # 打印gpu数量
+        print("** WORLD SIZE ** : ", torch.distributed.get_world_size())
     rank = dist.get_rank()
     print(f"** DDP ** : Start running DDP on rank {rank}.")
-    
+
     # file to save the detailed metrics
-    csv_path = f'{args.rcd_dir}/{args.rcd_file}.csv'
-    txt_path = f'{args.rcd_dir}/{args.rcd_file}.txt'
+    csv_path = f"{args.rcd_dir}/{args.rcd_file}.csv"
+    txt_path = f"{args.rcd_dir}/{args.rcd_file}.txt"
     if is_master():
         Path(args.rcd_dir).mkdir(exist_ok=True, parents=True)
-        print(f'Detailed Results will be Saved to {csv_path} and {txt_path}')
-        
+        print(f"Detailed Results will be Saved to {csv_path} and {txt_path}")
+
     # resume an evaluation if specified
     evaluated_samples = set()
     if args.resume:
-        prefix = os.path.basename(csv_path).replace('.csv', '_tmp_rank')  # xxx/test/step_xxx.csv --> step_xxx_tmp_rank
+        prefix = os.path.basename(csv_path).replace(
+            ".csv", "_tmp_rank"
+        )  # xxx/test/step_xxx.csv --> step_xxx_tmp_rank
         for file_name in os.listdir(args.rcd_dir):
             if prefix in file_name:
                 # load list of results
-                with open(f'{args.rcd_dir}/{file_name}', 'rb') as f:
-                    tmp = pickle.load(f)    
-                for line in tmp:    # each line : [dataset_name, modality, sample_id, scores_of_labels(dict), label_names] 
-                    evaluated_samples.add(f'{line[0]}_{line[2]}')
-                    
+                with open(f"{args.rcd_dir}/{file_name}", "rb") as f:
+                    tmp = pickle.load(f)
+                for (
+                    line
+                ) in (
+                    tmp
+                ):  # each line : [dataset_name, modality, sample_id, scores_of_labels(dict), label_names]
+                    evaluated_samples.add(f"{line[0]}_{line[2]}")
+
     # dataset and loader
-    testset = Evaluate_Dataset_OnlineCrop(args.datasets_jsonl, args.text_prompts_json, args.max_queries, args.batchsize_3d, args.crop_size, evaluated_samples)
+    testset = Evaluate_Dataset_OnlineCrop(
+        args.datasets_jsonl,
+        args.text_prompts_json,
+        args.max_queries,
+        args.batchsize_3d,
+        args.crop_size,
+        evaluated_samples,
+    )
     sampler = DistributedSampler(testset)
-    testloader = DataLoader(testset, sampler=sampler, batch_size=1, pin_memory=args.pin_memory, num_workers=args.num_workers, collate_fn=collate_fn, shuffle=False)
+    testloader = DataLoader(
+        testset,
+        sampler=sampler,
+        batch_size=1,
+        pin_memory=args.pin_memory,
+        num_workers=args.num_workers,
+        collate_fn=collate_fn,
+        shuffle=False,
+    )
     sampler.set_epoch(0)
-    
+
     # set model (by default gpu
-    model = build_maskformer(args, device, gpu_id)
-    
+    model_class = build_maskformer(args, device, gpu_id)
+
     # load knowledge encoder
     text_encoder = Text_Encoder(
         text_encoder=args.text_encoder,
@@ -83,40 +181,63 @@ def main(args):
         open_bert_layer=12,
         open_modality_embed=False,
         gpu_id=gpu_id,
-        device=device
+        device=device,
     )
-    
+
     # load checkpoint if specified
     model, _, _ = load_checkpoint(
         checkpoint=args.checkpoint,
         resume=False,
         partial_load=args.partial_load,
-        model=model, 
-        device=device
+        model=model_class,
+        device=device,
     )
-    
-    # choose how to evaluate the checkpoint
-    evaluate(model=model,
-             text_encoder=text_encoder,
-             device=device,
-             testset=testset,
-             testloader=testloader,
-             csv_path=csv_path,
-             resume=args.resume,
-             save_interval=args.save_interval,
-             dice_score=args.dice,
-             nsd_score=args.nsd,
-             visualization=args.visualization)
+    is_ensemble = False
 
-if __name__ == '__main__':
+    if args.is_ensemble:
+        # Check if ct_ckpt, mr_ckpt, us_ckpt, ms_ckpt and pet_ckpt are provided
+        if (
+            args.ct_ckpt is None
+            or args.mr_ckpt is None
+            or args.us_ckpt is None
+            or args.ms_ckpt is None
+            or args.pet_ckpt is None
+        ):
+            raise ValueError(
+                "Please provide all five checkpoint paths for ensemble evaluation."
+            )
+
+        model = EnsembleModel(
+            ct_ckpt=args.ct_ckpt,
+            mri_ckpt=args.mr_ckpt,
+            pet_ckpt=args.pet_ckpt,
+            us_ckpt=args.us_ckpt,
+            ms_ckpt=args.ms_ckpt,
+            model_class=model_class,
+            device=device,
+        )
+
+        is_ensemble = True
+
+    # choose how to evaluate the checkpoint
+    evaluate(
+        model=model,
+        text_encoder=text_encoder,
+        device=device,
+        testset=testset,
+        testloader=testloader,
+        csv_path=csv_path,
+        resume=args.resume,
+        save_interval=args.save_interval,
+        dice_score=args.dice,
+        nsd_score=args.nsd,
+        visualization=args.visualization,
+        is_ensemble=is_ensemble,
+    )
+
+
+if __name__ == "__main__":
     # get configs
     args = parse_args()
-    
-    main(args)
 
-    
-    
-    
-        
-    
-    
+    main(args)

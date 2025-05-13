@@ -1,0 +1,136 @@
+,dice,nsd
+CT_AMOS(ct),0.558433878170829,0.42804343548338664
+"CT_AMOS(ct), spleen",0.8306859102718749,0.6099537287722017
+"CT_AMOS(ct), abdominal ct revealing spleen structures",0.829362748906371,0.6076138529762882
+"CT_AMOS(ct), spleen detected in abdominal ct scans",0.8305317972463042,0.6094403476879073
+"CT_AMOS(ct), ct imaging of the spleen within the abdomen",0.8287005861790335,0.6066259815828142
+"CT_AMOS(ct), spleen anatomy visualized in abdominal ct",0.8302555722386668,0.6090869346513268
+"CT_AMOS(ct), presence of spleen tissue observed in abdominal ct imaging",0.8294653148289379,0.6077493780962503
+"CT_AMOS(ct), ct scan showing spleen in the abdominal cavity",0.8305339468779908,0.6093897793031101
+"CT_AMOS(ct), abdominal ct assessment of the spleen",0.8290981025586689,0.6071796801688829
+"CT_AMOS(ct), spleen observed in ct imaging of the abdomen",0.8297994955528409,0.6080898183422614
+"CT_AMOS(ct), right kidney",0.7962604440886205,0.5374036977929018
+"CT_AMOS(ct), right kidney in abdominal ct",0.7890591485569873,0.5199118518440727
+"CT_AMOS(ct), ct imaging of the right kidney in the abdomen",0.7891145910091468,0.5199158954562264
+"CT_AMOS(ct), abdominal ct showing the right kidney",0.7894822762979152,0.5196493280986072
+"CT_AMOS(ct), right kidney observed in abdominal ct scans",0.7884437952292754,0.5184323362515756
+"CT_AMOS(ct), ct scan of the right kidney in the abdominal region",0.7893727543270866,0.5203893931065707
+"CT_AMOS(ct), presence of the right kidney detected in abdominal ct images",0.7894506863615639,0.5198474033283731
+"CT_AMOS(ct), abdominal ct revealing the right kidney anatomy",0.7891515142372192,0.5187551424830938
+"CT_AMOS(ct), left kidney",0.8448106795708258,0.6127933768210216
+"CT_AMOS(ct), left kidney in abdominal ct",0.8425878081533176,0.6068963162628465
+"CT_AMOS(ct), ct imaging of the left kidney in the abdomen",0.8433074680221587,0.6086819273622456
+"CT_AMOS(ct), abdominal ct showing the left kidney",0.8425926530693613,0.6069132971934855
+"CT_AMOS(ct), left kidney observed in abdominal ct scans",0.8427226111963144,0.6071973922478258
+"CT_AMOS(ct), visualization of the left kidney in abdominal ct imaging",0.8429268402397939,0.6077062955617384
+"CT_AMOS(ct), ct scan of the left kidney in the abdominal region",0.843373678345116,0.6089677786768553
+"CT_AMOS(ct), presence of the left kidney detected in abdominal ct images",0.8429873817662793,0.6077965083880309
+"CT_AMOS(ct), abdominal ct revealing the left kidney anatomy",0.8427686398746255,0.6073230746673303
+"CT_AMOS(ct), gallbladder",0.4146095117805054,0.2993954340510637
+"CT_AMOS(ct), gallbladder in abdominal ct",0.4166180176893848,0.299539656426411
+"CT_AMOS(ct), ct imaging of the gallbladder in the abdomen",0.4166310228046718,0.3000603839304314
+"CT_AMOS(ct), abdominal ct showing gallbladder structures",0.41695717379728026,0.2991895973341261
+"CT_AMOS(ct), gallbladder observed in abdominal ct scans",0.4171732612631674,0.2993193112209348
+"CT_AMOS(ct), visualization of the gallbladder in abdominal ct imaging",0.4166634026858048,0.29986873079802995
+"CT_AMOS(ct), ct scan of the gallbladder in the abdominal region",0.4169269720458182,0.30009972254743195
+"CT_AMOS(ct), presence of the gallbladder detected in abdominal ct images",0.4167832688325016,0.29909721109838927
+"CT_AMOS(ct), abdominal ct revealing gallbladder anatomy",0.41686730773616276,0.29918621382682753
+"CT_AMOS(ct), esophagus",0.5674030294521735,0.5076716136603993
+"CT_AMOS(ct), esophagus in abdominal ct",0.5657966124076277,0.5040121913859226
+"CT_AMOS(ct), ct imaging of the esophagus in the abdomen",0.5665218485342558,0.5059906302346557
+"CT_AMOS(ct), abdominal ct showing esophagus structures",0.5661626836674121,0.5054230384519991
+"CT_AMOS(ct), esophagus observed in abdominal ct scans",0.565841304960519,0.5041491898559017
+"CT_AMOS(ct), visualization of the esophagus in abdominal ct imaging",0.5658829993814682,0.5045379513517625
+"CT_AMOS(ct), ct scan of the esophagus in the abdominal region",0.5662318071509838,0.5050821744253292
+"CT_AMOS(ct), presence of the esophagus detected in abdominal ct images",0.5665349766785905,0.5058768897456519
+"CT_AMOS(ct), abdominal ct revealing esophagus anatomy",0.5661111717768957,0.5052807725135728
+"CT_AMOS(ct), liver",0.8332547965447082,0.47139613259171637
+"CT_AMOS(ct), liver in abdominal ct",0.8324405747156776,0.4716888396835304
+"CT_AMOS(ct), ct imaging of the liver in the abdomen",0.8321885334439795,0.47094566697215745
+"CT_AMOS(ct), abdominal ct showing liver structures",0.8323537736083189,0.4713146256608397
+"CT_AMOS(ct), liver detected in abdominal ct scans",0.8321207046577103,0.4707320165590919
+"CT_AMOS(ct), visualization of the liver in abdominal ct imaging",0.8322289290907324,0.47094414723167644
+"CT_AMOS(ct), ct scan of the liver in the abdominal region",0.8322412829932244,0.47098191504664466
+"CT_AMOS(ct), presence of liver tissue in abdominal ct images",0.8325747246707567,0.4719746626350679
+"CT_AMOS(ct), abdominal ct revealing liver anatomy",0.8323063484246932,0.47121709938266115
+"CT_AMOS(ct), stomach",0.45320906320892596,0.24031536357044092
+"CT_AMOS(ct), stomach in abdominal ct",0.45049584208686755,0.23258711794205364
+"CT_AMOS(ct), ct imaging of the stomach in the abdomen",0.45149029168073146,0.23381569874675345
+"CT_AMOS(ct), abdominal ct showing stomach structures",0.45048990469462113,0.23316818567648695
+"CT_AMOS(ct), stomach observed in abdominal ct scans",0.4501456621827349,0.23285863993887027
+"CT_AMOS(ct), visualization of the stomach in abdominal ct imaging",0.45067524440285067,0.23320300202743968
+"CT_AMOS(ct), ct scan of the stomach in the abdominal region",0.45055840822233717,0.23307990617778934
+"CT_AMOS(ct), presence of the stomach detected in abdominal ct images",0.4507598526897695,0.2330847600194193
+"CT_AMOS(ct), abdominal ct revealing stomach anatomy",0.4506652881065244,0.23295055263236697
+"CT_AMOS(ct), aorta",0.8259981378422658,0.7512249145554453
+"CT_AMOS(ct), aorta in abdominal ct",0.823535794696941,0.7471724357160074
+"CT_AMOS(ct), ct imaging of the aorta in the abdomen",0.8238655093389997,0.74812967015608
+"CT_AMOS(ct), abdominal ct showing aortic structures",0.823702442217644,0.7482659304968878
+"CT_AMOS(ct), aorta observed in abdominal ct scans",0.8232752970970811,0.7470452891721333
+"CT_AMOS(ct), visualization of the aorta in abdominal ct imaging",0.8228476745377378,0.7464019863347153
+"CT_AMOS(ct), ct scan of the aorta in the abdominal region",0.8235710550627113,0.7476942057466938
+"CT_AMOS(ct), presence of the aorta detected in abdominal ct images",0.8230373832990668,0.7475331671017367
+"CT_AMOS(ct), abdominal ct revealing aorta anatomy",0.8230254871806446,0.7464170202824395
+"CT_AMOS(ct), inferior vena cava",0.6635217392269837,0.5026238168679023
+"CT_AMOS(ct), inferior vena cava in abdominal ct",0.6667452404829189,0.5005336210707683
+"CT_AMOS(ct), ct imaging of the inferior vena cava in the abdomen",0.6612876157775549,0.4964215330819745
+"CT_AMOS(ct), abdominal ct showing inferior vena cava structures",0.6658789177141315,0.49952258614058975
+"CT_AMOS(ct), inferior vena cava observed in abdominal ct scan",0.6670649540213582,0.5001966563738696
+"CT_AMOS(ct), visualization of the inferior vena cava in abdominal ct imaging",0.6634996219440176,0.49790358379817745
+"CT_AMOS(ct), ct scan of the inferior vena cava in the abdominal region",0.6640907082970294,0.4979886707620135
+"CT_AMOS(ct), presence of the inferior vena cava detected in abdominal ct images",0.6633395987694015,0.4976631592311569
+"CT_AMOS(ct), abdominal ct revealing inferior vena cava anatomy",0.6664069643714855,0.49959767973380337
+"CT_AMOS(ct), pancreas",0.4116645286166965,0.26371788060368895
+"CT_AMOS(ct), pancreas in abdominal ct",0.41693875302318134,0.26683972556032215
+"CT_AMOS(ct), ct imaging of the pancreas in the abdomen",0.41639564617596037,0.2669418801762051
+"CT_AMOS(ct), abdominal ct showing pancreatic structures",0.41694368979213153,0.26650474383231254
+"CT_AMOS(ct), pancreas detected in abdominal ct scans",0.41786090406173326,0.266868969808436
+"CT_AMOS(ct), visualization of the pancreas in abdominal ct imaging",0.4167787686522574,0.266637404450384
+"CT_AMOS(ct), ct scan of the pancreas in the abdominal region",0.41591370261617067,0.2665464725851363
+"CT_AMOS(ct), presence of pancreatic tissue in abdominal ct images",0.4172005498052801,0.2668883561055409
+"CT_AMOS(ct), abdominal ct revealing pancreas anatomy",0.41646293702328496,0.2666916271854661
+"CT_AMOS(ct), right adrenal gland",0.384908942015659,0.5601077119067238
+"CT_AMOS(ct), right adrenal gland in abdominal ct",0.38648847519377105,0.5638059451932811
+"CT_AMOS(ct), ct imaging of the right adrenal gland in the abdomen",0.3856595743107396,0.5605895242406456
+"CT_AMOS(ct), abdominal ct showing right adrenal gland structures",0.3871471055830605,0.566713110615607
+"CT_AMOS(ct), right adrenal gland observed in abdominal ct scans",0.38578730263584987,0.5612450449024082
+"CT_AMOS(ct), visualization of the right adrenal gland in abdominal ct imaging",0.3869188518577349,0.5647824766488416
+"CT_AMOS(ct), ct scan of the right adrenal gland in the abdominal region",0.3870283968721462,0.5675585299331416
+"CT_AMOS(ct), presence of the right adrenal gland detected in abdominal ct images",0.3875204131195848,0.5666148875546201
+"CT_AMOS(ct), abdominal ct revealing right adrenal gland anatomy",0.3867031075275718,0.5666082503397398
+"CT_AMOS(ct), left adrenal gland",0.44176821322872256,0.5701897723360159
+"CT_AMOS(ct), left adrenal gland in abdominal ct",0.44095261167046607,0.5687253893923171
+"CT_AMOS(ct), ct imaging of the left adrenal gland in the abdomen",0.4423440087149241,0.5709905837960858
+"CT_AMOS(ct), abdominal ct showing left adrenal gland structures",0.4392849310091383,0.5661227365667248
+"CT_AMOS(ct), left adrenal gland observed in abdominal ct scans",0.4415232926166053,0.5690054639434989
+"CT_AMOS(ct), visualization of the left adrenal gland in abdominal ct imaging",0.44210568304680314,0.5704513591438967
+"CT_AMOS(ct), ct scan of the left adrenal gland in the abdominal region",0.4414717573733341,0.5695232795497251
+"CT_AMOS(ct), presence of the left adrenal gland detected in abdominal ct images",0.44173800448025596,0.5701346996746723
+"CT_AMOS(ct), abdominal ct revealing left adrenal gland anatomy",0.4408814303338934,0.5687484982393685
+"CT_AMOS(ct), duodenum",0.18479676967136965,0.15366192973062187
+"CT_AMOS(ct), duodenum in abdominal ct",0.17897327542557856,0.14218634315536893
+"CT_AMOS(ct), ct imaging of the duodenum in the abdomen",0.18093849130289155,0.14478872940400295
+"CT_AMOS(ct), abdominal ct showing duodenal structures",0.18489790367248882,0.14850600044355117
+"CT_AMOS(ct), duodenum observed in abdominal ct scans",0.17768269082878385,0.1393379468127906
+"CT_AMOS(ct), visualization of the duodenum in abdominal ct imaging",0.18093334110922404,0.14428391239909027
+"CT_AMOS(ct), ct scan of the duodenum in the abdominal region",0.1796119136174869,0.1431217970106728
+"CT_AMOS(ct), presence of the duodenum detected in abdominal ct images",0.18123946199905072,0.14428153348915268
+"CT_AMOS(ct), abdominal ct revealing duodenum anatomy",0.18219188291723037,0.14627401609241839
+"CT_AMOS(ct), bladder",0.4663775019639928,0.22286125579205335
+"CT_AMOS(ct), bladder in abdominal ct",0.45989973154084823,0.21856763684455088
+"CT_AMOS(ct), ct imaging of the bladder in the abdomen",0.4610207819066542,0.21944176806589702
+"CT_AMOS(ct), abdominal ct showing bladder structures",0.4596402804220018,0.218447245808619
+"CT_AMOS(ct), bladder observed in abdominal ct scans",0.45944764652250336,0.2185975648143176
+"CT_AMOS(ct), visualization of the bladder in abdominal ct imaging",0.4604619860952863,0.2190808241927061
+"CT_AMOS(ct), ct scan of the bladder in the abdominal region",0.45909192934691034,0.21816951889787456
+"CT_AMOS(ct), presence of the bladder detected in abdominal ct images",0.46105088400030586,0.21887968410708153
+"CT_AMOS(ct), abdominal ct revealing bladder anatomy",0.4597545473909376,0.21868096753339977
+"CT_AMOS(ct), prostate or uterus",0.2660156799799579,0.15525331732040348
+"CT_AMOS(ct), prostate or uterus in abdominal ct",0.30343257587237676,0.17471742700061182
+"CT_AMOS(ct), ct imaging of the prostate or uterus in the abdomen",0.29950368454676957,0.1725691619332524
+"CT_AMOS(ct), abdominal ct showing prostate or uterus structures",0.29235903424625687,0.16654920264743586
+"CT_AMOS(ct), prostate or uterus observed in abdominal ct scans",0.3161366735975718,0.1811942916331776
+"CT_AMOS(ct), visualization of the prostate or uterus in abdominal ct imaging",0.303741567534578,0.1747830453175794
+"CT_AMOS(ct), ct scan of the prostate or uterus in the abdominal region",0.32000690879585403,0.1815421942197192
+"CT_AMOS(ct), presence of the prostate or uterus detected in abdominal ct images",0.3000902592686419,0.1709053097413839
+"CT_AMOS(ct), abdominal ct revealing prostate or uterus anatomy",0.28699450500391444,0.16549791698119407

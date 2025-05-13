@@ -1,0 +1,176 @@
+,dice,nsd
+CT_AMOS(mri),0.38060792967230445,0.2771976734436213
+"CT_AMOS(mri), spleen",0.4491748665353091,0.18120355331658697
+"CT_AMOS(mri), abdominal ct revealing spleen structures",0.4510982073828893,0.17866579925788476
+"CT_AMOS(mri), spleen detected in abdominal ct scans",0.4506001073276314,0.1795257430005178
+"CT_AMOS(mri), ct imaging of the spleen within the abdomen",0.4490328433135074,0.17885240774117603
+"CT_AMOS(mri), spleen anatomy visualized in abdominal ct",0.4509833226350213,0.17916259653663633
+"CT_AMOS(mri), presence of spleen tissue observed in abdominal ct imaging",0.4503825597743258,0.17832218446790526
+"CT_AMOS(mri), ct scan showing spleen in the abdominal cavity",0.4502887207845608,0.17921259436022585
+"CT_AMOS(mri), abdominal ct assessment of the spleen",0.44977533137644454,0.1793255348371662
+"CT_AMOS(mri), spleen observed in ct imaging of the abdomen",0.45000809454956964,0.17923747551508284
+"CT_AMOS(mri), right kidney",0.45764277374352996,0.3068922404915378
+"CT_AMOS(mri), right kidney in abdominal ct",0.45822395422178896,0.3043879235130874
+"CT_AMOS(mri), ct imaging of the right kidney in the abdomen",0.4580830960105507,0.3055971831838075
+"CT_AMOS(mri), abdominal ct showing the right kidney",0.45801334899377394,0.3058554428883374
+"CT_AMOS(mri), right kidney observed in abdominal ct scans",0.458309728758813,0.3054379291099402
+"CT_AMOS(mri), ct scan of the right kidney in the abdominal region",0.45812996217347896,0.3053978618926503
+"CT_AMOS(mri), presence of the right kidney detected in abdominal ct images",0.45845912280777745,0.3052318908258409
+"CT_AMOS(mri), abdominal ct revealing the right kidney anatomy",0.4582005064727002,0.3049462475735717
+"CT_AMOS(mri), left kidney",0.44939648659921394,0.3045166291552667
+"CT_AMOS(mri), left kidney in abdominal ct",0.4515239382269957,0.30641588888904087
+"CT_AMOS(mri), ct imaging of the left kidney in the abdomen",0.45343738956724633,0.3080787979260881
+"CT_AMOS(mri), abdominal ct showing the left kidney",0.4522100292910878,0.306942997111641
+"CT_AMOS(mri), left kidney observed in abdominal ct scans",0.4527050201347918,0.3071382002582265
+"CT_AMOS(mri), visualization of the left kidney in abdominal ct imaging",0.4519444729336804,0.3069365586473622
+"CT_AMOS(mri), ct scan of the left kidney in the abdominal region",0.4521358847893789,0.3071137409539884
+"CT_AMOS(mri), presence of the left kidney detected in abdominal ct images",0.45145998615728894,0.3061748080489489
+"CT_AMOS(mri), abdominal ct revealing the left kidney anatomy",0.4528877578211395,0.3071356186584839
+"CT_AMOS(mri), gallbladder",0.09220028220207138,0.023009407811223046
+"CT_AMOS(mri), gallbladder in abdominal ct",0.09857965765613763,0.026213105196156175
+"CT_AMOS(mri), ct imaging of the gallbladder in the abdomen",0.10215193199982281,0.030145300396697553
+"CT_AMOS(mri), abdominal ct showing gallbladder structures",0.09973890881160036,0.02584060420320806
+"CT_AMOS(mri), gallbladder observed in abdominal ct scans",0.09843326470657755,0.02685612161682796
+"CT_AMOS(mri), visualization of the gallbladder in abdominal ct imaging",0.0965225872526753,0.026011994126130953
+"CT_AMOS(mri), ct scan of the gallbladder in the abdominal region",0.10057587266033818,0.028938703777416388
+"CT_AMOS(mri), presence of the gallbladder detected in abdominal ct images",0.09201976627797603,0.023374883256696524
+"CT_AMOS(mri), abdominal ct revealing gallbladder anatomy",0.09964878228602385,0.026572895848826956
+"CT_AMOS(mri), esophagus",0.0956306950812863,0.09762735029407864
+"CT_AMOS(mri), esophagus in abdominal ct",0.09661885109454517,0.09889750246290342
+"CT_AMOS(mri), ct imaging of the esophagus in the abdomen",0.09593817384773244,0.09765787272399189
+"CT_AMOS(mri), abdominal ct showing esophagus structures",0.09590745059347543,0.0978218771565297
+"CT_AMOS(mri), esophagus observed in abdominal ct scans",0.09622390476600144,0.09790693750019036
+"CT_AMOS(mri), visualization of the esophagus in abdominal ct imaging",0.09546234424117599,0.09767382974158896
+"CT_AMOS(mri), ct scan of the esophagus in the abdominal region",0.0954897171576648,0.09687676586867283
+"CT_AMOS(mri), presence of the esophagus detected in abdominal ct images",0.09544995853898515,0.09711698405687723
+"CT_AMOS(mri), abdominal ct revealing esophagus anatomy",0.09656082295274969,0.09854759215174431
+"CT_AMOS(mri), liver",0.7236819782937834,0.32603288517697715
+"CT_AMOS(mri), liver in abdominal ct",0.7329477129511962,0.3446681080087682
+"CT_AMOS(mri), ct imaging of the liver in the abdomen",0.7323706569648266,0.3440709179651158
+"CT_AMOS(mri), abdominal ct showing liver structures",0.732737451408338,0.34418280625294706
+"CT_AMOS(mri), liver detected in abdominal ct scans",0.7327846283424561,0.34469108960512734
+"CT_AMOS(mri), visualization of the liver in abdominal ct imaging",0.7325197168096035,0.34374022231661855
+"CT_AMOS(mri), ct scan of the liver in the abdominal region",0.7321876837622275,0.3433930973249648
+"CT_AMOS(mri), presence of liver tissue in abdominal ct images",0.7338999675154833,0.3472511374071798
+"CT_AMOS(mri), abdominal ct revealing liver anatomy",0.7333114174588653,0.3455954287013378
+"CT_AMOS(mri), stomach",0.3354516318591097,0.13457506237429043
+"CT_AMOS(mri), stomach in abdominal ct",0.34351398785852094,0.14234214969211742
+"CT_AMOS(mri), ct imaging of the stomach in the abdomen",0.3431444066345863,0.14225137657684062
+"CT_AMOS(mri), abdominal ct showing stomach structures",0.3442768397316243,0.14225528612917082
+"CT_AMOS(mri), stomach observed in abdominal ct scans",0.34370188779502325,0.1423470752704826
+"CT_AMOS(mri), visualization of the stomach in abdominal ct imaging",0.34279915538147737,0.14195550332684193
+"CT_AMOS(mri), ct scan of the stomach in the abdominal region",0.344526968461986,0.14226174187566645
+"CT_AMOS(mri), presence of the stomach detected in abdominal ct images",0.3448319711717091,0.14284063004382444
+"CT_AMOS(mri), abdominal ct revealing stomach anatomy",0.34229791670339926,0.14167437539288225
+"CT_AMOS(mri), aorta",0.4656304286815616,0.3755508457987659
+"CT_AMOS(mri), aorta in abdominal ct",0.46574766531938067,0.34722341979873755
+"CT_AMOS(mri), ct imaging of the aorta in the abdomen",0.4660876917742745,0.3504009409939486
+"CT_AMOS(mri), abdominal ct showing aortic structures",0.465512015626173,0.347688168746548
+"CT_AMOS(mri), aorta observed in abdominal ct scans",0.4656528680713267,0.34691794799352205
+"CT_AMOS(mri), visualization of the aorta in abdominal ct imaging",0.4657935247104341,0.3471601483263655
+"CT_AMOS(mri), ct scan of the aorta in the abdominal region",0.4660978602827222,0.3506919372795206
+"CT_AMOS(mri), presence of the aorta detected in abdominal ct images",0.4656223145530934,0.3483927737943276
+"CT_AMOS(mri), abdominal ct revealing aorta anatomy",0.46531135870299645,0.3479117900652559
+"CT_AMOS(mri), inferior vena cava",0.27649210507958116,0.18697385491075322
+"CT_AMOS(mri), inferior vena cava in abdominal ct",0.278971231029493,0.19054209296294825
+"CT_AMOS(mri), ct imaging of the inferior vena cava in the abdomen",0.28289167596964887,0.19349003132222356
+"CT_AMOS(mri), abdominal ct showing inferior vena cava structures",0.27965302975017553,0.18889962644385724
+"CT_AMOS(mri), inferior vena cava observed in abdominal ct scan",0.2779875315527041,0.1899145424755638
+"CT_AMOS(mri), visualization of the inferior vena cava in abdominal ct imaging",0.2761448419630356,0.18801348644286675
+"CT_AMOS(mri), ct scan of the inferior vena cava in the abdominal region",0.28425329891042544,0.19488911226372008
+"CT_AMOS(mri), presence of the inferior vena cava detected in abdominal ct images",0.27439936954731053,0.18739896480202048
+"CT_AMOS(mri), abdominal ct revealing inferior vena cava anatomy",0.27790063528272524,0.1895489879781739
+"CT_AMOS(mri), pancreas",0.3223158693236962,0.17739557092113958
+"CT_AMOS(mri), pancreas in abdominal ct",0.31762782368149245,0.17485711247230143
+"CT_AMOS(mri), ct imaging of the pancreas in the abdomen",0.3159731626574001,0.17329765715633247
+"CT_AMOS(mri), abdominal ct showing pancreatic structures",0.3168199345645674,0.17361011492357661
+"CT_AMOS(mri), pancreas detected in abdominal ct scans",0.3168186683138781,0.17457332559128055
+"CT_AMOS(mri), visualization of the pancreas in abdominal ct imaging",0.3182183959805965,0.1752134930015632
+"CT_AMOS(mri), ct scan of the pancreas in the abdominal region",0.3152583672923,0.17333215164642513
+"CT_AMOS(mri), presence of pancreatic tissue in abdominal ct images",0.3192036584551385,0.1764530087683025
+"CT_AMOS(mri), abdominal ct revealing pancreas anatomy",0.31659289256176254,0.1729804406810683
+"CT_AMOS(mri), right adrenal gland",0.0,0.0
+"CT_AMOS(mri), right adrenal gland in abdominal ct",0.0,0.0
+"CT_AMOS(mri), ct imaging of the right adrenal gland in the abdomen",0.0,0.0
+"CT_AMOS(mri), abdominal ct showing right adrenal gland structures",0.0,0.0
+"CT_AMOS(mri), right adrenal gland observed in abdominal ct scans",0.0,0.0
+"CT_AMOS(mri), visualization of the right adrenal gland in abdominal ct imaging",0.0,0.0
+"CT_AMOS(mri), ct scan of the right adrenal gland in the abdominal region",0.0,0.0
+"CT_AMOS(mri), presence of the right adrenal gland detected in abdominal ct images",0.0,0.0
+"CT_AMOS(mri), abdominal ct revealing right adrenal gland anatomy",0.0,0.0
+"CT_AMOS(mri), left adrenal gland",0.01422959194830632,0.02512005997484908
+"CT_AMOS(mri), left adrenal gland in abdominal ct",0.016051517418228477,0.025073666496472333
+"CT_AMOS(mri), ct imaging of the left adrenal gland in the abdomen",0.015657191564628224,0.024975385373800715
+"CT_AMOS(mri), abdominal ct showing left adrenal gland structures",0.01605447064321008,0.02482657599794484
+"CT_AMOS(mri), left adrenal gland observed in abdominal ct scans",0.016264859955184018,0.025509404130134708
+"CT_AMOS(mri), visualization of the left adrenal gland in abdominal ct imaging",0.015586006789075674,0.02437586699015354
+"CT_AMOS(mri), ct scan of the left adrenal gland in the abdominal region",0.015852334539015082,0.024987377829124715
+"CT_AMOS(mri), presence of the left adrenal gland detected in abdominal ct images",0.015954478263384215,0.02529079835552624
+"CT_AMOS(mri), abdominal ct revealing left adrenal gland anatomy",0.01600472321119892,0.02491360086697696
+"CT_AMOS(mri), duodenum",0.15462516741032353,0.16740480575851505
+"CT_AMOS(mri), duodenum in abdominal ct",0.16126480963122183,0.1693627846610853
+"CT_AMOS(mri), ct imaging of the duodenum in the abdomen",0.1605959779105367,0.16790856374362062
+"CT_AMOS(mri), abdominal ct showing duodenal structures",0.15751109422780749,0.17122588978975775
+"CT_AMOS(mri), duodenum observed in abdominal ct scans",0.16034053035997817,0.16813240991318826
+"CT_AMOS(mri), visualization of the duodenum in abdominal ct imaging",0.1606245378613782,0.16799994706449106
+"CT_AMOS(mri), ct scan of the duodenum in the abdominal region",0.16042272548124034,0.16751840353206413
+"CT_AMOS(mri), presence of the duodenum detected in abdominal ct images",0.15968099915789855,0.16857365190698972
+"CT_AMOS(mri), abdominal ct revealing duodenum anatomy",0.1608502097980694,0.17037436504086356
+"CT_AMOS(mri), bladder",0.8333333333333334,0.8333333333333334
+"CT_AMOS(mri), bladder in abdominal ct",0.8333333333333334,0.8333333333333334
+"CT_AMOS(mri), ct imaging of the bladder in the abdomen",0.8333333333333334,0.8333333333333334
+"CT_AMOS(mri), abdominal ct showing bladder structures",0.8333333333333334,0.8333333333333334
+"CT_AMOS(mri), bladder observed in abdominal ct scans",1.0,1.0
+"CT_AMOS(mri), visualization of the bladder in abdominal ct imaging",0.8333333333333334,0.8333333333333334
+"CT_AMOS(mri), ct scan of the bladder in the abdominal region",0.8333333333333334,0.8333333333333334
+"CT_AMOS(mri), presence of the bladder detected in abdominal ct images",0.8333333333333334,0.8333333333333334
+"CT_AMOS(mri), abdominal ct revealing bladder anatomy",0.8333333333333334,0.8333333333333334
+"CT_AMOS(mri), prostate or uterus",1.0,1.0
+"CT_AMOS(mri), prostate or uterus in abdominal ct",1.0,1.0
+"CT_AMOS(mri), ct imaging of the prostate or uterus in the abdomen",1.0,1.0
+"CT_AMOS(mri), abdominal ct showing prostate or uterus structures",1.0,1.0
+"CT_AMOS(mri), prostate or uterus observed in abdominal ct scans",1.0,1.0
+"CT_AMOS(mri), visualization of the prostate or uterus in abdominal ct imaging",1.0,1.0
+"CT_AMOS(mri), ct scan of the prostate or uterus in the abdominal region",1.0,1.0
+"CT_AMOS(mri), presence of the prostate or uterus detected in abdominal ct images",1.0,1.0
+"CT_AMOS(mri), abdominal ct revealing prostate or uterus anatomy",1.0,1.0
+MR_BraTS-T1c(mri),0.4889223246465318,0.4671325185165412
+"MR_BraTS-T1c(mri), non-enhancing tumor core",0.33676393214873784,0.3650667953942858
+"MR_BraTS-T1c(mri), non-enhancing tumor core in head post-contrast t1-weighted mr",0.3828968876704031,0.42665851972534236
+"MR_BraTS-T1c(mri), post-contrast t1-weighted mr imaging of non-enhancing tumor core in head",0.378375807736269,0.41684835066183634
+"MR_BraTS-T1c(mri), visualization of non-enhancing tumor core in head post-contrast t1-weighted mr",0.38485193569995724,0.42968276512808345
+"MR_BraTS-T1c(mri), non-enhancing tumor core observed in head post-contrast t1-weighted mr",0.38144900340419474,0.42503917151277604
+"MR_BraTS-T1c(mri), segmentation of non-enhancing tumor core in head post-contrast t1-weighted mr",0.38414153963710884,0.4277043653699907
+"MR_BraTS-T1c(mri), delineation of non-enhancing tumor core in head post-contrast t1-weighted mr imaging",0.3829315817204357,0.42694465615949784
+"MR_BraTS-T1c(mri), identification of non-enhancing tumor core in head post-contrast t1-weighted mr",0.3802258048942104,0.42286526729468754
+"MR_BraTS-T1c(mri), localization of non-enhancing tumor core in head post-contrast t1-weighted mr",0.38315603327890313,0.4258197276420965
+"MR_BraTS-T1c(mri), characterization of non-enhancing tumor core in head post-contrast t1-weighted mr",0.38382776063591906,0.4260466416302023
+"MR_BraTS-T1c(mri), surrounding non-enhancing flair hyperintensit",0.3304645470527441,0.386210801132556
+"MR_BraTS-T1c(mri), surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.5576318909131626,0.40243573058517657
+"MR_BraTS-T1c(mri), post-contrast t1-weighted mr imaging of surrounding non-enhancing flair hyperintensity in head",0.5576933252815176,0.40023834075106185
+"MR_BraTS-T1c(mri), visualization of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.5588010815746549,0.40641017482389225
+"MR_BraTS-T1c(mri), surrounding non-enhancing flair hyperintensity observed in head post-contrast t1-weighted mr",0.5573169763366571,0.40220241306334636
+"MR_BraTS-T1c(mri), segmentation of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.5591649935799884,0.40796053314749914
+"MR_BraTS-T1c(mri), delineation of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr imaging",0.5597440409312375,0.40675393891316114
+"MR_BraTS-T1c(mri), identification of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.558552204124928,0.4067239173986442
+"MR_BraTS-T1c(mri), localization of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.5587013154646694,0.407986585975624
+"MR_BraTS-T1c(mri), characterization of surrounding non-enhancing flair hyperintensity in head post-contrast t1-weighted mr",0.5585994343946976,0.4047301599971482
+"MR_BraTS-T1c(mri), enhancing tissue",0.6652860799330789,0.581850685283289
+"MR_BraTS-T1c(mri), enhancing tissue in head post-contrast t1-weighted mr",0.786696243457335,0.8166467943890647
+"MR_BraTS-T1c(mri), post-contrast t1-weighted mr imaging of enhancing tissue in head",0.7881102554832888,0.815464856105918
+"MR_BraTS-T1c(mri), visualization of enhancing tissue in head post-contrast t1-weighted mr",0.7867255184329499,0.8165810750272771
+"MR_BraTS-T1c(mri), enhancing tissue observed in head post-contrast t1-weighted mr",0.7877420248961408,0.8160013581982345
+"MR_BraTS-T1c(mri), segmentation of enhancing tissue in head post-contrast t1-weighted mr",0.7867084770202087,0.8161166930061728
+"MR_BraTS-T1c(mri), delineation of enhancing tissue in head post-contrast t1-weighted mr imaging",0.7876350714671119,0.8161754920385804
+"MR_BraTS-T1c(mri), identification of enhancing tissue in head post-contrast t1-weighted mr",0.787078120489827,0.8154778446946954
+"MR_BraTS-T1c(mri), localization of enhancing tissue in head post-contrast t1-weighted mr",0.7864265386223441,0.8165416258251845
+"MR_BraTS-T1c(mri), characterization of enhancing tissue in head post-contrast t1-weighted mr",0.7871132252012762,0.8160643875435426
+"MR_BraTS-T1c(mri), resection cavity",0.16168119075812637,0.16093718362466203
+"MR_BraTS-T1c(mri), resection cavity in head post-contrast t1-weighted mr",0.2534392286168099,0.23877527282576372
+"MR_BraTS-T1c(mri), post-contrast t1-weighted mr imaging of resection cavity in head",0.2460599382470299,0.22806548365362028
+"MR_BraTS-T1c(mri), visualization of resection cavity in head post-contrast t1-weighted mr",0.254061212841631,0.24065763661920928
+"MR_BraTS-T1c(mri), resection cavity observed in head post-contrast t1-weighted mr",0.25307259956164035,0.23971388132563548
+"MR_BraTS-T1c(mri), segmentation of resection cavity in head post-contrast t1-weighted mr",0.25397636004776725,0.2396847486440855
+"MR_BraTS-T1c(mri), delineation of resection cavity in head post-contrast t1-weighted mr imaging",0.2534913710504237,0.2394874916532588
+"MR_BraTS-T1c(mri), identification of resection cavity in head post-contrast t1-weighted mr",0.2540986741417996,0.23975647159019445
+"MR_BraTS-T1c(mri), localization of resection cavity in head post-contrast t1-weighted mr",0.2532784344655554,0.23984038378981645

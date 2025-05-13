@@ -184,6 +184,12 @@ class Evaluate_Dataset_OnlineCrop(Dataset):
         mc_mask = self.sc_mask_to_mc_mask(sc_mask, label_values_ls)  # n h w d
         
         return torch.from_numpy(img.copy()), torch.from_numpy(mc_mask.copy()), text_prompt_ls
+    
+    def load_image(self, image_path):
+        # load image
+        data = np.load(image_path)
+        img = data['imgs'].astype(np.float32)
+        
         
     def __getitem__(self, idx):
         datum = self.lines[idx]
