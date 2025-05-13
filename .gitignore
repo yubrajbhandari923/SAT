@@ -7,6 +7,7 @@ log/
 *.npz
 *.pkl
 *.nii.gz
+checkpoints/
 
 # C extensions
 *.so
