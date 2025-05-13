@@ -3,6 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+log/
+*.npz
+*.pkl
+*.nii.gz
+
 # C extensions
 *.so
 
