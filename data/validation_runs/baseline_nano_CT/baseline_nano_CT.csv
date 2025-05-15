@@ -1,0 +1,1585 @@
+,dice,nsd
+CT_TotalSeg-vertebrae(ct),0.6736523382510771,0.658446012255766
+"CT_TotalSeg-vertebrae(ct), sacrum",0.8242646990944371,0.7705722325488522
+"CT_TotalSeg-vertebrae(ct), sacrum in whole body ct",0.8236163852819376,0.7705726428920432
+"CT_TotalSeg-vertebrae(ct), ct imaging of the sacrum in the whole body region",0.8236883706010444,0.7711669309388546
+"CT_TotalSeg-vertebrae(ct), whole body ct showing sacrum structures",0.8235512615902428,0.770972439989611
+"CT_TotalSeg-vertebrae(ct), visualization of the sacrum in whole body ct scans",0.8235939032012869,0.7711149227865483
+"CT_TotalSeg-vertebrae(ct), sacrum observed in whole body ct imaging",0.8234706280747961,0.7703892135333595
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting the sacrum",0.8236707071049431,0.771341543842297
+"CT_TotalSeg-vertebrae(ct), sacrum segmentation in whole body ct",0.8237399138175585,0.7711317377853624
+"CT_TotalSeg-vertebrae(ct), sacrum delineation in whole body ct imaging",0.8235892805341618,0.7713311366032702
+"CT_TotalSeg-vertebrae(ct), ct-based localization of the sacrum in the whole body",0.8236610951220168,0.7709415290391234
+"CT_TotalSeg-vertebrae(ct), vertebrae s1",0.70591962691365,0.602545067043935
+"CT_TotalSeg-vertebrae(ct), vertebrae s1 in whole body ct",0.7041842145928939,0.5998107410448268
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae s1 in the whole body region",0.7041578587825217,0.600089742513885
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae s1 structures",0.703145489943783,0.5988075186935715
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae s1 in whole body ct scans",0.703620295888331,0.5993003611328271
+"CT_TotalSeg-vertebrae(ct), vertebrae s1 observed in whole body ct imaging",0.7199861440468848,0.6153360085193236
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae s1",0.6877505722588876,0.5841135810612282
+"CT_TotalSeg-vertebrae(ct), vertebrae s1 segmentation in whole body ct",0.7044374607410546,0.600304225991523
+"CT_TotalSeg-vertebrae(ct), vertebrae s1 delineation in whole body ct imaging",0.7035722389120818,0.5989869706533931
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae s1 in the whole body",0.7037869001036783,0.5998128270023876
+"CT_TotalSeg-vertebrae(ct), vertebrae l5",0.7427562561634782,0.7013118831685169
+"CT_TotalSeg-vertebrae(ct), vertebrae l5 in whole body ct",0.7394196956796275,0.6979149645383964
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae l5 in the whole body region",0.7417528370103437,0.7005977571493229
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae l5 structures",0.7437978495884511,0.7032653750059269
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae l5 in whole body ct scans",0.7409234977267457,0.6995542948960162
+"CT_TotalSeg-vertebrae(ct), vertebrae l5 observed in whole body ct imaging",0.7390863870842911,0.6973852647437041
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae l5",0.7410524618191607,0.6998219681918119
+"CT_TotalSeg-vertebrae(ct), vertebrae l5 segmentation in whole body ct",0.7397645167352596,0.698262174495423
+"CT_TotalSeg-vertebrae(ct), vertebrae l5 delineation in whole body ct imaging",0.7408251443830641,0.6996039480669277
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae l5 in the whole body",0.7414003239824484,0.7003590154686099
+"CT_TotalSeg-vertebrae(ct), vertebrae l4",0.6883751827411999,0.6122553984201212
+"CT_TotalSeg-vertebrae(ct), vertebrae l4 in whole body ct",0.686327341466127,0.6119081856149745
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae l4 in the whole body region",0.6906612521642341,0.6166170271105106
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae l4 structures",0.6900315748163236,0.6163706705438899
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae l4 in whole body ct scans",0.690759361439471,0.6166989640989303
+"CT_TotalSeg-vertebrae(ct), vertebrae l4 observed in whole body ct imaging",0.6860705714050925,0.6117601196590651
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae l4",0.6931424742786789,0.6190300596621118
+"CT_TotalSeg-vertebrae(ct), vertebrae l4 segmentation in whole body ct",0.6893016895270175,0.6155985426385172
+"CT_TotalSeg-vertebrae(ct), vertebrae l4 delineation in whole body ct imaging",0.6917682458122647,0.6178193425595653
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae l4 in the whole body",0.6908469716035572,0.6166635968755992
+"CT_TotalSeg-vertebrae(ct), vertebrae l3",0.7161592911311371,0.6811761951816147
+"CT_TotalSeg-vertebrae(ct), vertebrae l3 in whole body ct",0.7155616799679014,0.6802733475618037
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae l3 in the whole body region",0.7153581876126223,0.6799019075733134
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae l3 structures",0.7165717235406396,0.6813541619867596
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae l3 in whole body ct scans",0.7170542009512461,0.682063830899121
+"CT_TotalSeg-vertebrae(ct), vertebrae l3 observed in whole body ct imaging",0.7169718053923516,0.6823755745888673
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae l3",0.7171511436206839,0.6824053974535896
+"CT_TotalSeg-vertebrae(ct), vertebrae l3 segmentation in whole body ct",0.7182698591222638,0.6838720062097963
+"CT_TotalSeg-vertebrae(ct), vertebrae l3 delineation in whole body ct imaging",0.7171302148139068,0.6823390028929703
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae l3 in the whole body",0.7147526798075361,0.6792087445785552
+"CT_TotalSeg-vertebrae(ct), vertebrae l2",0.7269793059078549,0.6619908875676864
+"CT_TotalSeg-vertebrae(ct), vertebrae l2 in whole body ct",0.7273301373468414,0.6634535909942605
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae l2 in the whole body region",0.7287786898646279,0.6645655188535562
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae l2 structures",0.7291334398270612,0.6638507629787045
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae l2 in whole body ct scans",0.7294849905823677,0.6650136109883754
+"CT_TotalSeg-vertebrae(ct), vertebrae l2 observed in whole body ct imaging",0.7276202348075468,0.6634346998621267
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae l2",0.7278133815451798,0.6637189223009765
+"CT_TotalSeg-vertebrae(ct), vertebrae l2 segmentation in whole body ct",0.7292470819923647,0.6642453293850334
+"CT_TotalSeg-vertebrae(ct), vertebrae l2 delineation in whole body ct imaging",0.7286599485611842,0.6645284666284396
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae l2 in the whole body",0.7280990341354302,0.664186761997448
+"CT_TotalSeg-vertebrae(ct), vertebrae l1",0.6964833271110376,0.6778510986441794
+"CT_TotalSeg-vertebrae(ct), vertebrae l1 in whole body ct",0.6975503831463734,0.6791918080869673
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae l1 in the whole body region",0.6956391063895793,0.6775232925203788
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae l1 structures",0.69433164386228,0.6763965711490255
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae l1 in whole body ct scans",0.6954784669067516,0.6772802381083067
+"CT_TotalSeg-vertebrae(ct), vertebrae l1 observed in whole body ct imaging",0.6953207350276669,0.677289368019322
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae l1",0.6962820445727924,0.6781838482559774
+"CT_TotalSeg-vertebrae(ct), vertebrae l1 segmentation in whole body ct",0.6965957317254337,0.678528866733621
+"CT_TotalSeg-vertebrae(ct), vertebrae l1 delineation in whole body ct imaging",0.6960253500220864,0.6778669074173032
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae l1 in the whole body",0.6974649956597381,0.679364544539591
+"CT_TotalSeg-vertebrae(ct), vertebrae t12",0.7370624185449056,0.6739265384285505
+"CT_TotalSeg-vertebrae(ct), vertebrae t12 in whole body ct",0.7374075848105904,0.6750163063081687
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t12 in the whole body region",0.7370331137349931,0.6746577983541698
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t12 structures",0.7367149023081334,0.6741502643790911
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t12 in whole body ct scans",0.7372092322457396,0.6748142098608314
+"CT_TotalSeg-vertebrae(ct), vertebrae t12 observed in whole body ct imaging",0.7364402171440184,0.6740652072863307
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae t12",0.7357914190126816,0.6735737259282398
+"CT_TotalSeg-vertebrae(ct), vertebrae t12 segmentation in whole body ct",0.7367729045564209,0.6744737084413991
+"CT_TotalSeg-vertebrae(ct), vertebrae t12 delineation in whole body ct imaging",0.736839801387893,0.6745171561239325
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae t12 in the whole body",0.7375936080118967,0.6752133529157434
+"CT_TotalSeg-vertebrae(ct), vertebrae t11",0.7343370644095326,0.7036901856428015
+"CT_TotalSeg-vertebrae(ct), vertebrae t11 in whole body ct",0.7351812228650556,0.7044198017590014
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t11 in the whole body region",0.7359885742451283,0.7046320689008785
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t11 structures",0.73422515524007,0.7037028213842607
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t11 in whole body ct scans",0.7347241197470062,0.7040145136392849
+"CT_TotalSeg-vertebrae(ct), vertebrae t11 observed in whole body ct imaging",0.7339112866529408,0.7034217092892996
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae t11",0.7324296912642756,0.7028620955547514
+"CT_TotalSeg-vertebrae(ct), vertebrae t11 segmentation in whole body ct",0.7329385440133784,0.702750533879133
+"CT_TotalSeg-vertebrae(ct), vertebrae t11 delineation in whole body ct imaging",0.7332848733411063,0.7030751933320802
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae t11 in the whole body",0.7344068462034943,0.703751378220365
+"CT_TotalSeg-vertebrae(ct), vertebrae t10",0.6859805940361935,0.6565704045604415
+"CT_TotalSeg-vertebrae(ct), vertebrae t10 in whole body ct",0.6833024657408224,0.6547637871591542
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t10 in the whole body region",0.6824998037750869,0.6539740422013481
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t10 structures",0.682816992945673,0.6537606022799435
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t10 in whole body ct scans",0.682271524107681,0.6536753537594558
+"CT_TotalSeg-vertebrae(ct), vertebrae t10 observed in whole body ct imaging",0.6829544762820998,0.6546064647933659
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae t10",0.6845043670563112,0.6556194021311931
+"CT_TotalSeg-vertebrae(ct), vertebrae t10 segmentation in whole body ct",0.6817993425619295,0.6531954520928432
+"CT_TotalSeg-vertebrae(ct), vertebrae t10 delineation in whole body ct imaging",0.6821032081817686,0.6535809548543776
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae t10 in the whole body",0.6827094911001366,0.6547429549936226
+"CT_TotalSeg-vertebrae(ct), vertebrae t9",0.671192270033751,0.6788856240017471
+"CT_TotalSeg-vertebrae(ct), vertebrae t9 in whole body ct",0.6703443827948053,0.6773175978036275
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t9 in the whole body region",0.6695845222598455,0.6767003935350507
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t9 structures",0.6704187913545577,0.6767560162657187
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t9 in whole body ct scans",0.6695283370609154,0.6775670376524087
+"CT_TotalSeg-vertebrae(ct), vertebrae t9 observed in whole body ct imaging",0.6707302561822499,0.6779887289541336
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae t9",0.6693055513755187,0.6780308342207307
+"CT_TotalSeg-vertebrae(ct), vertebrae t9 segmentation in whole body ct",0.6698780280451572,0.6781022765766905
+"CT_TotalSeg-vertebrae(ct), vertebrae t9 delineation in whole body ct imaging",0.6702107274927216,0.6763497811943847
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae t9 in the whole body",0.6697842634709573,0.6790229071649733
+"CT_TotalSeg-vertebrae(ct), vertebrae t8",0.6071518308495769,0.6082783369182013
+"CT_TotalSeg-vertebrae(ct), vertebrae t8 in whole body ct",0.6065313545407556,0.6071768317361911
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t8 in the whole body region",0.604048253573525,0.606164446532021
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t8 structures",0.6108609569205598,0.6103990528007807
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t8 in whole body ct scans",0.6030245622075406,0.6063550565692205
+"CT_TotalSeg-vertebrae(ct), vertebrae t8 observed in whole body ct imaging",0.6059313246532659,0.6070132601679431
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae t8",0.6084240421192073,0.6096865762006548
+"CT_TotalSeg-vertebrae(ct), vertebrae t8 segmentation in whole body ct",0.6066538516604444,0.6080417159741124
+"CT_TotalSeg-vertebrae(ct), vertebrae t8 delineation in whole body ct imaging",0.6094317545719902,0.6081799530754518
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae t8 in the whole body",0.6050224875734328,0.6072730311759195
+"CT_TotalSeg-vertebrae(ct), vertebrae t7",0.5854365377733802,0.5956733740689143
+"CT_TotalSeg-vertebrae(ct), vertebrae t7 in whole body ct",0.5857786871397308,0.5957775360325176
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t7 in the whole body region",0.5844455395297807,0.5945921658519472
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t7 structures",0.5699725014534257,0.5802471966583801
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t7 in whole body ct scans",0.5838046867402763,0.5939800713003865
+"CT_TotalSeg-vertebrae(ct), vertebrae t7 observed in whole body ct imaging",0.5855367285032342,0.5953016571416486
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae t7",0.5696541111757248,0.5794332869209964
+"CT_TotalSeg-vertebrae(ct), vertebrae t7 segmentation in whole body ct",0.5842587881330314,0.5943456700016189
+"CT_TotalSeg-vertebrae(ct), vertebrae t7 delineation in whole body ct imaging",0.5679420890799232,0.5780273222960233
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae t7 in the whole body",0.5862344060554245,0.5960913225974772
+"CT_TotalSeg-vertebrae(ct), vertebrae t6",0.6902301799195713,0.6985945558387457
+"CT_TotalSeg-vertebrae(ct), vertebrae t6 in whole body ct",0.6919984313751972,0.700301969199744
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t6 in the whole body region",0.6932824492401305,0.7017549966613985
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t6 structures",0.6895334125644184,0.6971999680501336
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t6 in whole body ct scans",0.6904234961120593,0.6980050905135511
+"CT_TotalSeg-vertebrae(ct), vertebrae t6 observed in whole body ct imaging",0.6908358385088472,0.6983078991486302
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae t6",0.688589549501406,0.6957671513669494
+"CT_TotalSeg-vertebrae(ct), vertebrae t6 segmentation in whole body ct",0.6898499954284826,0.6973430293158235
+"CT_TotalSeg-vertebrae(ct), vertebrae t6 delineation in whole body ct imaging",0.6912822954919846,0.6990282437222043
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae t6 in the whole body",0.6902943943099115,0.6978682259574923
+"CT_TotalSeg-vertebrae(ct), vertebrae t5",0.741848752691072,0.747732884468503
+"CT_TotalSeg-vertebrae(ct), vertebrae t5 in whole body ct",0.7429576946741325,0.7485996893655542
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t5 in the whole body region",0.7436380683100862,0.7496895583483933
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t5 structures",0.7414886846966007,0.7468762989522362
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t5 in whole body ct scans",0.7424851520058745,0.7478958126178417
+"CT_TotalSeg-vertebrae(ct), vertebrae t5 observed in whole body ct imaging",0.743431202402241,0.7492145809665682
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae t5",0.7427379853983718,0.7480941539754637
+"CT_TotalSeg-vertebrae(ct), vertebrae t5 segmentation in whole body ct",0.7402130433177847,0.745339486889559
+"CT_TotalSeg-vertebrae(ct), vertebrae t5 delineation in whole body ct imaging",0.7438458172783056,0.7497220909588439
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae t5 in the whole body",0.740020824865157,0.7450716206080532
+"CT_TotalSeg-vertebrae(ct), vertebrae t4",0.7577203642172203,0.7532490333132654
+"CT_TotalSeg-vertebrae(ct), vertebrae t4 in whole body ct",0.7245665442482501,0.7191652420987141
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t4 in the whole body region",0.7247051398893309,0.7198725280907808
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t4 structures",0.7415841699958613,0.7367230634634168
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t4 in whole body ct scans",0.7238081699830681,0.7187355768199841
+"CT_TotalSeg-vertebrae(ct), vertebrae t4 observed in whole body ct imaging",0.7412965712959776,0.7357638308132007
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae t4",0.7256543176549441,0.7210410720873136
+"CT_TotalSeg-vertebrae(ct), vertebrae t4 segmentation in whole body ct",0.7249433006885032,0.719976979231722
+"CT_TotalSeg-vertebrae(ct), vertebrae t4 delineation in whole body ct imaging",0.7428630177576857,0.7379397404376444
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae t4 in the whole body",0.7251334064465041,0.7203548904290078
+"CT_TotalSeg-vertebrae(ct), vertebrae t3",0.7384970510602098,0.7406751014829986
+"CT_TotalSeg-vertebrae(ct), vertebrae t3 in whole body ct",0.7558457769031677,0.757450650237067
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t3 in the whole body region",0.7706561725677912,0.7720422563329475
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t3 structures",0.7562497680783538,0.7577989132450996
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t3 in whole body ct scans",0.7558704133947809,0.7575154323876943
+"CT_TotalSeg-vertebrae(ct), vertebrae t3 observed in whole body ct imaging",0.7740042801994476,0.7765254898277185
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae t3",0.739712967072816,0.7413719631262022
+"CT_TotalSeg-vertebrae(ct), vertebrae t3 segmentation in whole body ct",0.7571944935433751,0.7588650164069604
+"CT_TotalSeg-vertebrae(ct), vertebrae t3 delineation in whole body ct imaging",0.7570668211403782,0.7585416684053338
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae t3 in the whole body",0.7552264629512303,0.7568991556624788
+"CT_TotalSeg-vertebrae(ct), vertebrae t2",0.722736439022679,0.7140673806750811
+"CT_TotalSeg-vertebrae(ct), vertebrae t2 in whole body ct",0.7229616086478284,0.7135491205867702
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t2 in the whole body region",0.7069975185320029,0.6976377148857885
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t2 structures",0.7062316047788996,0.6967953667800707
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t2 in whole body ct scans",0.7239259533025604,0.7146612983520441
+"CT_TotalSeg-vertebrae(ct), vertebrae t2 observed in whole body ct imaging",0.7240413395795708,0.7146127237178286
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae t2",0.7393848932272493,0.7304013105243654
+"CT_TotalSeg-vertebrae(ct), vertebrae t2 segmentation in whole body ct",0.7235938996745698,0.7143591639678418
+"CT_TotalSeg-vertebrae(ct), vertebrae t2 delineation in whole body ct imaging",0.7240000607238793,0.7144906902716782
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae t2 in the whole body",0.7249178846240254,0.7157007322432742
+"CT_TotalSeg-vertebrae(ct), vertebrae t1",0.7149067605013537,0.7099164079945539
+"CT_TotalSeg-vertebrae(ct), vertebrae t1 in whole body ct",0.7158142215657349,0.7107512119046618
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae t1 in the whole body region",0.715773910066222,0.7104415706936534
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae t1 structures",0.715743064696219,0.71054038550502
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae t1 in whole body ct scans",0.7156179790386509,0.7104288505594659
+"CT_TotalSeg-vertebrae(ct), vertebrae t1 observed in whole body ct imaging",0.7162064215394595,0.7108537814220328
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae t1",0.7167198028482181,0.7110223253101932
+"CT_TotalSeg-vertebrae(ct), vertebrae t1 segmentation in whole body ct",0.715854941935696,0.7111235698958379
+"CT_TotalSeg-vertebrae(ct), vertebrae t1 delineation in whole body ct imaging",0.7161244473717846,0.7108928113241543
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae t1 in the whole body",0.7156660827034673,0.7107117392074942
+"CT_TotalSeg-vertebrae(ct), vertebrae c7",0.6518790987262509,0.673814295328235
+"CT_TotalSeg-vertebrae(ct), vertebrae c7 in whole body ct",0.6513833004976022,0.6754341883609252
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae c7 in the whole body region",0.6656523331172368,0.6885453018423259
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae c7 structures",0.6514616702344651,0.6750427139522862
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae c7 in whole body ct scans",0.6504359528243475,0.6714760167490573
+"CT_TotalSeg-vertebrae(ct), vertebrae c7 observed in whole body ct imaging",0.6505261270517195,0.6736773828409709
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae c7",0.6478970045060518,0.6690345935993199
+"CT_TotalSeg-vertebrae(ct), vertebrae c7 segmentation in whole body ct",0.6508384661832374,0.6754670733885618
+"CT_TotalSeg-vertebrae(ct), vertebrae c7 delineation in whole body ct imaging",0.6492896427716291,0.6703418420899344
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae c7 in the whole body",0.6495574225784606,0.6723938573742058
+"CT_TotalSeg-vertebrae(ct), vertebrae c6",0.5140485446610024,0.5572920812223988
+"CT_TotalSeg-vertebrae(ct), vertebrae c6 in whole body ct",0.5238975186328596,0.5635616512496828
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae c6 in the whole body region",0.5011919623693204,0.5370488773561275
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae c6 structures",0.5062101526613019,0.545804664889585
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae c6 in whole body ct scans",0.5117681166887853,0.5525863499343803
+"CT_TotalSeg-vertebrae(ct), vertebrae c6 observed in whole body ct imaging",0.5270584761438901,0.5694085139122422
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae c6",0.5141002652673886,0.5537195719223064
+"CT_TotalSeg-vertebrae(ct), vertebrae c6 segmentation in whole body ct",0.49137297947458436,0.5299017833811692
+"CT_TotalSeg-vertebrae(ct), vertebrae c6 delineation in whole body ct imaging",0.505749016374134,0.5460861398775892
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae c6 in the whole body",0.4899452107602885,0.5273730658190587
+"CT_TotalSeg-vertebrae(ct), vertebrae c5",0.4428996068951362,0.4550282274737326
+"CT_TotalSeg-vertebrae(ct), vertebrae c5 in whole body ct",0.45823779831386063,0.469978390523598
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae c5 in the whole body region",0.4751225629517311,0.48727597470341527
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae c5 structures",0.4424984311894505,0.4547189181500808
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae c5 in whole body ct scans",0.47581551257039184,0.48808408406496434
+"CT_TotalSeg-vertebrae(ct), vertebrae c5 observed in whole body ct imaging",0.45875022951745603,0.47121571588134753
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae c5",0.494863284217206,0.5080272848735666
+"CT_TotalSeg-vertebrae(ct), vertebrae c5 segmentation in whole body ct",0.45971560307844295,0.4719265972146454
+"CT_TotalSeg-vertebrae(ct), vertebrae c5 delineation in whole body ct imaging",0.4585665789148959,0.47077594731676714
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae c5 in the whole body",0.47561380883869353,0.48791252197637297
+"CT_TotalSeg-vertebrae(ct), vertebrae c4",0.3855874681001574,0.3917780297781925
+"CT_TotalSeg-vertebrae(ct), vertebrae c4 in whole body ct",0.40212066942056973,0.40848559110765403
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae c4 in the whole body region",0.43525724044979003,0.4416852186260121
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae c4 structures",0.40179827625568687,0.4082226659276339
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae c4 in whole body ct scans",0.4011802579392658,0.40729105179873515
+"CT_TotalSeg-vertebrae(ct), vertebrae c4 observed in whole body ct imaging",0.40156960207316394,0.4078831071793402
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae c4",0.4016395267974312,0.40804724699147754
+"CT_TotalSeg-vertebrae(ct), vertebrae c4 segmentation in whole body ct",0.4335213035848954,0.4393758699985908
+"CT_TotalSeg-vertebrae(ct), vertebrae c4 delineation in whole body ct imaging",0.400774243083791,0.4067037072547993
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae c4 in the whole body",0.419171948403509,0.42567564392996604
+"CT_TotalSeg-vertebrae(ct), vertebrae c3",0.3323833910047141,0.3385686059427643
+"CT_TotalSeg-vertebrae(ct), vertebrae c3 in whole body ct",0.3302765652612136,0.3365208841990754
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae c3 in the whole body region",0.2826821796459603,0.28887199914578243
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae c3 structures",0.28222784748059604,0.2884534347087871
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae c3 in whole body ct scans",0.3301028095799389,0.3363016134297436
+"CT_TotalSeg-vertebrae(ct), vertebrae c3 observed in whole body ct imaging",0.3290471882773018,0.33529885812423743
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae c3",0.36339393599471914,0.3698323984903998
+"CT_TotalSeg-vertebrae(ct), vertebrae c3 segmentation in whole body ct",0.3455854104180461,0.35197081632425326
+"CT_TotalSeg-vertebrae(ct), vertebrae c3 delineation in whole body ct imaging",0.3141229616935457,0.3203668417909144
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae c3 in the whole body",0.36342960520876083,0.369689461653876
+"CT_TotalSeg-vertebrae(ct), vertebrae c2",0.8110704277522078,0.8197851207971759
+"CT_TotalSeg-vertebrae(ct), vertebrae c2 in whole body ct",0.828624040353885,0.8375501422676953
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae c2 in the whole body region",0.8270801505783254,0.8353033141421581
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae c2 structures",0.8271812257474089,0.8356020168693498
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae c2 in whole body ct scans",0.8261224717021277,0.8340823554176088
+"CT_TotalSeg-vertebrae(ct), vertebrae c2 observed in whole body ct imaging",0.8285304288139412,0.8372003050448746
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body depicting vertebrae c2",0.8194688300562797,0.8276135694972766
+"CT_TotalSeg-vertebrae(ct), vertebrae c2 segmentation in whole body ct",0.8281725520385537,0.8366169761735097
+"CT_TotalSeg-vertebrae(ct), vertebrae c2 delineation in whole body ct imaging",0.8274574623341906,0.8356942373491951
+"CT_TotalSeg-vertebrae(ct), ct-based localization of vertebrae c2 in the whole body",0.8197408724386768,0.8280006433979451
+"CT_TotalSeg-vertebrae(ct), vertebrae c1",0.8598108786628804,0.8662090221713631
+"CT_TotalSeg-vertebrae(ct), vertebrae c1 in whole body ct",0.8601205710128642,0.8662844551324165
+"CT_TotalSeg-vertebrae(ct), ct imaging of vertebrae c1 in the whole body region",0.8608274897533998,0.866856277021175
+"CT_TotalSeg-vertebrae(ct), whole body ct showing vertebrae c1 structures",0.8593128514318938,0.8655005048197705
+"CT_TotalSeg-vertebrae(ct), visualization of vertebrae c1 in whole body ct scans",0.8603980073933741,0.8665332633550438
+"CT_TotalSeg-vertebrae(ct), vertebrae c1 observed in whole body ct imaging",0.8606623868815282,0.8667351586293968
+"CT_TotalSeg-vertebrae(ct), ct scan of the whole body highlighting vertebrae c1",0.8589719007990755,0.865269153961287
+"CT_TotalSeg-vertebrae(ct), vertebrae c1 segmentation in whole body ct",0.8579530000433542,0.8641729929191523
+"CT_TotalSeg-vertebrae(ct), vertebrae c1 delineation in whole body ct imaging",0.8596682744510146,0.8658977849550924
+"CT_TotalSeg-vertebrae(ct), ct-based identification of vertebrae c1 in the whole body",0.8602837359503784,0.8663539119337803
+CT_TotalSeg_cardiac(ct),0.5952416876159584,0.598989878956597
+"CT_TotalSeg_cardiac(ct), heart",0.7643000107917683,0.620886274459825
+"CT_TotalSeg_cardiac(ct), heart in whole body ct",0.7636332846454317,0.6211189086748189
+"CT_TotalSeg_cardiac(ct), ct imaging of the heart in the whole body region",0.7555426087696245,0.6129978590547712
+"CT_TotalSeg_cardiac(ct), whole body ct showing cardiac structures",0.7553042437463868,0.6129992071866215
+"CT_TotalSeg_cardiac(ct), visualization of the heart in whole body ct scans",0.755367356021405,0.6129369955644716
+"CT_TotalSeg_cardiac(ct), heart observed in whole body ct imaging",0.7719567509525028,0.6298047197164834
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body depicting the heart",0.7558422049505121,0.6129754462818922
+"CT_TotalSeg_cardiac(ct), heart segmentation in whole body ct",0.763586147338501,0.6213045842804817
+"CT_TotalSeg_cardiac(ct), heart delineation in whole body ct imaging",0.7551319359650602,0.6128536093181081
+"CT_TotalSeg_cardiac(ct), ct-based localization of the heart in the whole body",0.7555678281076748,0.6129579033474628
+"CT_TotalSeg_cardiac(ct), cardiac anatomy in whole body ct",0.7553938623071529,0.613050531892826
+"CT_TotalSeg_cardiac(ct), aorta",0.8294967109307008,0.7923753187655248
+"CT_TotalSeg_cardiac(ct), aorta in whole body ct",0.8312349788810026,0.7912793790348271
+"CT_TotalSeg_cardiac(ct), ct imaging of the aorta in the whole body region",0.8312893633499574,0.7919738600338133
+"CT_TotalSeg_cardiac(ct), whole body ct showing aortic structures",0.8317431622972762,0.7931545721057058
+"CT_TotalSeg_cardiac(ct), visualization of the aorta in whole body ct scans",0.8309598501733138,0.7914615750390565
+"CT_TotalSeg_cardiac(ct), aorta observed in whole body ct imaging",0.8316318825060061,0.7927785529605107
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body highlighting the aorta",0.8315021806748444,0.7933292567286839
+"CT_TotalSeg_cardiac(ct), aorta segmentation in whole body ct",0.8316355259643149,0.7927552448002071
+"CT_TotalSeg_cardiac(ct), aorta delineation in whole body ct imaging",0.831263449754321,0.7915602301323758
+"CT_TotalSeg_cardiac(ct), ct-based identification of the aorta in the whole body",0.8315936679939934,0.792786770753957
+"CT_TotalSeg_cardiac(ct), pulmonary vein",0.6446715684746088,0.6591719297467734
+"CT_TotalSeg_cardiac(ct), pulmonary vein in whole body ct",0.636047228258354,0.6508819583296456
+"CT_TotalSeg_cardiac(ct), ct imaging of the pulmonary vein in the whole body region",0.6363978221530335,0.6513654146129227
+"CT_TotalSeg_cardiac(ct), whole body ct showing pulmonary venous structures",0.635570916863769,0.6505380274707289
+"CT_TotalSeg_cardiac(ct), visualization of the pulmonary vein in whole body ct scans",0.636171163198266,0.6511818080100648
+"CT_TotalSeg_cardiac(ct), pulmonary vein observed in whole body ct imaging",0.6358794101082477,0.6508632020300813
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body depicting the pulmonary vein",0.6362312837966797,0.6510623087827534
+"CT_TotalSeg_cardiac(ct), pulmonary vein segmentation in whole body ct",0.6362191182468007,0.6510134879500606
+"CT_TotalSeg_cardiac(ct), pulmonary vein delineation in whole body ct imaging",0.6359449169760568,0.6510196093214274
+"CT_TotalSeg_cardiac(ct), ct-based localization of the pulmonary vein in the whole body",0.6365443131757594,0.6511342745938188
+"CT_TotalSeg_cardiac(ct), pulmonary venous anatomy in whole body ct",0.6357868855152093,0.6507160395661311
+"CT_TotalSeg_cardiac(ct), brachiocephalic trunk",0.4762571969887862,0.44548003281216236
+"CT_TotalSeg_cardiac(ct), brachiocephalic trunk in whole body ct",0.4844259300478439,0.4538174562349363
+"CT_TotalSeg_cardiac(ct), ct imaging of the brachiocephalic trunk in the whole body region",0.48465843198199615,0.45372281945646104
+"CT_TotalSeg_cardiac(ct), whole body ct showing brachiocephalic trunk structures",0.4850183632015377,0.45467132743844646
+"CT_TotalSeg_cardiac(ct), visualization of the brachiocephalic trunk in whole body ct scans",0.48422335197161004,0.4535335154404291
+"CT_TotalSeg_cardiac(ct), brachiocephalic trunk observed in whole body ct imaging",0.4847191806990154,0.4542591866781062
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body highlighting the brachiocephalic trunk",0.48503350430904446,0.4548182001411555
+"CT_TotalSeg_cardiac(ct), brachiocephalic trunk segmentation in whole body ct",0.48482918883240317,0.453913395423789
+"CT_TotalSeg_cardiac(ct), brachiocephalic trunk delineation in whole body ct imaging",0.4847799107761057,0.4541003532035971
+"CT_TotalSeg_cardiac(ct), ct-based identification of the brachiocephalic trunk in the whole body",0.48381337462315194,0.45318678855759864
+"CT_TotalSeg_cardiac(ct), brachiocephalic trunk anatomy in whole body ct",0.4849132861625657,0.4541590072605192
+"CT_TotalSeg_cardiac(ct), right subclavian artery",0.44630649495471364,0.4736100202934881
+"CT_TotalSeg_cardiac(ct), right subclavian artery in whole body ct",0.4452549640341362,0.4723274926597574
+"CT_TotalSeg_cardiac(ct), ct imaging of the right subclavian artery in the whole body region",0.4464700058685479,0.47374636107447016
+"CT_TotalSeg_cardiac(ct), whole body ct showing right subclavian arterial structures",0.4546572844596782,0.482023547064871
+"CT_TotalSeg_cardiac(ct), visualization of the right subclavian artery in whole body ct scans",0.4548966436548586,0.48228717201887134
+"CT_TotalSeg_cardiac(ct), right subclavian artery observed in whole body ct imaging",0.454761071356362,0.48190603047827857
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body depicting the right subclavian artery",0.447444223782237,0.47435720793008435
+"CT_TotalSeg_cardiac(ct), right subclavian artery segmentation in whole body ct",0.4552533468943011,0.48226829998412524
+"CT_TotalSeg_cardiac(ct), right subclavian artery delineation in whole body ct imaging",0.45544978201049297,0.482597217493053
+"CT_TotalSeg_cardiac(ct), ct-based localization of the right subclavian artery in the whole body",0.4464888200316355,0.47376159956655267
+"CT_TotalSeg_cardiac(ct), right subclavian artery anatomy in whole body ct",0.4457249227004339,0.4729810031187269
+"CT_TotalSeg_cardiac(ct), left subclavian artery",0.4626719454401076,0.4898798455889016
+"CT_TotalSeg_cardiac(ct), left subclavian artery in whole body ct",0.46305361003465206,0.490149955529125
+"CT_TotalSeg_cardiac(ct), ct imaging of the left subclavian artery in the whole body region",0.4620158742038449,0.4892550869011398
+"CT_TotalSeg_cardiac(ct), whole body ct showing left subclavian arterial structures",0.4624597291487349,0.48962424856109044
+"CT_TotalSeg_cardiac(ct), visualization of the left subclavian artery in whole body ct scans",0.4617792203500284,0.4894717648644038
+"CT_TotalSeg_cardiac(ct), left subclavian artery observed in whole body ct imaging",0.4625597990158109,0.4896992671556296
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body highlighting the left subclavian artery",0.4630812169284767,0.49002269617972216
+"CT_TotalSeg_cardiac(ct), left subclavian artery segmentation in whole body ct",0.46255210381011214,0.48949523807146617
+"CT_TotalSeg_cardiac(ct), left subclavian artery delineation in whole body ct imaging",0.4632241550729278,0.4900122735550827
+"CT_TotalSeg_cardiac(ct), ct-based identification of the left subclavian artery in the whole body",0.4622656764794157,0.48923655704645796
+"CT_TotalSeg_cardiac(ct), left subclavian artery anatomy in whole body ct",0.4628821323428758,0.4898894336529222
+"CT_TotalSeg_cardiac(ct), right common carotid artery",0.5877134535995459,0.6655717532367346
+"CT_TotalSeg_cardiac(ct), right common carotid artery in whole body ct",0.5784338951174941,0.6558683296279179
+"CT_TotalSeg_cardiac(ct), ct imaging of the right common carotid artery in the whole body region",0.587162443545962,0.6645820456579451
+"CT_TotalSeg_cardiac(ct), whole body ct showing right common carotid arterial structures",0.5701247028003887,0.6479019616765483
+"CT_TotalSeg_cardiac(ct), visualization of the right common carotid artery in whole body ct scans",0.5786225938354084,0.6557963631246595
+"CT_TotalSeg_cardiac(ct), right common carotid artery observed in whole body ct imaging",0.5873252033929381,0.6648483207991572
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body depicting the right common carotid artery",0.5784801346738712,0.6556470919773343
+"CT_TotalSeg_cardiac(ct), right common carotid artery segmentation in whole body ct",0.5786016375175831,0.6561152762602331
+"CT_TotalSeg_cardiac(ct), right common carotid artery delineation in whole body ct imaging",0.5705706354522493,0.6479786159336578
+"CT_TotalSeg_cardiac(ct), ct-based localization of the right common carotid artery in the whole body",0.5868351859030311,0.6639094156937929
+"CT_TotalSeg_cardiac(ct), right common carotid artery anatomy in whole body ct",0.578810878430667,0.6563470960077548
+"CT_TotalSeg_cardiac(ct), left common carotid artery",0.5050919919574482,0.5523991436890993
+"CT_TotalSeg_cardiac(ct), left common carotid artery in whole body ct",0.5053438997265183,0.5526608103079228
+"CT_TotalSeg_cardiac(ct), ct imaging of the left common carotid artery in the whole body region",0.504967727865203,0.5520763377038
+"CT_TotalSeg_cardiac(ct), whole body ct showing left common carotid arterial structures",0.47880410638171866,0.5254502353794382
+"CT_TotalSeg_cardiac(ct), visualization of the left common carotid artery in whole body ct scans",0.4793583412840192,0.526512795606126
+"CT_TotalSeg_cardiac(ct), left common carotid artery observed in whole body ct imaging",0.5052734917013127,0.552767378375336
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body highlighting the left common carotid artery",0.505186383389646,0.552514924752412
+"CT_TotalSeg_cardiac(ct), left common carotid artery segmentation in whole body ct",0.514139231319577,0.5616961448345578
+"CT_TotalSeg_cardiac(ct), left common carotid artery delineation in whole body ct imaging",0.5054871490303071,0.552763860292569
+"CT_TotalSeg_cardiac(ct), ct-based identification of the left common carotid artery in the whole body",0.5051488727548443,0.552633275436419
+"CT_TotalSeg_cardiac(ct), left common carotid artery anatomy in whole body ct",0.5052831700582614,0.5526600856484012
+"CT_TotalSeg_cardiac(ct), left brachiocephalic vein",0.6314637611684552,0.6440856690024268
+"CT_TotalSeg_cardiac(ct), left brachiocephalic vein in whole body ct",0.6317344582155976,0.6444624809363841
+"CT_TotalSeg_cardiac(ct), ct imaging of the left brachiocephalic vein in the whole body region",0.6316800039996939,0.6444032039500667
+"CT_TotalSeg_cardiac(ct), whole body ct showing left brachiocephalic venous structures",0.6312352733145605,0.6437733857389804
+"CT_TotalSeg_cardiac(ct), visualization of the left brachiocephalic vein in whole body ct scans",0.631445680639874,0.6442374761450002
+"CT_TotalSeg_cardiac(ct), left brachiocephalic vein observed in whole body ct imaging",0.6312558961567343,0.6439128672203339
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body depicting the left brachiocephalic vein",0.6315065997663654,0.6443475127513876
+"CT_TotalSeg_cardiac(ct), left brachiocephalic vein segmentation in whole body ct",0.6311009127933572,0.6437033547711547
+"CT_TotalSeg_cardiac(ct), left brachiocephalic vein delineation in whole body ct imaging",0.6311075402382094,0.6437564451811004
+"CT_TotalSeg_cardiac(ct), ct-based localization of the left brachiocephalic vein in the whole body",0.6308491126703759,0.6434275936384504
+"CT_TotalSeg_cardiac(ct), left brachiocephalic venous anatomy in whole body ct",0.6304007370375536,0.642688849051015
+"CT_TotalSeg_cardiac(ct), right brachiocephalic vein",0.5411020841758055,0.535821722802297
+"CT_TotalSeg_cardiac(ct), right brachiocephalic vein in whole body ct",0.5400979665259582,0.5349276337437543
+"CT_TotalSeg_cardiac(ct), ct imaging of the right brachiocephalic vein in the whole body region",0.5587631193225363,0.5534700808244036
+"CT_TotalSeg_cardiac(ct), whole body ct showing right brachiocephalic venous structures",0.5480579551452416,0.5420089176501315
+"CT_TotalSeg_cardiac(ct), visualization of the right brachiocephalic vein in whole body ct scans",0.5489575593044966,0.543179345509826
+"CT_TotalSeg_cardiac(ct), right brachiocephalic vein observed in whole body ct imaging",0.5572678377703202,0.5519551062762023
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body highlighting the right brachiocephalic vein",0.5501438321816164,0.5445381770584741
+"CT_TotalSeg_cardiac(ct), right brachiocephalic vein segmentation in whole body ct",0.5496543565903724,0.5438949090575231
+"CT_TotalSeg_cardiac(ct), right brachiocephalic vein delineation in whole body ct imaging",0.5576111538435237,0.5521055525056706
+"CT_TotalSeg_cardiac(ct), ct-based identification of the right brachiocephalic vein in the whole body",0.5576881974176179,0.5523311258269118
+"CT_TotalSeg_cardiac(ct), right brachiocephalic venous anatomy in whole body ct",0.5492122711512277,0.543213192594458
+"CT_TotalSeg_cardiac(ct), left atrial appendage",0.6045162567608731,0.608783094470162
+"CT_TotalSeg_cardiac(ct), left atrial appendage in whole body ct",0.6211988602394253,0.6265212877766715
+"CT_TotalSeg_cardiac(ct), ct imaging of the left atrial appendage in the whole body region",0.621499624055601,0.6267547901478022
+"CT_TotalSeg_cardiac(ct), whole body ct showing left atrial appendage structures",0.621841758662873,0.6270951410338413
+"CT_TotalSeg_cardiac(ct), visualization of the left atrial appendage in whole body ct scans",0.6298533930083594,0.6352950079954517
+"CT_TotalSeg_cardiac(ct), left atrial appendage observed in whole body ct imaging",0.621768782938323,0.6269874228590115
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body depicting the left atrial appendage",0.6215241729800494,0.6267930569565048
+"CT_TotalSeg_cardiac(ct), left atrial appendage segmentation in whole body ct",0.6217471457150389,0.6270329795008152
+"CT_TotalSeg_cardiac(ct), left atrial appendage delineation in whole body ct imaging",0.6392309290459732,0.6443916750354826
+"CT_TotalSeg_cardiac(ct), ct-based localization of the left atrial appendage in the whole body",0.630179090323794,0.6356770524911811
+"CT_TotalSeg_cardiac(ct), left atrial appendage anatomy in whole body ct",0.6218475727870827,0.6270255934727732
+"CT_TotalSeg_cardiac(ct), superior vena cava",0.589808100749624,0.5725594932160163
+"CT_TotalSeg_cardiac(ct), superior vena cava in whole body ct",0.5889671693138756,0.5719769831144647
+"CT_TotalSeg_cardiac(ct), ct imaging of the superior vena cava in the whole body region",0.5880533741431242,0.5711403204808012
+"CT_TotalSeg_cardiac(ct), whole body ct showing superior vena caval structures",0.5875059914509368,0.5703454629767608
+"CT_TotalSeg_cardiac(ct), visualization of the superior vena cava in whole body ct scans",0.5872094254435776,0.5698529893359204
+"CT_TotalSeg_cardiac(ct), superior vena cava observed in whole body ct imaging",0.588428456394815,0.571800079973547
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body highlighting the superior vena cava",0.58632366288057,0.5684961803970214
+"CT_TotalSeg_cardiac(ct), superior vena cava segmentation in whole body ct",0.58761474294652,0.5704165628998357
+"CT_TotalSeg_cardiac(ct), superior vena cava delineation in whole body ct imaging",0.5883606383050538,0.5714441402344624
+"CT_TotalSeg_cardiac(ct), ct-based identification of the superior vena cava in the whole body",0.5871209351447961,0.5696819746516005
+"CT_TotalSeg_cardiac(ct), superior vena caval anatomy in whole body ct",0.5881366831062761,0.5714495955956375
+"CT_TotalSeg_cardiac(ct), inferior vena cava",0.7509155230432206,0.714564204553468
+"CT_TotalSeg_cardiac(ct), inferior vena cava in whole body ct",0.7350738742721341,0.6996754162114606
+"CT_TotalSeg_cardiac(ct), ct imaging of the inferior vena cava in the whole body region",0.7522767092670205,0.7169981241203089
+"CT_TotalSeg_cardiac(ct), whole body ct showing inferior vena caval structures",0.7521919832354073,0.7164619855421531
+"CT_TotalSeg_cardiac(ct), visualization of the inferior vena cava in whole body ct scans",0.7521070276337608,0.7166086546444884
+"CT_TotalSeg_cardiac(ct), inferior vena cava observed in whole body ct imaging",0.751885136552101,0.7163574962779726
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body depicting the inferior vena cava",0.7521665538617966,0.716623937424512
+"CT_TotalSeg_cardiac(ct), inferior vena cava segmentation in whole body ct",0.7523264270772241,0.7168809405409537
+"CT_TotalSeg_cardiac(ct), inferior vena cava delineation in whole body ct imaging",0.7520488568315756,0.7165549292849526
+"CT_TotalSeg_cardiac(ct), ct-based localization of the inferior vena cava in the whole body",0.7438086614189184,0.708509150630774
+"CT_TotalSeg_cardiac(ct), inferior vena caval anatomy in whole body ct",0.7435661851100176,0.708115864100402
+"CT_TotalSeg_cardiac(ct), portal vein and splenic vein",0.5495451896119751,0.5737381991710704
+"CT_TotalSeg_cardiac(ct), portal vein and splenic vein in whole body ct",0.5491864696066823,0.5735760521099759
+"CT_TotalSeg_cardiac(ct), ct imaging of the portal vein and splenic vein in the whole body region",0.566742501327939,0.5911699510352321
+"CT_TotalSeg_cardiac(ct), whole body ct showing portal and splenic venous structures",0.5749052428281329,0.5986723013081484
+"CT_TotalSeg_cardiac(ct), visualization of the portal vein and splenic vein in whole body ct scans",0.5666533241637003,0.5910842798324683
+"CT_TotalSeg_cardiac(ct), portal vein and splenic vein observed in whole body ct imaging",0.5665211962231366,0.5909928816349378
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body highlighting the portal vein and splenic vein",0.5577904546102777,0.5819559889617991
+"CT_TotalSeg_cardiac(ct), portal vein and splenic vein segmentation in whole body ct",0.5661981718532825,0.5904022748145443
+"CT_TotalSeg_cardiac(ct), portal vein and splenic vein delineation in whole body ct imaging",0.5663402383051297,0.5906407522307373
+"CT_TotalSeg_cardiac(ct), ct-based identification of the portal vein and splenic vein in the whole body",0.5578745785783469,0.5823091966584407
+"CT_TotalSeg_cardiac(ct), portal and splenic venous anatomy in whole body ct",0.5667855041325978,0.5909231467337612
+"CT_TotalSeg_cardiac(ct), left iliac artery",0.5230121791428444,0.5594828400452359
+"CT_TotalSeg_cardiac(ct), left iliac artery in whole body ct",0.5146396366119005,0.550809643362301
+"CT_TotalSeg_cardiac(ct), ct imaging of the left iliac artery in the whole body region",0.5050658795764497,0.5412661983385608
+"CT_TotalSeg_cardiac(ct), whole body ct showing left iliac arterial structures",0.5346315729513692,0.5716337650250621
+"CT_TotalSeg_cardiac(ct), visualization of the left iliac artery in whole body ct scans",0.5057068630559048,0.5420829583876339
+"CT_TotalSeg_cardiac(ct), left iliac artery observed in whole body ct imaging",0.5232318011791552,0.5596246526516412
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body depicting the left iliac artery",0.5147461654560062,0.5512668632814878
+"CT_TotalSeg_cardiac(ct), left iliac artery segmentation in whole body ct",0.5333262404701304,0.5696305008619593
+"CT_TotalSeg_cardiac(ct), left iliac artery delineation in whole body ct imaging",0.5145178725424218,0.5508601242292933
+"CT_TotalSeg_cardiac(ct), ct-based localization of the left iliac artery in the whole body",0.5149449603777352,0.5516095105578281
+"CT_TotalSeg_cardiac(ct), left iliac arterial anatomy in whole body ct",0.5247450753945676,0.5611635621511702
+"CT_TotalSeg_cardiac(ct), right iliac artery",0.703397825903987,0.7459082928032563
+"CT_TotalSeg_cardiac(ct), right iliac artery in whole body ct",0.6940314386952959,0.736563784761764
+"CT_TotalSeg_cardiac(ct), ct imaging of the right iliac artery in the whole body region",0.6941900545685157,0.7368989591441047
+"CT_TotalSeg_cardiac(ct), whole body ct showing right iliac arterial structures",0.6943756586288916,0.7368376518123955
+"CT_TotalSeg_cardiac(ct), visualization of the right iliac artery in whole body ct scans",0.6938301394414764,0.7366012818884395
+"CT_TotalSeg_cardiac(ct), right iliac artery observed in whole body ct imaging",0.7024177922716052,0.7450593186289801
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body highlighting the right iliac artery",0.6943454757177623,0.7368365148181573
+"CT_TotalSeg_cardiac(ct), right iliac artery segmentation in whole body ct",0.7023270665050648,0.7449749836417859
+"CT_TotalSeg_cardiac(ct), right iliac artery delineation in whole body ct imaging",0.6941716369838765,0.7366959674581363
+"CT_TotalSeg_cardiac(ct), ct-based identification of the right iliac artery in the whole body",0.7031922896555455,0.74571603421156
+"CT_TotalSeg_cardiac(ct), right iliac arterial anatomy in whole body ct",0.694230656914717,0.7366756801645686
+"CT_TotalSeg_cardiac(ct), left iliac vena",0.5023486358140491,0.5095218619543918
+"CT_TotalSeg_cardiac(ct), left iliac vena in whole body ct",0.5008954308298124,0.5081081854329527
+"CT_TotalSeg_cardiac(ct), ct imaging of the left iliac vena in the whole body region",0.5030491948269925,0.5101580363719098
+"CT_TotalSeg_cardiac(ct), whole body ct showing left iliac venous structures",0.5026363111289506,0.5097928629829402
+"CT_TotalSeg_cardiac(ct), visualization of the left iliac vena in whole body ct scans",0.5026464241161667,0.5097692357255179
+"CT_TotalSeg_cardiac(ct), left iliac vena observed in whole body ct imaging",0.5025439383845957,0.5097414496461443
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body depicting the left iliac vena",0.5043237728171113,0.5116144375368272
+"CT_TotalSeg_cardiac(ct), left iliac vena segmentation in whole body ct",0.5020361742341347,0.5090145340445229
+"CT_TotalSeg_cardiac(ct), left iliac vena delineation in whole body ct imaging",0.5026220243854095,0.5097502856955082
+"CT_TotalSeg_cardiac(ct), ct-based localization of the left iliac vena in the whole body",0.5034324259498939,0.5105363436498918
+"CT_TotalSeg_cardiac(ct), left iliac venous anatomy in whole body ct",0.5009553475951035,0.5081534458578885
+"CT_TotalSeg_cardiac(ct), right iliac vena",0.575790163488456,0.5873709411858253
+"CT_TotalSeg_cardiac(ct), right iliac vena in whole body ct",0.6018931886098484,0.613601754012578
+"CT_TotalSeg_cardiac(ct), ct imaging of the right iliac vena in the whole body region",0.6017366464860221,0.6134372433141675
+"CT_TotalSeg_cardiac(ct), whole body ct showing right iliac venous structures",0.6286277543176938,0.640359207995705
+"CT_TotalSeg_cardiac(ct), visualization of the right iliac vena in whole body ct scans",0.6190216290841491,0.630761596381694
+"CT_TotalSeg_cardiac(ct), right iliac vena observed in whole body ct imaging",0.6194593811117208,0.6312388852485578
+"CT_TotalSeg_cardiac(ct), ct scan of the whole body highlighting the right iliac vena",0.5934756272034123,0.605157825068503
+"CT_TotalSeg_cardiac(ct), right iliac vena segmentation in whole body ct",0.6280863319519523,0.6398231502056199
+"CT_TotalSeg_cardiac(ct), right iliac vena delineation in whole body ct imaging",0.6018911611428386,0.613631600136344
+"CT_TotalSeg_cardiac(ct), ct-based identification of the right iliac vena in the whole body",0.5758179083486116,0.5874097411336057
+"CT_TotalSeg_cardiac(ct), right iliac venous anatomy in whole body ct",0.628130316306247,0.6400187039648514
+CT_TotalSeg_muscles(ct),0.6763687329276035,0.6269550319945708
+"CT_TotalSeg_muscles(ct), left humerus",0.4089210311341099,0.3651045239495515
+"CT_TotalSeg_muscles(ct), left humerus in whole body ct",0.42581947271012516,0.38009553490136444
+"CT_TotalSeg_muscles(ct), left humeral bone in whole body ct imaging",0.4250779568776466,0.3784801958957809
+"CT_TotalSeg_muscles(ct), ct visualization of the left humeral shaft",0.40783925666719845,0.36208095975204013
+"CT_TotalSeg_muscles(ct), whole body ct showing left proximal humerus",0.42601227126672514,0.3820873656919646
+"CT_TotalSeg_muscles(ct), left humeral diaphysis in ct",0.4083794406726239,0.3623430099747138
+"CT_TotalSeg_muscles(ct), ct-based segmentation of the left humerus",0.41644550964822374,0.37053737550185406
+"CT_TotalSeg_muscles(ct), ct scan depicting left humeral anatomy",0.4165839946205662,0.3699211637543824
+"CT_TotalSeg_muscles(ct), left humeral head localization in ct",0.4175776529090041,0.37243548732061593
+"CT_TotalSeg_muscles(ct), right humerus",0.4326762476328974,0.37502159456074835
+"CT_TotalSeg_muscles(ct), right humerus in whole body ct",0.448911263451885,0.3921773118848634
+"CT_TotalSeg_muscles(ct), right humeral bone in whole body ct imaging",0.4484615951739596,0.39218660238562797
+"CT_TotalSeg_muscles(ct), ct visualization of the right humeral shaft",0.431261917846875,0.37469995290162356
+"CT_TotalSeg_muscles(ct), whole body ct showing right proximal humerus",0.4485931878451233,0.3922705690267552
+"CT_TotalSeg_muscles(ct), right humeral diaphysis in ct",0.43158262651646145,0.37491822014564913
+"CT_TotalSeg_muscles(ct), ct-based segmentation of the right humerus",0.4396722534784943,0.3824673900516324
+"CT_TotalSeg_muscles(ct), ct scan depicting right humeral anatomy",0.4397891738244618,0.3830249035914866
+"CT_TotalSeg_muscles(ct), right humeral head localization in ct",0.4314044496636761,0.37495022111582205
+"CT_TotalSeg_muscles(ct), left scapula",0.5282529635949436,0.5832762403830549
+"CT_TotalSeg_muscles(ct), left scapula in whole body ct",0.528604372730029,0.5837988061583855
+"CT_TotalSeg_muscles(ct), left shoulder blade in ct imaging",0.519816875320877,0.5746319865509327
+"CT_TotalSeg_muscles(ct), ct visualization of the left scapular body",0.5197331674359336,0.575474867125544
+"CT_TotalSeg_muscles(ct), ct-based segmentation of the left scapula",0.5192876440068922,0.5745312905871507
+"CT_TotalSeg_muscles(ct), ct scan depicting left scapular anatomy",0.5195590346697846,0.575381671882761
+"CT_TotalSeg_muscles(ct), right scapula",0.4478856176380149,0.471872248038632
+"CT_TotalSeg_muscles(ct), right scapula in whole body ct",0.4485953866793823,0.47163135939294404
+"CT_TotalSeg_muscles(ct), right shoulder blade in ct imaging",0.44848805233025574,0.4716228026215353
+"CT_TotalSeg_muscles(ct), ct visualization of the right scapular body",0.448224632242787,0.4718986530956873
+"CT_TotalSeg_muscles(ct), ct-based segmentation of the right scapula",0.44883329077820644,0.47222134030261576
+"CT_TotalSeg_muscles(ct), ct scan depicting right scapular anatomy",0.4482597317883922,0.4714836501869775
+"CT_TotalSeg_muscles(ct), left clavicula",0.5103592727979951,0.507790820703042
+"CT_TotalSeg_muscles(ct), left clavicula in whole body ct",0.5179802242393365,0.5132274781324822
+"CT_TotalSeg_muscles(ct), ct imaging of the left clavicula in the whole body region",0.5176382007143074,0.5125077081777902
+"CT_TotalSeg_muscles(ct), whole body ct showing left clavicular structures",0.5174080617756716,0.5128114536259454
+"CT_TotalSeg_muscles(ct), visualization of the left clavicula in whole body ct scans",0.5177327506119107,0.5131888855593071
+"CT_TotalSeg_muscles(ct), left clavicula observed in whole body ct imaging",0.5099122803541433,0.505425567545409
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left clavicula",0.508943983553397,0.5044945808497922
+"CT_TotalSeg_muscles(ct), left clavicula segmentation in whole body ct",0.5178911010174487,0.513311455670757
+"CT_TotalSeg_muscles(ct), left clavicula delineation in whole body ct imaging",0.5186542536685878,0.5143643502177806
+"CT_TotalSeg_muscles(ct), ct-based localization of the left clavicula in the whole body",0.5100279810277076,0.5055494772291773
+"CT_TotalSeg_muscles(ct), left clavicular anatomy in whole body ct",0.524317409644579,0.5191617564369262
+"CT_TotalSeg_muscles(ct), right clavicula",0.42083270556470886,0.3907087973678967
+"CT_TotalSeg_muscles(ct), right clavicula in whole body ct",0.4218817448642153,0.3909093423418731
+"CT_TotalSeg_muscles(ct), ct imaging of the right clavicula in the whole body region",0.4204601076690472,0.3899841071306558
+"CT_TotalSeg_muscles(ct), whole body ct showing right clavicular structures",0.4149514975793139,0.38388816227507777
+"CT_TotalSeg_muscles(ct), visualization of the right clavicula in whole body ct scans",0.4229742414812759,0.39136039158709546
+"CT_TotalSeg_muscles(ct), right clavicula observed in whole body ct imaging",0.42225378462377344,0.39110659588231156
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right clavicula",0.4211482413965807,0.3901725406046867
+"CT_TotalSeg_muscles(ct), right clavicula segmentation in whole body ct",0.4217626959227251,0.3910505001544757
+"CT_TotalSeg_muscles(ct), right clavicula delineation in whole body ct imaging",0.41432488681421475,0.3831212527667015
+"CT_TotalSeg_muscles(ct), ct-based identification of the right clavicula in the whole body",0.42140565962064647,0.3905121843673465
+"CT_TotalSeg_muscles(ct), right clavicular anatomy in whole body ct",0.41562212354807354,0.3843636622123536
+"CT_TotalSeg_muscles(ct), left femur",0.713092473141788,0.6351785626785358
+"CT_TotalSeg_muscles(ct), left femur in whole body ct",0.7133908190666219,0.6373575701130562
+"CT_TotalSeg_muscles(ct), ct imaging of the left femur in the whole body region",0.721712426764872,0.645082346593234
+"CT_TotalSeg_muscles(ct), whole body ct showing left femoral structures",0.7295958116384151,0.6529394912899706
+"CT_TotalSeg_muscles(ct), visualization of the left femur in whole body ct scans",0.7134027684029113,0.637331888752483
+"CT_TotalSeg_muscles(ct), left femur observed in whole body ct imaging",0.7134663072466114,0.6368779708932215
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left femur",0.7215795532086072,0.6447176655954563
+"CT_TotalSeg_muscles(ct), left femur segmentation in whole body ct",0.7050441469673507,0.6305158010131895
+"CT_TotalSeg_muscles(ct), left femur delineation in whole body ct imaging",0.713491740136472,0.6373692437873992
+"CT_TotalSeg_muscles(ct), ct-based localization of the left femur in the whole body",0.7217240122555677,0.6454027782259009
+"CT_TotalSeg_muscles(ct), left femoral anatomy in whole body ct",0.721404682906119,0.6465715253178073
+"CT_TotalSeg_muscles(ct), right femur",0.7287777669927773,0.6383568993942413
+"CT_TotalSeg_muscles(ct), right femur in whole body ct",0.7362624262369791,0.6459995167731808
+"CT_TotalSeg_muscles(ct), ct imaging of the right femur in the whole body region",0.7360228547552681,0.6459090907890943
+"CT_TotalSeg_muscles(ct), whole body ct showing right femoral structures",0.7187395241043745,0.6286958498865317
+"CT_TotalSeg_muscles(ct), visualization of the right femur in whole body ct scans",0.7357499845618447,0.6455437827313357
+"CT_TotalSeg_muscles(ct), right femur observed in whole body ct imaging",0.73591110202538,0.6456132587206792
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right femur",0.7359728437144765,0.6460888845028473
+"CT_TotalSeg_muscles(ct), right femur segmentation in whole body ct",0.7271795818375754,0.6371125432720114
+"CT_TotalSeg_muscles(ct), right femur delineation in whole body ct imaging",0.7357190959065233,0.6453343679211617
+"CT_TotalSeg_muscles(ct), ct-based identification of the right femur in the whole body",0.7361938005110498,0.6458843808679317
+"CT_TotalSeg_muscles(ct), right femoral anatomy in whole body ct",0.7186978338005946,0.6285704526415001
+"CT_TotalSeg_muscles(ct), left hip",0.7282131492671485,0.7085476301277542
+"CT_TotalSeg_muscles(ct), left hip in whole body ct",0.695368987806069,0.675870117225473
+"CT_TotalSeg_muscles(ct), ct imaging of the left hip in the whole body region",0.6950019880153551,0.6752885633194523
+"CT_TotalSeg_muscles(ct), whole body ct showing left hip structures",0.6951975246219575,0.6755662228511418
+"CT_TotalSeg_muscles(ct), visualization of the left hip in whole body ct scans",0.6867684835005742,0.6671526429295289
+"CT_TotalSeg_muscles(ct), left hip observed in whole body ct imaging",0.6951860449470731,0.6756502868301212
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left hip",0.6951910136082432,0.6754239418385963
+"CT_TotalSeg_muscles(ct), left hip segmentation in whole body ct",0.6950710969170935,0.6755396126020052
+"CT_TotalSeg_muscles(ct), left hip delineation in whole body ct imaging",0.6951476695397711,0.675632985814804
+"CT_TotalSeg_muscles(ct), ct-based localization of the left hip in the whole body",0.7030661411205559,0.6835019546990845
+"CT_TotalSeg_muscles(ct), left hip anatomy in whole body ct",0.6955045304996864,0.6759710369812224
+"CT_TotalSeg_muscles(ct), right hip",0.6884926259948635,0.6578273444600938
+"CT_TotalSeg_muscles(ct), right hip in whole body ct",0.6882259684811699,0.6574098708668767
+"CT_TotalSeg_muscles(ct), ct imaging of the right hip in the whole body region",0.6881743559325881,0.6571464240187072
+"CT_TotalSeg_muscles(ct), whole body ct showing right hip structures",0.6882370453892585,0.6572288038402021
+"CT_TotalSeg_muscles(ct), visualization of the right hip in whole body ct scans",0.6799297008975552,0.6490288076058479
+"CT_TotalSeg_muscles(ct), right hip observed in whole body ct imaging",0.6880886577416025,0.6571287465377512
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right hip",0.67983728582371,0.6491206994294979
+"CT_TotalSeg_muscles(ct), right hip segmentation in whole body ct",0.6881070416181014,0.6571572067146964
+"CT_TotalSeg_muscles(ct), right hip delineation in whole body ct imaging",0.6880681583298764,0.6571142523522433
+"CT_TotalSeg_muscles(ct), ct-based identification of the right hip in the whole body",0.6881888872076061,0.6571786245904687
+"CT_TotalSeg_muscles(ct), right hip anatomy in whole body ct",0.6800086617840074,0.649086965382033
+"CT_TotalSeg_muscles(ct), spinal cord",0.8311207520869359,0.8760133079150024
+"CT_TotalSeg_muscles(ct), spinal cord in whole body ct",0.8306243042821617,0.875399658802021
+"CT_TotalSeg_muscles(ct), ct imaging of the spinal cord in the whole body region",0.8308122664147956,0.8756015430635279
+"CT_TotalSeg_muscles(ct), whole body ct showing spinal cord structures",0.830725153412293,0.8755055625584378
+"CT_TotalSeg_muscles(ct), visualization of the spinal cord in whole body ct scans",0.830765161811468,0.8755800024739165
+"CT_TotalSeg_muscles(ct), spinal cord observed in whole body ct imaging",0.8306895577736386,0.8754758534734771
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the spinal cord",0.8308278670296815,0.875578883441379
+"CT_TotalSeg_muscles(ct), spinal cord segmentation in whole body ct",0.8307729565138794,0.8756231539195672
+"CT_TotalSeg_muscles(ct), spinal cord delineation in whole body ct imaging",0.8308076200785646,0.8757480657275881
+"CT_TotalSeg_muscles(ct), ct-based localization of the spinal cord in the whole body",0.8308002641460696,0.8757516085725855
+"CT_TotalSeg_muscles(ct), spinal cord anatomy in whole body ct",0.8307090409375171,0.8756801496961958
+"CT_TotalSeg_muscles(ct), left gluteus maximus",0.5613667580034276,0.4565422413380084
+"CT_TotalSeg_muscles(ct), left gluteus maximus in whole body ct",0.5532407150138465,0.44881652062265853
+"CT_TotalSeg_muscles(ct), ct imaging of the left gluteus maximus in the whole body region",0.5533404362355636,0.44934693407241133
+"CT_TotalSeg_muscles(ct), whole body ct showing left gluteus maximus structures",0.5449938984768326,0.4403352652807564
+"CT_TotalSeg_muscles(ct), visualization of the left gluteus maximus in whole body ct scans",0.5698243334929345,0.465473100190428
+"CT_TotalSeg_muscles(ct), left gluteus maximus observed in whole body ct imaging",0.5533057778235111,0.44912462810714815
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left gluteus maximus",0.5780945924903064,0.47393891958842294
+"CT_TotalSeg_muscles(ct), left gluteus maximus segmentation in whole body ct",0.5532145344125541,0.4483875605562668
+"CT_TotalSeg_muscles(ct), left gluteus maximus delineation in whole body ct imaging",0.5945813289625107,0.48998089208908496
+"CT_TotalSeg_muscles(ct), ct-based localization of the left gluteus maximus in the whole body",0.5781039784033347,0.4735868430519845
+"CT_TotalSeg_muscles(ct), left gluteus maximus anatomy in whole body ct",0.5615398530211334,0.4568853715408049
+"CT_TotalSeg_muscles(ct), right gluteus maximus",0.7854948825727188,0.7115304770241783
+"CT_TotalSeg_muscles(ct), right gluteus maximus in whole body ct",0.8104177571549568,0.7362404007069233
+"CT_TotalSeg_muscles(ct), ct imaging of the right gluteus maximus in the whole body region",0.8187064503081288,0.7447802941574987
+"CT_TotalSeg_muscles(ct), whole body ct showing right gluteus maximus structures",0.8272196053674062,0.7525946732247447
+"CT_TotalSeg_muscles(ct), visualization of the right gluteus maximus in whole body ct scans",0.8102982173804351,0.736391607223454
+"CT_TotalSeg_muscles(ct), right gluteus maximus observed in whole body ct imaging",0.7937335948146763,0.7199373142810799
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right gluteus maximus",0.8018565873139961,0.7283229745669217
+"CT_TotalSeg_muscles(ct), right gluteus maximus segmentation in whole body ct",0.8022855410097663,0.7277092302459736
+"CT_TotalSeg_muscles(ct), right gluteus maximus delineation in whole body ct imaging",0.8187261622861912,0.7445675305930731
+"CT_TotalSeg_muscles(ct), ct-based identification of the right gluteus maximus in the whole body",0.8103231223115069,0.7365024691512446
+"CT_TotalSeg_muscles(ct), right gluteus maximus anatomy in whole body ct",0.8188988761916944,0.7443739890289327
+"CT_TotalSeg_muscles(ct), left gluteus medius",0.7068265690961945,0.593246550536736
+"CT_TotalSeg_muscles(ct), left gluteus medius in whole body ct",0.7150124621657925,0.6009080205994779
+"CT_TotalSeg_muscles(ct), ct imaging of the left gluteus medius in the whole body region",0.7065259209107398,0.5930560597048601
+"CT_TotalSeg_muscles(ct), whole body ct showing left gluteus medius structures",0.7071703571878154,0.5934615404391285
+"CT_TotalSeg_muscles(ct), visualization of the left gluteus medius in whole body ct scans",0.7070199360557087,0.5935393956678067
+"CT_TotalSeg_muscles(ct), left gluteus medius observed in whole body ct imaging",0.7154335949565656,0.6016167774636876
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left gluteus medius",0.7072331730708872,0.5934627539854164
+"CT_TotalSeg_muscles(ct), left gluteus medius segmentation in whole body ct",0.7073365354346156,0.5936848367074585
+"CT_TotalSeg_muscles(ct), left gluteus medius delineation in whole body ct imaging",0.724270449391468,0.6109863211699044
+"CT_TotalSeg_muscles(ct), ct-based localization of the left gluteus medius in the whole body",0.7069206783608944,0.593529865541312
+"CT_TotalSeg_muscles(ct), left gluteus medius anatomy in whole body ct",0.7069774327207015,0.5931030055629345
+"CT_TotalSeg_muscles(ct), right gluteus medius",0.8108829799098343,0.7272393860903975
+"CT_TotalSeg_muscles(ct), right gluteus medius in whole body ct",0.8193164354719853,0.735661567654572
+"CT_TotalSeg_muscles(ct), ct imaging of the right gluteus medius in the whole body region",0.819303272070685,0.7361575328356499
+"CT_TotalSeg_muscles(ct), whole body ct showing right gluteus medius structures",0.8199587826114604,0.735964946246088
+"CT_TotalSeg_muscles(ct), visualization of the right gluteus medius in whole body ct scans",0.8195822247116001,0.7360292399265232
+"CT_TotalSeg_muscles(ct), right gluteus medius observed in whole body ct imaging",0.8190542841807776,0.7355134571402571
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right gluteus medius",0.819483053296147,0.735896802989795
+"CT_TotalSeg_muscles(ct), right gluteus medius segmentation in whole body ct",0.8195229818928567,0.7354484358179912
+"CT_TotalSeg_muscles(ct), right gluteus medius delineation in whole body ct imaging",0.8190067112370127,0.7352285099519501
+"CT_TotalSeg_muscles(ct), ct-based identification of the right gluteus medius in the whole body",0.8192535955108773,0.7356851564059115
+"CT_TotalSeg_muscles(ct), right gluteus medius anatomy in whole body ct",0.819936676709122,0.7358485000543714
+"CT_TotalSeg_muscles(ct), left gluteus minimus",0.698701857775448,0.6545180210337089
+"CT_TotalSeg_muscles(ct), left gluteus minimus in whole body ct",0.6989982698784413,0.6543108334221074
+"CT_TotalSeg_muscles(ct), ct imaging of the left gluteus minimus in the whole body region",0.6989585702312496,0.6542802794777274
+"CT_TotalSeg_muscles(ct), whole body ct showing left gluteus minimus structures",0.6990320088717193,0.6542754587597737
+"CT_TotalSeg_muscles(ct), visualization of the left gluteus minimus in whole body ct scans",0.6991632533517113,0.6542640557739176
+"CT_TotalSeg_muscles(ct), left gluteus minimus observed in whole body ct imaging",0.699367251526802,0.6542312915486429
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left gluteus minimus",0.6987179689500371,0.6542849207538175
+"CT_TotalSeg_muscles(ct), left gluteus minimus segmentation in whole body ct",0.6991716709919781,0.6542620299471292
+"CT_TotalSeg_muscles(ct), left gluteus minimus delineation in whole body ct imaging",0.6990703976198706,0.6543151389172064
+"CT_TotalSeg_muscles(ct), ct-based localization of the left gluteus minimus in the whole body",0.6988183819231484,0.6542993641656465
+"CT_TotalSeg_muscles(ct), left gluteus minimus anatomy in whole body ct",0.6989831367314275,0.6542215680317345
+"CT_TotalSeg_muscles(ct), right gluteus minimus",0.7731817178434555,0.7382355600100164
+"CT_TotalSeg_muscles(ct), right gluteus minimus in whole body ct",0.7651506937877476,0.7307851209715032
+"CT_TotalSeg_muscles(ct), ct imaging of the right gluteus minimus in the whole body region",0.7811201087766604,0.7470863630332498
+"CT_TotalSeg_muscles(ct), whole body ct showing right gluteus minimus structures",0.7813786617181266,0.7473366739939121
+"CT_TotalSeg_muscles(ct), visualization of the right gluteus minimus in whole body ct scans",0.7817740224761838,0.7472259475662232
+"CT_TotalSeg_muscles(ct), right gluteus minimus observed in whole body ct imaging",0.7650874675961776,0.7308111621806906
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right gluteus minimus",0.7812844656598429,0.7471741093557507
+"CT_TotalSeg_muscles(ct), right gluteus minimus segmentation in whole body ct",0.7651154838529574,0.7307660726797085
+"CT_TotalSeg_muscles(ct), right gluteus minimus delineation in whole body ct imaging",0.773485378155065,0.7391355327548187
+"CT_TotalSeg_muscles(ct), ct-based identification of the right gluteus minimus in the whole body",0.7733954864649775,0.7392741724519727
+"CT_TotalSeg_muscles(ct), right gluteus minimus anatomy in whole body ct",0.7733440254884941,0.7389252414488143
+"CT_TotalSeg_muscles(ct), left autochthon",0.8004387935242445,0.6826304439628752
+"CT_TotalSeg_muscles(ct), left autochthon in whole body ct",0.8006092574791166,0.6829746224505404
+"CT_TotalSeg_muscles(ct), ct imaging of the left autochthon in the whole body region",0.8006210619287863,0.6829205093162625
+"CT_TotalSeg_muscles(ct), whole body ct showing left autochthon structures",0.8006779420962712,0.6832578929032647
+"CT_TotalSeg_muscles(ct), visualization of the left autochthon in whole body ct scans",0.8007101631024256,0.683252142005859
+"CT_TotalSeg_muscles(ct), left autochthon observed in whole body ct imaging",0.8006869848845076,0.6830552613411726
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left autochthon",0.8007257545349672,0.6832856590520465
+"CT_TotalSeg_muscles(ct), left autochthon segmentation in whole body ct",0.8005515781465373,0.6830382903390984
+"CT_TotalSeg_muscles(ct), left autochthon delineation in whole body ct imaging",0.8006438032712851,0.6832876822617063
+"CT_TotalSeg_muscles(ct), ct-based localization of the left autochthon in the whole body",0.800551068381036,0.6829875044027335
+"CT_TotalSeg_muscles(ct), left autochthon anatomy in whole body ct",0.800584394029998,0.6831131333825737
+"CT_TotalSeg_muscles(ct), right autochthon",0.8114905588952837,0.7041292304625298
+"CT_TotalSeg_muscles(ct), right autochthon in whole body ct",0.8113672986099035,0.7038530026613802
+"CT_TotalSeg_muscles(ct), ct imaging of the right autochthon in the whole body region",0.8112693456099456,0.7036414525341503
+"CT_TotalSeg_muscles(ct), whole body ct showing right autochthon structures",0.8112451922942965,0.7036316058194103
+"CT_TotalSeg_muscles(ct), visualization of the right autochthon in whole body ct scans",0.811520011580315,0.7038856262057286
+"CT_TotalSeg_muscles(ct), right autochthon observed in whole body ct imaging",0.8115729250385665,0.7039624277193697
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right autochthon",0.81116999733397,0.7035420892391776
+"CT_TotalSeg_muscles(ct), right autochthon segmentation in whole body ct",0.8113168331564036,0.703796483939598
+"CT_TotalSeg_muscles(ct), right autochthon delineation in whole body ct imaging",0.8115373742159322,0.7038595854333383
+"CT_TotalSeg_muscles(ct), ct-based identification of the right autochthon in the whole body",0.8115595432283773,0.7039179922566828
+"CT_TotalSeg_muscles(ct), right autochthon anatomy in whole body ct",0.8113692232447818,0.7037863952243106
+"CT_TotalSeg_muscles(ct), left iliopsoas",0.7189289414492267,0.6763201873874785
+"CT_TotalSeg_muscles(ct), left iliopsoas in whole body ct",0.72785574224323,0.6851813688046273
+"CT_TotalSeg_muscles(ct), ct imaging of the left iliopsoas in the whole body region",0.7275854699347234,0.6848488793534698
+"CT_TotalSeg_muscles(ct), whole body ct showing left iliopsoas structures",0.7272875891323594,0.684999682611561
+"CT_TotalSeg_muscles(ct), visualization of the left iliopsoas in whole body ct scans",0.7272112409152156,0.6849187053023358
+"CT_TotalSeg_muscles(ct), left iliopsoas observed in whole body ct imaging",0.7270211276302438,0.6853023312759222
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the left iliopsoas",0.7272300880571138,0.6847961117028903
+"CT_TotalSeg_muscles(ct), left iliopsoas segmentation in whole body ct",0.7272018205603129,0.6847714183793978
+"CT_TotalSeg_muscles(ct), left iliopsoas delineation in whole body ct imaging",0.7272665184847391,0.6850559716550877
+"CT_TotalSeg_muscles(ct), ct-based localization of the left iliopsoas in the whole body",0.7275439428537552,0.6850546668036371
+"CT_TotalSeg_muscles(ct), left iliopsoas anatomy in whole body ct",0.7271112316800482,0.684825908738981
+"CT_TotalSeg_muscles(ct), right iliopsoas",0.6485352066771026,0.602174005185682
+"CT_TotalSeg_muscles(ct), right iliopsoas in whole body ct",0.6400466422761367,0.5942910478202235
+"CT_TotalSeg_muscles(ct), ct imaging of the right iliopsoas in the whole body region",0.6483915897664032,0.6028051832487379
+"CT_TotalSeg_muscles(ct), whole body ct showing right iliopsoas structures",0.6402627328847663,0.594349112976317
+"CT_TotalSeg_muscles(ct), visualization of the right iliopsoas in whole body ct scans",0.6398281690865942,0.5941814776639515
+"CT_TotalSeg_muscles(ct), right iliopsoas observed in whole body ct imaging",0.648288361902315,0.6027907036303366
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the right iliopsoas",0.6400376530543976,0.594267672309388
+"CT_TotalSeg_muscles(ct), right iliopsoas segmentation in whole body ct",0.6401360844951623,0.5942632022509307
+"CT_TotalSeg_muscles(ct), right iliopsoas delineation in whole body ct imaging",0.6401302942309102,0.5941696509202424
+"CT_TotalSeg_muscles(ct), ct-based identification of the right iliopsoas in the whole body",0.64023434540852,0.59427910537247
+"CT_TotalSeg_muscles(ct), right iliopsoas anatomy in whole body ct",0.6399718728887946,0.5943061483517739
+"CT_TotalSeg_muscles(ct), brain",0.8000182008996976,0.7458826481967664
+"CT_TotalSeg_muscles(ct), brain in whole body ct",0.8611588826966841,0.8041573272376005
+"CT_TotalSeg_muscles(ct), ct imaging of the brain in the whole body region",0.8693742086746288,0.8126867048210195
+"CT_TotalSeg_muscles(ct), whole body ct showing brain structures",0.8532093345618939,0.7963874763412766
+"CT_TotalSeg_muscles(ct), visualization of the brain in whole body ct scans",0.8693195838536822,0.8126117773835551
+"CT_TotalSeg_muscles(ct), brain observed in whole body ct imaging",0.8754995988197096,0.8197108663521002
+"CT_TotalSeg_muscles(ct), ct scan of the whole body depicting the brain",0.8616915998412217,0.804525721196725
+"CT_TotalSeg_muscles(ct), brain segmentation in whole body ct",0.8683076609576665,0.8121058570515648
+"CT_TotalSeg_muscles(ct), brain delineation in whole body ct imaging",0.867891823778431,0.8120335392275487
+"CT_TotalSeg_muscles(ct), ct-based localization of the brain in the whole body",0.86796188547098,0.8119969138188811
+"CT_TotalSeg_muscles(ct), brain anatomy in whole body ct",0.8753444244444953,0.8199563625555217
+"CT_TotalSeg_muscles(ct), skull",0.23554239762493065,0.23932384897167422
+"CT_TotalSeg_muscles(ct), skull in whole body ct",0.669111769846371,0.6676577470735192
+"CT_TotalSeg_muscles(ct), ct imaging of the skull in the whole body region",0.7023897505607565,0.7011558859568408
+"CT_TotalSeg_muscles(ct), whole body ct showing skull structures",0.6858170686818461,0.6845056104617718
+"CT_TotalSeg_muscles(ct), visualization of the skull in whole body ct scans",0.6941561571106003,0.6926732933215706
+"CT_TotalSeg_muscles(ct), skull observed in whole body ct imaging",0.686598496348547,0.6846044933623007
+"CT_TotalSeg_muscles(ct), ct scan of the whole body highlighting the skull",0.7109599843995397,0.7096497534681003
+"CT_TotalSeg_muscles(ct), skull segmentation in whole body ct",0.7008186675201368,0.6988756538320413
+"CT_TotalSeg_muscles(ct), skull delineation in whole body ct imaging",0.7016242710121816,0.700240481393454
+"CT_TotalSeg_muscles(ct), ct-based identification of the skull in the whole body",0.6689355138095013,0.667484763775631
+"CT_TotalSeg_muscles(ct), skull anatomy in whole body ct",0.7012799295537372,0.699984756837757
+CT_TotalSeg_organs(ct),0.619245358518362,0.5343291788821999
+"CT_TotalSeg_organs(ct), spleen",0.7178010147997015,0.6539945598575662
+"CT_TotalSeg_organs(ct), spleen in whole body ct",0.718423449336652,0.6571372169657562
+"CT_TotalSeg_organs(ct), ct imaging of the spleen in the whole body region",0.7183822485319675,0.6573866061538106
+"CT_TotalSeg_organs(ct), whole body ct showing spleen structures",0.718379888669819,0.6573731019133932
+"CT_TotalSeg_organs(ct), visualization of the spleen in whole body ct scans",0.7184334353129876,0.6571652624938404
+"CT_TotalSeg_organs(ct), spleen observed in whole body ct imaging",0.7183869253357671,0.6568451317739201
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the spleen",0.7183745829000561,0.6574615531947375
+"CT_TotalSeg_organs(ct), spleen segmentation in whole body ct",0.7184418547157385,0.6574034818058059
+"CT_TotalSeg_organs(ct), spleen delineation in whole body ct imaging",0.7184063453023495,0.6571840880609705
+"CT_TotalSeg_organs(ct), ct-based localization of the spleen in the whole body",0.7183835042742331,0.6574123991799072
+"CT_TotalSeg_organs(ct), right kidney",0.6928173764085649,0.5753422490846979
+"CT_TotalSeg_organs(ct), right kidney in whole body ct",0.6850392471079022,0.5932775743516265
+"CT_TotalSeg_organs(ct), ct imaging of the right kidney in the whole body region",0.6846645741525341,0.5910465192558886
+"CT_TotalSeg_organs(ct), whole body ct showing right kidney structures",0.6848670980616494,0.5930083725225007
+"CT_TotalSeg_organs(ct), visualization of the right kidney in whole body ct scans",0.6850691880823155,0.59152362996622
+"CT_TotalSeg_organs(ct), right kidney observed in whole body ct imaging",0.6848894042216663,0.5927134069006955
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the right kidney",0.6849403791733168,0.5925427834338716
+"CT_TotalSeg_organs(ct), right kidney segmentation in whole body ct",0.6849086182055735,0.5942205789272851
+"CT_TotalSeg_organs(ct), right kidney delineation in whole body ct imaging",0.6851970147016335,0.5931821873285316
+"CT_TotalSeg_organs(ct), ct-based identification of the right kidney in the whole body",0.6847697893732017,0.5928714977094568
+"CT_TotalSeg_organs(ct), left kidney",0.7463905427306995,0.6846843651877107
+"CT_TotalSeg_organs(ct), left kidney in whole body ct",0.7499015398547996,0.7133172609670275
+"CT_TotalSeg_organs(ct), ct imaging of the left kidney in the whole body region",0.7500563745492628,0.7132425060528288
+"CT_TotalSeg_organs(ct), whole body ct showing left kidney structures",0.7499599860266327,0.7137102387678793
+"CT_TotalSeg_organs(ct), visualization of the left kidney in whole body ct scans",0.7498402547855667,0.7132913491771988
+"CT_TotalSeg_organs(ct), left kidney observed in whole body ct imaging",0.7497487714833021,0.7135362808056172
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the left kidney",0.7497980546661381,0.7130634557383267
+"CT_TotalSeg_organs(ct), left kidney segmentation in whole body ct",0.7493252593999644,0.7133078635063501
+"CT_TotalSeg_organs(ct), left kidney delineation in whole body ct imaging",0.7498605778597711,0.7134294362240972
+"CT_TotalSeg_organs(ct), ct-based localization of the left kidney in the whole body",0.7499096899486116,0.7133406352842976
+"CT_TotalSeg_organs(ct), gallbladder",0.41900447227466564,0.3296972591043357
+"CT_TotalSeg_organs(ct), gallbladder in whole body ct",0.41741536272636903,0.328613275477177
+"CT_TotalSeg_organs(ct), ct imaging of the gallbladder in the whole body region",0.41814845199646516,0.32898069929322304
+"CT_TotalSeg_organs(ct), whole body ct showing gallbladder structures",0.41791912977445433,0.32921083955995123
+"CT_TotalSeg_organs(ct), visualization of the gallbladder in whole body ct scans",0.41819551863552124,0.3289545573365039
+"CT_TotalSeg_organs(ct), gallbladder observed in whole body ct imaging",0.42595082735498646,0.33713880426149684
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the gallbladder",0.4258873947630144,0.33745609403416355
+"CT_TotalSeg_organs(ct), gallbladder segmentation in whole body ct",0.42553408426233186,0.3368111020540266
+"CT_TotalSeg_organs(ct), gallbladder delineation in whole body ct imaging",0.4255916012969389,0.3369589185091628
+"CT_TotalSeg_organs(ct), ct-based identification of the gallbladder in the whole body",0.41802823262757227,0.3291565977478801
+"CT_TotalSeg_organs(ct), liver",0.8059399409626957,0.690535656945402
+"CT_TotalSeg_organs(ct), liver in whole body ct",0.7952144582084348,0.681233039772055
+"CT_TotalSeg_organs(ct), ct imaging of the liver in the whole body region",0.7952048756613994,0.6808793585363987
+"CT_TotalSeg_organs(ct), whole body ct showing liver structures",0.8034353979256027,0.6895323902048811
+"CT_TotalSeg_organs(ct), liver observed in whole body ct imaging",0.7952410028606289,0.6812353509172432
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the liver",0.7950360483742204,0.6810185631704265
+"CT_TotalSeg_organs(ct), liver segmentation in whole body ct",0.7948722558428097,0.6812134828447853
+"CT_TotalSeg_organs(ct), liver delineation in whole body ct imaging",0.7951313941936824,0.6810499151495326
+"CT_TotalSeg_organs(ct), ct-based localization of the liver in the whole body",0.7947418009749647,0.6809757499984125
+"CT_TotalSeg_organs(ct), stomach",0.6614211488792613,0.47885867933875115
+"CT_TotalSeg_organs(ct), stomach in whole body ct",0.7004997909384764,0.5157504215286066
+"CT_TotalSeg_organs(ct), ct imaging of the stomach in the whole body region",0.7259120697345675,0.541399637787675
+"CT_TotalSeg_organs(ct), whole body ct showing stomach structures",0.7001076644588514,0.5156886390199203
+"CT_TotalSeg_organs(ct), visualization of the stomach in whole body ct scans",0.7259386936829487,0.5413427569028123
+"CT_TotalSeg_organs(ct), stomach observed in whole body ct imaging",0.7172993496744111,0.5327516365928056
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the stomach",0.7082084698469396,0.5237339580248868
+"CT_TotalSeg_organs(ct), stomach segmentation in whole body ct",0.7174808642549305,0.5329396714958455
+"CT_TotalSeg_organs(ct), stomach delineation in whole body ct imaging",0.725850009285157,0.5413057843909849
+"CT_TotalSeg_organs(ct), ct-based identification of the stomach in the whole body",0.7088851616699547,0.5241411794525048
+"CT_TotalSeg_organs(ct), pancreas",0.601248662197967,0.5361248959329943
+"CT_TotalSeg_organs(ct), pancreas in whole body ct",0.6046939066433625,0.5478373044364916
+"CT_TotalSeg_organs(ct), ct imaging of the pancreas in the whole body region",0.604627278679307,0.5475447036434874
+"CT_TotalSeg_organs(ct), whole body ct showing pancreas structures",0.6045187661854342,0.5475747211636898
+"CT_TotalSeg_organs(ct), visualization of the pancreas in whole body ct scans",0.6047593502240982,0.5476635574752255
+"CT_TotalSeg_organs(ct), pancreas observed in whole body ct imaging",0.6047393047691363,0.5483033264198325
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the pancreas",0.6044677240368483,0.5472952666234998
+"CT_TotalSeg_organs(ct), pancreas segmentation in whole body ct",0.604880047089791,0.5482086457411015
+"CT_TotalSeg_organs(ct), pancreas delineation in whole body ct imaging",0.6045632286994251,0.5480452048439
+"CT_TotalSeg_organs(ct), ct-based localization of the pancreas in the whole body",0.6048982231760208,0.547574854883654
+"CT_TotalSeg_organs(ct), right adrenal gland",0.46887112107792317,0.5302064897106443
+"CT_TotalSeg_organs(ct), right adrenal gland in whole body ct",0.4688605341254109,0.5309368990317048
+"CT_TotalSeg_organs(ct), ct imaging of the right adrenal gland in the whole body region",0.4692103259451312,0.5312138612325427
+"CT_TotalSeg_organs(ct), whole body ct showing right adrenal gland structures",0.4688496967793318,0.5310034076125033
+"CT_TotalSeg_organs(ct), visualization of the right adrenal gland in whole body ct scans",0.4691930393075617,0.5309370700548008
+"CT_TotalSeg_organs(ct), right adrenal gland observed in whole body ct imaging",0.4689344575930802,0.5309238621563888
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the right adrenal gland",0.4687679019963917,0.5308758145261377
+"CT_TotalSeg_organs(ct), right adrenal gland segmentation in whole body ct",0.4690452840169748,0.5308718115899684
+"CT_TotalSeg_organs(ct), right adrenal gland delineation in whole body ct imaging",0.4692673830507939,0.5312001523733247
+"CT_TotalSeg_organs(ct), ct-based identification of the right adrenal gland in the whole body",0.46883934099444713,0.5307750416051752
+"CT_TotalSeg_organs(ct), left adrenal gland",0.6104255135261422,0.7061931171113852
+"CT_TotalSeg_organs(ct), left adrenal gland in whole body ct",0.6277656457387091,0.7234374449394585
+"CT_TotalSeg_organs(ct), ct imaging of the left adrenal gland in the whole body region",0.6278918225301262,0.7233258683668605
+"CT_TotalSeg_organs(ct), whole body ct showing left adrenal gland structures",0.6193155046130931,0.7148929152629502
+"CT_TotalSeg_organs(ct), visualization of the left adrenal gland in whole body ct scans",0.6280440784400046,0.7236473805964464
+"CT_TotalSeg_organs(ct), left adrenal gland observed in whole body ct imaging",0.6274123262036474,0.7229775407594756
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the left adrenal gland",0.6276823183959378,0.7232467932332194
+"CT_TotalSeg_organs(ct), left adrenal gland segmentation in whole body ct",0.6276145193263158,0.7232516172544603
+"CT_TotalSeg_organs(ct), left adrenal gland delineation in whole body ct imaging",0.6274039228678829,0.722758884357469
+"CT_TotalSeg_organs(ct), ct-based localization of the left adrenal gland in the whole body",0.6276015459847357,0.723278152471047
+"CT_TotalSeg_organs(ct), lung upper lobe left",0.6707828469685668,0.4911160270939176
+"CT_TotalSeg_organs(ct), lung upper lobe left in whole body ct",0.6670205978625068,0.4896778010616656
+"CT_TotalSeg_organs(ct), ct imaging of the left upper lung lobe in the whole body region",0.6704143279077954,0.4904219073721221
+"CT_TotalSeg_organs(ct), whole body ct showing left upper lung lobe structures",0.6706874784176653,0.49109150150359826
+"CT_TotalSeg_organs(ct), visualization of the left upper lung lobe in whole body ct scans",0.670080160383891,0.4905774199228209
+"CT_TotalSeg_organs(ct), left upper lung lobe observed in whole body ct imaging",0.6695495225390369,0.4906580773959925
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the left upper lung lobe",0.6710484673192895,0.4912822857466409
+"CT_TotalSeg_organs(ct), left upper lung lobe segmentation in whole body ct",0.6695086358611184,0.49045232445873305
+"CT_TotalSeg_organs(ct), left upper lung lobe delineation in whole body ct imaging",0.669973910217244,0.49025462812000015
+"CT_TotalSeg_organs(ct), ct-based identification of the left upper lung lobe in the whole body",0.6696137066724699,0.49045053063748567
+"CT_TotalSeg_organs(ct), lung lower lobe left",0.7769937970579186,0.5687149069511594
+"CT_TotalSeg_organs(ct), lung lower lobe left in whole body ct",0.7845496983236302,0.5754074179514038
+"CT_TotalSeg_organs(ct), ct imaging of the left lower lung lobe in the whole body region",0.7848119466530158,0.5759121507295216
+"CT_TotalSeg_organs(ct), whole body ct showing left lower lung lobe structures",0.7852667664452218,0.5770258002255351
+"CT_TotalSeg_organs(ct), visualization of the left lower lung lobe in whole body ct scans",0.7849742611175969,0.5767061127021528
+"CT_TotalSeg_organs(ct), left lower lung lobe observed in whole body ct imaging",0.7849475713040592,0.5764074610082286
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the left lower lung lobe",0.7768236016189412,0.5687649281380769
+"CT_TotalSeg_organs(ct), left lower lung lobe segmentation in whole body ct",0.7848520813866924,0.5760086214524569
+"CT_TotalSeg_organs(ct), left lower lung lobe delineation in whole body ct imaging",0.78486207409618,0.5763092930273578
+"CT_TotalSeg_organs(ct), ct-based localization of the left lower lung lobe in the whole body",0.7849738986038948,0.5763338167087751
+"CT_TotalSeg_organs(ct), lung upper lobe right",0.6144235636663703,0.42662299769324147
+"CT_TotalSeg_organs(ct), lung upper lobe right in whole body ct",0.603982087954256,0.4166830895591505
+"CT_TotalSeg_organs(ct), ct imaging of the right upper lung lobe in the whole body region",0.6060607744802823,0.41772322869090744
+"CT_TotalSeg_organs(ct), whole body ct showing right upper lung lobe structures",0.6151497877299639,0.42674786008887355
+"CT_TotalSeg_organs(ct), visualization of the right upper lung lobe in whole body ct scans",0.6146988149347787,0.42627048588818955
+"CT_TotalSeg_organs(ct), right upper lung lobe observed in whole body ct imaging",0.6137454770372676,0.4265602086483706
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the right upper lung lobe",0.6151284082813951,0.4268098388322413
+"CT_TotalSeg_organs(ct), right upper lung lobe segmentation in whole body ct",0.6054898218457703,0.41805513852154724
+"CT_TotalSeg_organs(ct), right upper lung lobe delineation in whole body ct imaging",0.6141874830978522,0.42660900669404456
+"CT_TotalSeg_organs(ct), ct-based identification of the right upper lung lobe in the whole body",0.6057734612122362,0.41745855122799735
+"CT_TotalSeg_organs(ct), lung middle lobe right",0.6134922664903487,0.4019036643942943
+"CT_TotalSeg_organs(ct), lung middle lobe right in whole body ct",0.613993915992699,0.4019981456508763
+"CT_TotalSeg_organs(ct), ct imaging of the right middle lung lobe in the whole body region",0.6042101420057611,0.39263941693192334
+"CT_TotalSeg_organs(ct), whole body ct showing right middle lung lobe structures",0.6130975739432711,0.40162549787245966
+"CT_TotalSeg_organs(ct), visualization of the right middle lung lobe in whole body ct scans",0.6048320628414111,0.3933046310454514
+"CT_TotalSeg_organs(ct), right middle lung lobe observed in whole body ct imaging",0.6130014024827662,0.40138036572132296
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the right middle lung lobe",0.6046617424875542,0.3934044496137321
+"CT_TotalSeg_organs(ct), right middle lung lobe segmentation in whole body ct",0.6048547451628158,0.39327230113861095
+"CT_TotalSeg_organs(ct), right middle lung lobe delineation in whole body ct imaging",0.5966269343453992,0.38504936810084833
+"CT_TotalSeg_organs(ct), ct-based localization of the right middle lung lobe in the whole body",0.6054652128239603,0.39383358956513337
+"CT_TotalSeg_organs(ct), lung lower lobe right",0.7303234627545195,0.5228868292466872
+"CT_TotalSeg_organs(ct), lung lower lobe right in whole body ct",0.7382668303478702,0.5315182789988259
+"CT_TotalSeg_organs(ct), ct imaging of the right lower lung lobe in the whole body region",0.7297833147200031,0.521854765733979
+"CT_TotalSeg_organs(ct), whole body ct showing right lower lung lobe structures",0.7300326167262987,0.5222208264944684
+"CT_TotalSeg_organs(ct), visualization of the right lower lung lobe in whole body ct scans",0.7299924475614683,0.5215234335967267
+"CT_TotalSeg_organs(ct), right lower lung lobe observed in whole body ct imaging",0.7302977654921287,0.5224537719722057
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the right lower lung lobe",0.7299553975449622,0.5219973650562904
+"CT_TotalSeg_organs(ct), right lower lung lobe segmentation in whole body ct",0.7301076887520372,0.5220644588172048
+"CT_TotalSeg_organs(ct), right lower lung lobe delineation in whole body ct imaging",0.7301893754859674,0.5224607974565831
+"CT_TotalSeg_organs(ct), ct-based identification of the right lower lung lobe in the whole body",0.7297472318234716,0.521747496255011
+"CT_TotalSeg_organs(ct), esophagus",0.6431127132938232,0.6620855186055528
+"CT_TotalSeg_organs(ct), esophagus in whole body ct",0.6466710194714459,0.6660057746038643
+"CT_TotalSeg_organs(ct), ct imaging of the esophagus in the whole body region",0.6464157366365494,0.6659430155617937
+"CT_TotalSeg_organs(ct), whole body ct showing esophageal structures",0.646600377358846,0.6659165661703044
+"CT_TotalSeg_organs(ct), visualization of the esophagus in whole body ct scans",0.6463653538161984,0.6656819514259148
+"CT_TotalSeg_organs(ct), esophagus observed in whole body ct imaging",0.6462132293993149,0.6656515311738658
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the esophagus",0.6467354564881583,0.6658706870251742
+"CT_TotalSeg_organs(ct), esophagus segmentation in whole body ct",0.6467243597154018,0.6662406872333733
+"CT_TotalSeg_organs(ct), esophagus delineation in whole body ct imaging",0.646663237017899,0.6660400427558453
+"CT_TotalSeg_organs(ct), ct-based localization of the esophagus in the whole body",0.6467439482158718,0.6662005926854508
+"CT_TotalSeg_organs(ct), trachea",0.63145449384592,0.6149588750094667
+"CT_TotalSeg_organs(ct), trachea in whole body ct",0.6160494508649808,0.5998902447961918
+"CT_TotalSeg_organs(ct), ct imaging of the trachea in the whole body region",0.6245016993674077,0.60820266552889
+"CT_TotalSeg_organs(ct), whole body ct showing tracheal structures",0.6238704415932732,0.6072420382302033
+"CT_TotalSeg_organs(ct), visualization of the trachea in whole body ct scans",0.6246931554933122,0.6084841135016824
+"CT_TotalSeg_organs(ct), trachea observed in whole body ct imaging",0.6240164225405382,0.607424380622269
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the trachea",0.6256665731269434,0.609746796981568
+"CT_TotalSeg_organs(ct), trachea segmentation in whole body ct",0.6160192792658049,0.5999042815123478
+"CT_TotalSeg_organs(ct), trachea delineation in whole body ct imaging",0.6237694655678444,0.6071764415464056
+"CT_TotalSeg_organs(ct), ct-based identification of the trachea in the whole body",0.6159470822422767,0.599732390814552
+"CT_TotalSeg_organs(ct), thyroid gland",0.6252126314987326,0.63540677441295
+"CT_TotalSeg_organs(ct), thyroid gland in whole body ct",0.6127141317800745,0.6217514416550047
+"CT_TotalSeg_organs(ct), ct imaging of the thyroid gland in the whole body region",0.6136200305552565,0.6221830771465164
+"CT_TotalSeg_organs(ct), whole body ct showing thyroid gland structures",0.6131249366652844,0.6215624564212344
+"CT_TotalSeg_organs(ct), visualization of the thyroid gland in whole body ct scans",0.613042700593266,0.6217061094715625
+"CT_TotalSeg_organs(ct), thyroid gland observed in whole body ct imaging",0.6124089347254739,0.6210180919490687
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the thyroid gland",0.613075795691791,0.6214980910619047
+"CT_TotalSeg_organs(ct), thyroid gland segmentation in whole body ct",0.6133318456348457,0.6215249641560169
+"CT_TotalSeg_organs(ct), thyroid gland delineation in whole body ct imaging",0.6136489034902509,0.6220774688450865
+"CT_TotalSeg_organs(ct), ct-based localization of the thyroid gland in the whole body",0.6129863812964658,0.621859925960055
+"CT_TotalSeg_organs(ct), small bowel",0.5911146105012443,0.45713669832615667
+"CT_TotalSeg_organs(ct), small bowel in whole body ct",0.5758337240654201,0.44265120196126834
+"CT_TotalSeg_organs(ct), ct imaging of the small bowel in the whole body region",0.5838307330754514,0.45054606110312406
+"CT_TotalSeg_organs(ct), whole body ct showing small bowel structures",0.6005390143930786,0.46734992011479687
+"CT_TotalSeg_organs(ct), visualization of the small bowel in whole body ct scans",0.591478263539868,0.45876801556641394
+"CT_TotalSeg_organs(ct), small bowel observed in whole body ct imaging",0.6001236104477113,0.46778805037373855
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the small bowel",0.591381650518386,0.45851395765442754
+"CT_TotalSeg_organs(ct), small bowel segmentation in whole body ct",0.5928889032831999,0.4597848735979177
+"CT_TotalSeg_organs(ct), small bowel delineation in whole body ct imaging",0.5997089660946395,0.46729035347645703
+"CT_TotalSeg_organs(ct), ct-based identification of the small bowel in the whole body",0.5833304462076434,0.45049459410510395
+"CT_TotalSeg_organs(ct), duodenum",0.5257652164788943,0.45421529492139506
+"CT_TotalSeg_organs(ct), duodenum in whole body ct",0.5083257774661776,0.43786850652837556
+"CT_TotalSeg_organs(ct), ct imaging of the duodenum in the whole body region",0.5085909482045821,0.43774349206637025
+"CT_TotalSeg_organs(ct), whole body ct showing duodenal structures",0.49991574362466407,0.42938164171809273
+"CT_TotalSeg_organs(ct), visualization of the duodenum in whole body ct scans",0.5092184667788159,0.4382748051502279
+"CT_TotalSeg_organs(ct), duodenum observed in whole body ct imaging",0.5082092514374563,0.4374537363052161
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the duodenum",0.5074464346950505,0.4368366434065883
+"CT_TotalSeg_organs(ct), duodenum segmentation in whole body ct",0.5090264032584315,0.4381024712946558
+"CT_TotalSeg_organs(ct), duodenum delineation in whole body ct imaging",0.5082241247498097,0.4373317297219251
+"CT_TotalSeg_organs(ct), ct-based localization of the duodenum in the whole body",0.4998795419722172,0.42916484983867864
+"CT_TotalSeg_organs(ct), colon",0.4975051539676118,0.32745466802514783
+"CT_TotalSeg_organs(ct), colon in whole body ct",0.4859100158847077,0.31709005621815833
+"CT_TotalSeg_organs(ct), ct imaging of the colon in the whole body region",0.4841338707895953,0.3155061315811118
+"CT_TotalSeg_organs(ct), whole body ct showing colonic structures",0.49097221508830663,0.32273261749965576
+"CT_TotalSeg_organs(ct), visualization of the colon in whole body ct scans",0.48464680357110057,0.31624953513692405
+"CT_TotalSeg_organs(ct), colon observed in whole body ct imaging",0.48546515031363296,0.3168585828344392
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the colon",0.48492516487519294,0.31673500497985363
+"CT_TotalSeg_organs(ct), colon segmentation in whole body ct",0.48444250437723496,0.31606182346333916
+"CT_TotalSeg_organs(ct), colon delineation in whole body ct imaging",0.48568492728541407,0.31644709348060435
+"CT_TotalSeg_organs(ct), ct-based identification of the colon in the whole body",0.48561535837647124,0.31628821725277345
+"CT_TotalSeg_organs(ct), urinary_bladder",0.6290944474184257,0.49447427256857623
+"CT_TotalSeg_organs(ct), urinary_bladder in whole body ct",0.6532441345464784,0.519179609569886
+"CT_TotalSeg_organs(ct), ct imaging of the urinary bladder in the whole body region",0.6606151580220525,0.5257050461645754
+"CT_TotalSeg_organs(ct), whole body ct showing urinary bladder structures",0.6683838086771718,0.5343382077803237
+"CT_TotalSeg_organs(ct), visualization of the urinary bladder in whole body ct scans",0.6697751332847304,0.5351881908215377
+"CT_TotalSeg_organs(ct), urinary bladder observed in whole body ct imaging",0.6701021043324468,0.535623213543058
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the urinary bladder",0.6611800585903898,0.5268495820605718
+"CT_TotalSeg_organs(ct), urinary bladder segmentation in whole body ct",0.6700074346605048,0.5362117022268137
+"CT_TotalSeg_organs(ct), urinary bladder delineation in whole body ct imaging",0.6694608425650416,0.5358027697013656
+"CT_TotalSeg_organs(ct), ct-based localization of the urinary bladder in the whole body",0.6610564541080955,0.5268505220883669
+"CT_TotalSeg_organs(ct), prostate",0.6758524802814606,0.6108553726307078
+"CT_TotalSeg_organs(ct), prostate in whole body ct",0.6937183971692098,0.627993822749234
+"CT_TotalSeg_organs(ct), ct imaging of the prostate in the whole body region",0.6769043116137322,0.6112300222311005
+"CT_TotalSeg_organs(ct), whole body ct showing prostatic structures",0.6758113564458118,0.6112228654047805
+"CT_TotalSeg_organs(ct), visualization of the prostate in whole body ct scans",0.676683529244186,0.6112107330630403
+"CT_TotalSeg_organs(ct), prostate observed in whole body ct imaging",0.6771520708594295,0.6115248803779937
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the prostate",0.6756957521071275,0.6105276547772978
+"CT_TotalSeg_organs(ct), prostate segmentation in whole body ct",0.6850038650282125,0.6194367636830523
+"CT_TotalSeg_organs(ct), prostate delineation in whole body ct imaging",0.6770832234950767,0.6114696782872814
+"CT_TotalSeg_organs(ct), ct-based identification of the prostate in the whole body",0.6846364666515437,0.619310727636228
+"CT_TotalSeg_organs(ct), left kidney cyst",0.31111263952744,0.31011655930556326
+"CT_TotalSeg_organs(ct), left kidney cyst in whole body ct",0.31326337853347624,0.31080494425252064
+"CT_TotalSeg_organs(ct), ct imaging of the left kidney cyst in the whole body region",0.3043864905129975,0.30217210641836406
+"CT_TotalSeg_organs(ct), whole body ct showing left kidney cyst structures",0.32416911945189025,0.3202294943947215
+"CT_TotalSeg_organs(ct), visualization of the left kidney cyst in whole body ct scans",0.30675159143191505,0.30346011920131455
+"CT_TotalSeg_organs(ct), left kidney cyst observed in whole body ct imaging",0.31391513663656617,0.31104590842351787
+"CT_TotalSeg_organs(ct), ct scan of the whole body depicting the left kidney cyst",0.30613348043987326,0.30285942637393154
+"CT_TotalSeg_organs(ct), left kidney cyst segmentation in whole body ct",0.33718737153947087,0.33584159858509943
+"CT_TotalSeg_organs(ct), left kidney cyst delineation in whole body ct imaging",0.3219455849237099,0.3196973033988937
+"CT_TotalSeg_organs(ct), ct-based localization of the left kidney cyst in the whole body",0.3232179737017858,0.3199722319889322
+"CT_TotalSeg_organs(ct), right kidney cyst",0.5982905982905983,0.5982905982905983
+"CT_TotalSeg_organs(ct), right kidney cyst in whole body ct",0.5641025641025641,0.5641025641025641
+"CT_TotalSeg_organs(ct), ct imaging of the right kidney cyst in the whole body region",0.5811965811965812,0.5811965811965812
+"CT_TotalSeg_organs(ct), whole body ct showing right kidney cyst structures",0.5641025641025641,0.5641025641025641
+"CT_TotalSeg_organs(ct), visualization of the right kidney cyst in whole body ct scans",0.5897435897435898,0.5897435897435898
+"CT_TotalSeg_organs(ct), right kidney cyst observed in whole body ct imaging",0.5641025641025641,0.5641025641025641
+"CT_TotalSeg_organs(ct), ct scan of the whole body highlighting the right kidney cyst",0.5982905982905983,0.5982905982905983
+"CT_TotalSeg_organs(ct), right kidney cyst segmentation in whole body ct",0.5213675213675214,0.5213675213675214
+"CT_TotalSeg_organs(ct), right kidney cyst delineation in whole body ct imaging",0.5555555555555556,0.5555555555555556
+"CT_TotalSeg_organs(ct), ct-based identification of the right kidney cyst in the whole body",0.5726495726495726,0.5726495726495726
+CT_AbdomenAtlas(ct),0.7822772775167606,0.743035920233677
+"CT_AbdomenAtlas(ct), aorta",0.8631459797328044,0.8593833393735182
+"CT_AbdomenAtlas(ct), aorta in abdominal ct",0.8646638330113718,0.8583406150355117
+"CT_AbdomenAtlas(ct), ct imaging of the aorta in the abdomen",0.8645671465074442,0.8579817493034977
+"CT_AbdomenAtlas(ct), abdominal ct showing aortic structures",0.8645468132875997,0.8577601223085396
+"CT_AbdomenAtlas(ct), aorta observed in abdominal ct scans",0.8646192436594631,0.8580585214418113
+"CT_AbdomenAtlas(ct), visualization of the aorta in abdominal ct imaging",0.8643214101388592,0.8570926135074874
+"CT_AbdomenAtlas(ct), ct scan of the aorta in the abdominal region",0.8645129179227972,0.8578092778616687
+"CT_AbdomenAtlas(ct), presence of the aorta detected in abdominal ct images",0.864393683604424,0.8571915335926238
+"CT_AbdomenAtlas(ct), abdominal ct revealing aorta anatomy",0.86468991283186,0.8585277386414686
+"CT_AbdomenAtlas(ct), gallbladder",0.6740911194583445,0.5981458086713292
+"CT_AbdomenAtlas(ct), gallbladder in abdominal ct",0.6743388584129214,0.5987396330630507
+"CT_AbdomenAtlas(ct), ct imaging of the gallbladder in the abdomen",0.674425620433172,0.59893911616146
+"CT_AbdomenAtlas(ct), abdominal ct showing gallbladder structures",0.6743560771213888,0.5988705507356737
+"CT_AbdomenAtlas(ct), gallbladder observed in abdominal ct scans",0.6743639010521201,0.5989307295328508
+"CT_AbdomenAtlas(ct), visualization of the gallbladder in abdominal ct imaging",0.674315633193667,0.598664195976107
+"CT_AbdomenAtlas(ct), ct scan of the gallbladder in the abdominal region",0.6744715577028806,0.5991149589845558
+"CT_AbdomenAtlas(ct), presence of the gallbladder detected in abdominal ct images",0.6743172929294399,0.5985996198692549
+"CT_AbdomenAtlas(ct), abdominal ct revealing gallbladder anatomy",0.6743314982369664,0.5988087396291703
+"CT_AbdomenAtlas(ct), left kidney",0.926194056374894,0.8744192768436971
+"CT_AbdomenAtlas(ct), left kidney in abdominal ct",0.9259291329934843,0.8735764945092377
+"CT_AbdomenAtlas(ct), ct imaging of the left kidney in the abdomen",0.9259634101090439,0.8737937661083984
+"CT_AbdomenAtlas(ct), abdominal ct showing the left kidney",0.9260221319386932,0.8735758320504355
+"CT_AbdomenAtlas(ct), left kidney observed in abdominal ct scans",0.9259978029031057,0.8737114744397121
+"CT_AbdomenAtlas(ct), visualization of the left kidney in abdominal ct imaging",0.9260833205030614,0.8740793374268381
+"CT_AbdomenAtlas(ct), ct scan of the left kidney in the abdominal region",0.9260069105321362,0.8738831079382381
+"CT_AbdomenAtlas(ct), presence of the left kidney detected in abdominal ct images",0.9261525049279663,0.8744757988193922
+"CT_AbdomenAtlas(ct), abdominal ct revealing the left kidney anatomy",0.9260499601924753,0.8739737163872789
+"CT_AbdomenAtlas(ct), right kidney",0.9423117469872273,0.8825782139113503
+"CT_AbdomenAtlas(ct), right kidney in abdominal ct",0.9425086720569423,0.8826164005893813
+"CT_AbdomenAtlas(ct), ct imaging of the right kidney in the abdomen",0.9425144238454457,0.882347150241746
+"CT_AbdomenAtlas(ct), abdominal ct showing the right kidney",0.9426007887945428,0.8825845020089419
+"CT_AbdomenAtlas(ct), right kidney observed in abdominal ct scans",0.9424944989289292,0.8826148126720855
+"CT_AbdomenAtlas(ct), ct scan of the right kidney in the abdominal region",0.9425599121627951,0.8823389711445855
+"CT_AbdomenAtlas(ct), presence of the right kidney detected in abdominal ct images",0.9424638244417057,0.88296221906454
+"CT_AbdomenAtlas(ct), abdominal ct revealing the right kidney anatomy",0.9425242611656652,0.8828603461681029
+"CT_AbdomenAtlas(ct), liver",0.9676139355717288,0.8460904775165067
+"CT_AbdomenAtlas(ct), liver in abdominal ct",0.9675925135720977,0.8461351455114178
+"CT_AbdomenAtlas(ct), ct imaging of the liver in the abdomen",0.9675818204204748,0.8460169717972267
+"CT_AbdomenAtlas(ct), abdominal ct showing liver structures",0.9675793933139427,0.8460340410786457
+"CT_AbdomenAtlas(ct), liver detected in abdominal ct scans",0.9676054144818642,0.8462519360534674
+"CT_AbdomenAtlas(ct), visualization of the liver in abdominal ct imaging",0.9675828504025392,0.8460738871980211
+"CT_AbdomenAtlas(ct), ct scan of the liver in the abdominal region",0.967601062922048,0.8462026908945461
+"CT_AbdomenAtlas(ct), presence of liver tissue in abdominal ct images",0.9675285715651476,0.8455338618052812
+"CT_AbdomenAtlas(ct), abdominal ct revealing liver anatomy",0.9675742079410509,0.8460180385810321
+"CT_AbdomenAtlas(ct), pancreas",0.6547580506148535,0.5837622086573417
+"CT_AbdomenAtlas(ct), pancreas in abdominal ct",0.6546433111894296,0.5833571034690237
+"CT_AbdomenAtlas(ct), ct imaging of the pancreas in the abdomen",0.6547178852814082,0.5834962500471598
+"CT_AbdomenAtlas(ct), abdominal ct showing pancreatic structures",0.6545544150638832,0.5832322770386006
+"CT_AbdomenAtlas(ct), pancreas detected in abdominal ct scans",0.6546103483182071,0.5833856877192322
+"CT_AbdomenAtlas(ct), visualization of the pancreas in abdominal ct imaging",0.6546442089086167,0.5834713986734612
+"CT_AbdomenAtlas(ct), ct scan of the pancreas in the abdominal region",0.6547035505139942,0.5834500141416781
+"CT_AbdomenAtlas(ct), presence of pancreatic tissue in abdominal ct images",0.6546061691120603,0.5832670833525254
+"CT_AbdomenAtlas(ct), abdominal ct revealing pancreas anatomy",0.6546020213283188,0.583347266666489
+"CT_AbdomenAtlas(ct), postcava",0.8174296444544996,0.7971328977258468
+"CT_AbdomenAtlas(ct), postcava in abdomen ct",0.8176064678561312,0.7975595494281713
+"CT_AbdomenAtlas(ct), ct imaging of the postcava in the abdominal region",0.8176172766887632,0.7976093309845715
+"CT_AbdomenAtlas(ct), visualization of the postcava in abdominal ct scans",0.8175451467885074,0.7974860143316502
+"CT_AbdomenAtlas(ct), postcava observed in abdominal ct imaging",0.8175358141410186,0.7975288069372581
+"CT_AbdomenAtlas(ct), ct scan of the abdomen depicting the postcava",0.8174962130883284,0.7974199870594684
+"CT_AbdomenAtlas(ct), postcava segmentation in abdomen ct",0.8175296106722207,0.7974157032179368
+"CT_AbdomenAtlas(ct), postcava delineation in abdominal ct imaging",0.8175765962539129,0.797532513259206
+"CT_AbdomenAtlas(ct), ct-based localization of the postcava in the abdomen",0.8175663130718198,0.797560162924421
+"CT_AbdomenAtlas(ct), spleen",0.9494921976998437,0.8964812810330614
+"CT_AbdomenAtlas(ct), abdominal ct revealing spleen structures",0.9494600427609956,0.8963759152413051
+"CT_AbdomenAtlas(ct), spleen detected in abdominal ct scans",0.9494692873706058,0.8962539205530576
+"CT_AbdomenAtlas(ct), ct imaging of the spleen within the abdomen",0.9494862096444856,0.8963371287406797
+"CT_AbdomenAtlas(ct), spleen anatomy visualized in abdominal ct",0.9494682558535272,0.896232965825003
+"CT_AbdomenAtlas(ct), presence of spleen tissue observed in abdominal ct imaging",0.9494260289898392,0.8962132500022436
+"CT_AbdomenAtlas(ct), ct scan showing spleen in the abdominal cavity",0.949469531456036,0.8962448407107668
+"CT_AbdomenAtlas(ct), abdominal ct assessment of the spleen",0.9494896479720922,0.8963371108878406
+"CT_AbdomenAtlas(ct), spleen observed in ct imaging of the abdomen",0.9494117816116148,0.8960771903308842
+"CT_AbdomenAtlas(ct), stomach",0.8037865517457363,0.6313417734228857
+"CT_AbdomenAtlas(ct), stomach in abdominal ct",0.8041512351272992,0.6325256706794488
+"CT_AbdomenAtlas(ct), ct imaging of the stomach in the abdomen",0.8041486235775581,0.6325646680196226
+"CT_AbdomenAtlas(ct), abdominal ct showing stomach structures",0.8041890698746171,0.6325593866696565
+"CT_AbdomenAtlas(ct), stomach observed in abdominal ct scans",0.8041300259045395,0.6323518388276044
+"CT_AbdomenAtlas(ct), visualization of the stomach in abdominal ct imaging",0.8041115673648755,0.6323056549726711
+"CT_AbdomenAtlas(ct), ct scan of the stomach in the abdominal region",0.8041592448792738,0.6325648784817468
+"CT_AbdomenAtlas(ct), presence of the stomach detected in abdominal ct images",0.8041391966717758,0.6325753860287235
+"CT_AbdomenAtlas(ct), abdominal ct revealing stomach anatomy",0.8041225072282546,0.6324113142476073
+"CT_AbdomenAtlas(ct), left adrenal gland",0.5359807634990496,0.6409699663816818
+"CT_AbdomenAtlas(ct), left adrenal gland in abdominal ct",0.5358764112223716,0.6406271276221662
+"CT_AbdomenAtlas(ct), ct imaging of the left adrenal gland in the abdomen",0.5356858818093252,0.6408525573294642
+"CT_AbdomenAtlas(ct), abdominal ct showing left adrenal gland structures",0.5362444873423108,0.6408163326223195
+"CT_AbdomenAtlas(ct), left adrenal gland observed in abdominal ct scans",0.5357395387770603,0.640648620537287
+"CT_AbdomenAtlas(ct), visualization of the left adrenal gland in abdominal ct imaging",0.5359256430552346,0.6407077212427716
+"CT_AbdomenAtlas(ct), ct scan of the left adrenal gland in the abdominal region",0.5358334527979541,0.6407013021169641
+"CT_AbdomenAtlas(ct), presence of the left adrenal gland detected in abdominal ct images",0.5361872005179518,0.640808323125742
+"CT_AbdomenAtlas(ct), abdominal ct revealing left adrenal gland anatomy",0.5362330874553092,0.640868683981308
+"CT_AbdomenAtlas(ct), right adrenal gland",0.5195844375445765,0.6320494663085363
+"CT_AbdomenAtlas(ct), right adrenal gland in abdominal ct",0.5201825101253362,0.6324048683362861
+"CT_AbdomenAtlas(ct), ct imaging of the right adrenal gland in the abdomen",0.5199307748782721,0.6323614179944562
+"CT_AbdomenAtlas(ct), abdominal ct showing right adrenal gland structures",0.5202263729455047,0.6323564501634684
+"CT_AbdomenAtlas(ct), right adrenal gland observed in abdominal ct scans",0.5201233376411664,0.6324259723450957
+"CT_AbdomenAtlas(ct), visualization of the right adrenal gland in abdominal ct imaging",0.5201045966332631,0.6323138950962671
+"CT_AbdomenAtlas(ct), ct scan of the right adrenal gland in the abdominal region",0.5200428369328075,0.6324803434486579
+"CT_AbdomenAtlas(ct), presence of the right adrenal gland detected in abdominal ct images",0.5200236748791033,0.6323165090100651
+"CT_AbdomenAtlas(ct), abdominal ct revealing right adrenal gland anatomy",0.5202129454883924,0.6324434070929471
+"CT_AbdomenAtlas(ct), bladder",0.7596306109751616,0.6446580353444346
+"CT_AbdomenAtlas(ct), bladder in abdominal ct",0.7591431006106641,0.6434463824729604
+"CT_AbdomenAtlas(ct), ct imaging of the bladder in the abdomen",0.7592597219720264,0.6436797661233752
+"CT_AbdomenAtlas(ct), abdominal ct showing bladder structures",0.759360723148079,0.6436081674240142
+"CT_AbdomenAtlas(ct), bladder observed in abdominal ct scans",0.7591053671971654,0.6434636413406482
+"CT_AbdomenAtlas(ct), visualization of the bladder in abdominal ct imaging",0.7592324582518417,0.643640540778984
+"CT_AbdomenAtlas(ct), ct scan of the bladder in the abdominal region",0.7593830323165072,0.6438274980229859
+"CT_AbdomenAtlas(ct), presence of the bladder detected in abdominal ct images",0.759363561447662,0.6435619155545319
+"CT_AbdomenAtlas(ct), abdominal ct revealing bladder anatomy",0.7592956751599621,0.6434951145419353
+"CT_AbdomenAtlas(ct), esophagus",0.7714955776597909,0.7889970595587282
+"CT_AbdomenAtlas(ct), esophagus in abdominal ct",0.7714761943162176,0.7891271429794314
+"CT_AbdomenAtlas(ct), ct imaging of the esophagus in the abdomen",0.77147360794024,0.789134068268687
+"CT_AbdomenAtlas(ct), abdominal ct showing esophagus structures",0.7714662543534431,0.7892544965343997
+"CT_AbdomenAtlas(ct), esophagus observed in abdominal ct scans",0.7714616242524011,0.7891670026173521
+"CT_AbdomenAtlas(ct), visualization of the esophagus in abdominal ct imaging",0.7714086385677096,0.7891617568839874
+"CT_AbdomenAtlas(ct), ct scan of the esophagus in the abdominal region",0.7715964131456851,0.7895931403559043
+"CT_AbdomenAtlas(ct), presence of the esophagus detected in abdominal ct images",0.7713555630370895,0.7892609986595354
+"CT_AbdomenAtlas(ct), abdominal ct revealing esophagus anatomy",0.7715544366821122,0.7894612901306302
+CT_AMOS(ct),0.7696953842424674,0.6919685329636992
+"CT_AMOS(ct), spleen",0.9277289905072138,0.8315662760533871
+"CT_AMOS(ct), abdominal ct revealing spleen structures",0.9276987927866455,0.8308845227542615
+"CT_AMOS(ct), spleen detected in abdominal ct scans",0.9276764445375655,0.830723837153178
+"CT_AMOS(ct), ct imaging of the spleen within the abdomen",0.9277273195962897,0.8308565213332635
+"CT_AMOS(ct), spleen anatomy visualized in abdominal ct",0.9276810866061289,0.8308656836252033
+"CT_AMOS(ct), presence of spleen tissue observed in abdominal ct imaging",0.9277526038317486,0.8309642779718593
+"CT_AMOS(ct), ct scan showing spleen in the abdominal cavity",0.9277240059900117,0.8308070020166435
+"CT_AMOS(ct), abdominal ct assessment of the spleen",0.9277280133657039,0.8308487753381385
+"CT_AMOS(ct), spleen observed in ct imaging of the abdomen",0.9276816175508245,0.8307717357547818
+"CT_AMOS(ct), right kidney",0.9183097149568379,0.8132331734678122
+"CT_AMOS(ct), right kidney in abdominal ct",0.917561822696499,0.8110094770042184
+"CT_AMOS(ct), ct imaging of the right kidney in the abdomen",0.9174846370202395,0.8107353623278993
+"CT_AMOS(ct), abdominal ct showing the right kidney",0.9176640949778059,0.8112498352170802
+"CT_AMOS(ct), right kidney observed in abdominal ct scans",0.9176064913558207,0.8108375123245448
+"CT_AMOS(ct), ct scan of the right kidney in the abdominal region",0.9174227820992392,0.8105772900462737
+"CT_AMOS(ct), presence of the right kidney detected in abdominal ct images",0.9179979613301298,0.8121192331566324
+"CT_AMOS(ct), abdominal ct revealing the right kidney anatomy",0.9179501287628905,0.8121830721093201
+"CT_AMOS(ct), left kidney",0.908649287491185,0.8131314441564718
+"CT_AMOS(ct), left kidney in abdominal ct",0.9081390617365235,0.8086246205368431
+"CT_AMOS(ct), ct imaging of the left kidney in the abdomen",0.9084568173790107,0.8098774175526418
+"CT_AMOS(ct), abdominal ct showing the left kidney",0.9082090353190467,0.8091504765440735
+"CT_AMOS(ct), left kidney observed in abdominal ct scans",0.9081948053281634,0.8088274910714284
+"CT_AMOS(ct), visualization of the left kidney in abdominal ct imaging",0.9084381349642126,0.8099692421273162
+"CT_AMOS(ct), ct scan of the left kidney in the abdominal region",0.9083792821998109,0.8096339818920096
+"CT_AMOS(ct), presence of the left kidney detected in abdominal ct images",0.9086110739094817,0.8109332954213674
+"CT_AMOS(ct), abdominal ct revealing the left kidney anatomy",0.908474223060172,0.810227534762303
+"CT_AMOS(ct), gallbladder",0.638747961229764,0.5763935226552286
+"CT_AMOS(ct), gallbladder in abdominal ct",0.6378739223446429,0.5744998247846579
+"CT_AMOS(ct), ct imaging of the gallbladder in the abdomen",0.6380866054443358,0.5753227239232923
+"CT_AMOS(ct), abdominal ct showing gallbladder structures",0.6376877908282007,0.5743364511191636
+"CT_AMOS(ct), gallbladder observed in abdominal ct scans",0.6376065508786098,0.5744466495078212
+"CT_AMOS(ct), visualization of the gallbladder in abdominal ct imaging",0.6381456818352134,0.574950661363972
+"CT_AMOS(ct), ct scan of the gallbladder in the abdominal region",0.637930847004587,0.5750957068758563
+"CT_AMOS(ct), presence of the gallbladder detected in abdominal ct images",0.6380475084683712,0.5751051973738043
+"CT_AMOS(ct), abdominal ct revealing gallbladder anatomy",0.6379451101654914,0.5745634390527858
+"CT_AMOS(ct), esophagus",0.7105068001355425,0.710026143692457
+"CT_AMOS(ct), esophagus in abdominal ct",0.7102404139889084,0.7110794243394268
+"CT_AMOS(ct), ct imaging of the esophagus in the abdomen",0.7104160848594844,0.7111350603716411
+"CT_AMOS(ct), abdominal ct showing esophagus structures",0.7106582958999306,0.7115212298174686
+"CT_AMOS(ct), esophagus observed in abdominal ct scans",0.7104276849611573,0.7111842573041796
+"CT_AMOS(ct), visualization of the esophagus in abdominal ct imaging",0.7102257595410962,0.7111307279498943
+"CT_AMOS(ct), ct scan of the esophagus in the abdominal region",0.7099371009477875,0.7109988047554213
+"CT_AMOS(ct), presence of the esophagus detected in abdominal ct images",0.7110191144960002,0.7117550915320838
+"CT_AMOS(ct), abdominal ct revealing esophagus anatomy",0.7098031216241327,0.7110336159409284
+"CT_AMOS(ct), liver",0.9499713077485414,0.7671603277829013
+"CT_AMOS(ct), liver in abdominal ct",0.9499076200108474,0.7664974231656086
+"CT_AMOS(ct), ct imaging of the liver in the abdomen",0.9499317932788026,0.7666427761939886
+"CT_AMOS(ct), abdominal ct showing liver structures",0.9499184742179545,0.7666440234274091
+"CT_AMOS(ct), liver detected in abdominal ct scans",0.94993422007192,0.7665742993589483
+"CT_AMOS(ct), visualization of the liver in abdominal ct imaging",0.9498936986339787,0.7664912384102557
+"CT_AMOS(ct), ct scan of the liver in the abdominal region",0.9499407965192792,0.7666894023986942
+"CT_AMOS(ct), presence of liver tissue in abdominal ct images",0.9498069736485183,0.7657741820132482
+"CT_AMOS(ct), abdominal ct revealing liver anatomy",0.9498720540827519,0.76632159291948
+"CT_AMOS(ct), stomach",0.8291389272192901,0.6278836632857984
+"CT_AMOS(ct), stomach in abdominal ct",0.8309848846942436,0.630847657171527
+"CT_AMOS(ct), ct imaging of the stomach in the abdomen",0.8309858647481045,0.63099558099364
+"CT_AMOS(ct), abdominal ct showing stomach structures",0.8308224823295625,0.6308255854877128
+"CT_AMOS(ct), stomach observed in abdominal ct scans",0.8307216296450068,0.6304687441566552
+"CT_AMOS(ct), visualization of the stomach in abdominal ct imaging",0.8307850118894097,0.6305364299781454
+"CT_AMOS(ct), ct scan of the stomach in the abdominal region",0.831045503084782,0.6309289696902691
+"CT_AMOS(ct), presence of the stomach detected in abdominal ct images",0.830994880630855,0.6304942321304571
+"CT_AMOS(ct), abdominal ct revealing stomach anatomy",0.8308287372474102,0.6306703350025322
+"CT_AMOS(ct), aorta",0.9171313234761451,0.9024001452508587
+"CT_AMOS(ct), aorta in abdominal ct",0.918602725987047,0.9035929496606201
+"CT_AMOS(ct), ct imaging of the aorta in the abdomen",0.91842441833424,0.9031692642884308
+"CT_AMOS(ct), abdominal ct showing aortic structures",0.918600228332079,0.9033841698192774
+"CT_AMOS(ct), aorta observed in abdominal ct scans",0.918577272708191,0.9033935864745717
+"CT_AMOS(ct), visualization of the aorta in abdominal ct imaging",0.9184002526261167,0.9029571167211246
+"CT_AMOS(ct), ct scan of the aorta in the abdominal region",0.9184596170152717,0.9032360179025001
+"CT_AMOS(ct), presence of the aorta detected in abdominal ct images",0.9184835429197241,0.9031145293025388
+"CT_AMOS(ct), abdominal ct revealing aorta anatomy",0.9184790773004909,0.9033440590480054
+"CT_AMOS(ct), inferior vena cava",0.844215982484007,0.7802678729114874
+"CT_AMOS(ct), inferior vena cava in abdominal ct",0.8473270838884928,0.7823676602328257
+"CT_AMOS(ct), ct imaging of the inferior vena cava in the abdomen",0.8470926986596086,0.7822248154651024
+"CT_AMOS(ct), abdominal ct showing inferior vena cava structures",0.8478870976006974,0.7818858605682651
+"CT_AMOS(ct), inferior vena cava observed in abdominal ct scan",0.8474433261921848,0.7821238005082446
+"CT_AMOS(ct), visualization of the inferior vena cava in abdominal ct imaging",0.8475878574982851,0.7822211214841769
+"CT_AMOS(ct), ct scan of the inferior vena cava in the abdominal region",0.8479806809253689,0.7822796914416383
+"CT_AMOS(ct), presence of the inferior vena cava detected in abdominal ct images",0.8478163341366624,0.7815149366761024
+"CT_AMOS(ct), abdominal ct revealing inferior vena cava anatomy",0.8478692771209482,0.7820662633491744
+"CT_AMOS(ct), pancreas",0.7447548683706201,0.6183976242970957
+"CT_AMOS(ct), pancreas in abdominal ct",0.7453472029584678,0.6182955005321431
+"CT_AMOS(ct), ct imaging of the pancreas in the abdomen",0.7455138058871619,0.6181818016485617
+"CT_AMOS(ct), abdominal ct showing pancreatic structures",0.7450997796583742,0.6181162546589007
+"CT_AMOS(ct), pancreas detected in abdominal ct scans",0.744981624434245,0.6180776481812918
+"CT_AMOS(ct), visualization of the pancreas in abdominal ct imaging",0.7452549540154068,0.6180995554140938
+"CT_AMOS(ct), ct scan of the pancreas in the abdominal region",0.7456238527923931,0.6180865169508113
+"CT_AMOS(ct), presence of pancreatic tissue in abdominal ct images",0.745520864905289,0.6188168110177296
+"CT_AMOS(ct), abdominal ct revealing pancreas anatomy",0.7452334047749021,0.6181745384598468
+"CT_AMOS(ct), right adrenal gland",0.5609519807904791,0.7367916048130277
+"CT_AMOS(ct), right adrenal gland in abdominal ct",0.5612162908483356,0.7369289522352873
+"CT_AMOS(ct), ct imaging of the right adrenal gland in the abdomen",0.5608597582146376,0.7382285833839098
+"CT_AMOS(ct), abdominal ct showing right adrenal gland structures",0.5609406456697523,0.7367945532137822
+"CT_AMOS(ct), right adrenal gland observed in abdominal ct scans",0.561275935372068,0.7380105367293677
+"CT_AMOS(ct), visualization of the right adrenal gland in abdominal ct imaging",0.5610842983303914,0.7369104909417262
+"CT_AMOS(ct), ct scan of the right adrenal gland in the abdominal region",0.5604998556744232,0.7368949553077233
+"CT_AMOS(ct), presence of the right adrenal gland detected in abdominal ct images",0.5610715834142994,0.7379495392906815
+"CT_AMOS(ct), abdominal ct revealing right adrenal gland anatomy",0.5606569395450925,0.7364693380833663
+"CT_AMOS(ct), left adrenal gland",0.5685035206861749,0.7257077054868052
+"CT_AMOS(ct), left adrenal gland in abdominal ct",0.5693139864279747,0.7268448135967973
+"CT_AMOS(ct), ct imaging of the left adrenal gland in the abdomen",0.568984547458682,0.7267198722097109
+"CT_AMOS(ct), abdominal ct showing left adrenal gland structures",0.5695322321319096,0.7263230710935213
+"CT_AMOS(ct), left adrenal gland observed in abdominal ct scans",0.569386127026632,0.7269028319223702
+"CT_AMOS(ct), visualization of the left adrenal gland in abdominal ct imaging",0.5692877246774272,0.7269266187003102
+"CT_AMOS(ct), ct scan of the left adrenal gland in the abdominal region",0.5692575561230951,0.7271104389275745
+"CT_AMOS(ct), presence of the left adrenal gland detected in abdominal ct images",0.5695903345282527,0.7267280852782904
+"CT_AMOS(ct), abdominal ct revealing left adrenal gland anatomy",0.5694443496291731,0.7263944698897358
+"CT_AMOS(ct), duodenum",0.6180579307726499,0.5032246042415027
+"CT_AMOS(ct), duodenum in abdominal ct",0.6151147411663607,0.5001672209310195
+"CT_AMOS(ct), ct imaging of the duodenum in the abdomen",0.6163982583528935,0.5014228110969889
+"CT_AMOS(ct), abdominal ct showing duodenal structures",0.6146487732224327,0.49976060958961577
+"CT_AMOS(ct), duodenum observed in abdominal ct scans",0.615060739241285,0.5000377180074719
+"CT_AMOS(ct), visualization of the duodenum in abdominal ct imaging",0.6155021343757842,0.5005531080028905
+"CT_AMOS(ct), ct scan of the duodenum in the abdominal region",0.6163350008357642,0.5009698258719738
+"CT_AMOS(ct), presence of the duodenum detected in abdominal ct images",0.615379735630991,0.5004773188054908
+"CT_AMOS(ct), abdominal ct revealing duodenum anatomy",0.6140710514244722,0.4990842531334152
+"CT_AMOS(ct), bladder",0.7406552396046435,0.5284918902452806
+"CT_AMOS(ct), bladder in abdominal ct",0.740200561802273,0.5262964911477748
+"CT_AMOS(ct), ct imaging of the bladder in the abdomen",0.7409838785969272,0.5269260185892156
+"CT_AMOS(ct), abdominal ct showing bladder structures",0.7407255386375121,0.5269260979665326
+"CT_AMOS(ct), bladder observed in abdominal ct scans",0.7401592399865586,0.5268632022537355
+"CT_AMOS(ct), visualization of the bladder in abdominal ct imaging",0.7405084285268739,0.5265933257156238
+"CT_AMOS(ct), ct scan of the bladder in the abdominal region",0.7408885156988421,0.5270558250804726
+"CT_AMOS(ct), presence of the bladder detected in abdominal ct images",0.740500391514383,0.5263556919786618
+"CT_AMOS(ct), abdominal ct revealing bladder anatomy",0.7406963924106045,0.5268861413498573
+"CT_AMOS(ct), prostate or uterus",0.6810066895094083,0.4615341445198119
+"CT_AMOS(ct), prostate or uterus in abdominal ct",0.6815127923114235,0.46235790372505
+"CT_AMOS(ct), ct imaging of the prostate or uterus in the abdomen",0.6810698030610963,0.46254221393470174
+"CT_AMOS(ct), abdominal ct showing prostate or uterus structures",0.6814763694989817,0.46189592900857396
+"CT_AMOS(ct), prostate or uterus observed in abdominal ct scans",0.6826465082516308,0.4632769972173861
+"CT_AMOS(ct), visualization of the prostate or uterus in abdominal ct imaging",0.6820808373311879,0.4633104288510182
+"CT_AMOS(ct), ct scan of the prostate or uterus in the abdominal region",0.682571924742265,0.46374035200790786
+"CT_AMOS(ct), presence of the prostate or uterus detected in abdominal ct images",0.6815414230926423,0.4623723644826011
+"CT_AMOS(ct), abdominal ct revealing prostate or uterus anatomy",0.6820823236258239,0.46260026836539225
+CT_Lungs(ct),0.9522766996920623,0.7877351481311163
+"CT_Lungs(ct), left lung",0.9452217233078318,0.7766851453174077
+"CT_Lungs(ct), left lung segmented in chest ct imaging",0.9438485419254129,0.7748692062860958
+"CT_Lungs(ct), left pulmonary structure identified via thoracic computed tomography",0.9434204863499558,0.775066147564867
+"CT_Lungs(ct), left lung visualized in cross-sectional chest scans",0.9438792496493771,0.7750021993422925
+"CT_Lungs(ct), left-sided pulmonary anatomy characterized by chest ct",0.9439182226189887,0.7746250627400617
+"CT_Lungs(ct), left lung mapped through tomographic imaging of the thoracic cavity",0.9436503785147028,0.7752198998407404
+"CT_Lungs(ct), left lung documented in ct studies of the chest",0.9433043538538525,0.7741835729395967
+"CT_Lungs(ct), left lung demonstrating anatomical boundaries on thoracic computed tomography",0.9435021283344546,0.7742094625122757
+"CT_Lungs(ct), left pulmonary field assessed with high-resolution ct protocols",0.9426014571302958,0.7733077327843345
+"CT_Lungs(ct), left lung morphology observed in volumetric chest ct acquisitions",0.9441650573503861,0.7758209073505465
+"CT_Lungs(ct), left-sided intrathoracic lung structure localized in thoracic tomographic imaging",0.9432217706866739,0.7740071954097393
+"CT_Lungs(ct), right lung",0.9609557196151828,0.8010886227371288
+"CT_Lungs(ct), right lung segmented in chest ct imaging",0.9608040904027351,0.8002708199194878
+"CT_Lungs(ct), right pulmonary structure identified via thoracic computed tomography",0.9609020105727322,0.8014497610663996
+"CT_Lungs(ct), right lung visualized in cross-sectional chest scans",0.9607935481721519,0.8001681224840137
+"CT_Lungs(ct), right-sided pulmonary anatomy characterized by chest ct",0.960786549985419,0.8004098424182079
+"CT_Lungs(ct), right lung mapped through tomographic imaging of the thoracic cavity",0.9609182549432412,0.8007136632629729
+"CT_Lungs(ct), right lung documented in ct studies of the chest",0.9607827533769716,0.8004943691232478
+"CT_Lungs(ct), right lung demonstrating anatomical boundaries on thoracic computed tomography",0.9609229327940733,0.8008650129188
+"CT_Lungs(ct), right pulmonary field assessed with high-resolution ct protocols",0.9608417725421673,0.8008531989263935
+"CT_Lungs(ct), right lung morphology observed in volumetric chest ct acquisitions",0.9608823229764221,0.8009950995522088
+"CT_Lungs(ct), right-sided intrathoracic lung structure localized in thoracic tomographic imaging",0.9607640681223455,0.7998682143877403
+CT_HaN-Seg(ct),0.1378289920728419,0.1219776093571066
+"CT_HaN-Seg(ct), arytenoids delineation",0.13146285385517262,0.19612007147129762
+"CT_HaN-Seg(ct), arytenoids delineation in head and neck ct imaging",0.13110309793859293,0.19373226569939944
+"CT_HaN-Seg(ct), segmentation of arytenoids on head and neck computed tomography scans",0.12883669391695513,0.19174732682893947
+"CT_HaN-Seg(ct), detection of arytenoids within head and neck ct acquisitions",0.13436046992724987,0.1973789372204463
+"CT_HaN-Seg(ct), arytenoids localization in head and neck ct studies",0.13343279995886004,0.19662904448397156
+"CT_HaN-Seg(ct), visualization of arytenoids via head and neck ct protocols",0.13076016355340786,0.19535767466807646
+"CT_HaN-Seg(ct), boundary demarcation of arytenoids on head and neck ct examinations",0.12032348117323027,0.1824961837336127
+"CT_HaN-Seg(ct), characterization of arytenoids using head and neck ct sequences",0.13300816386854242,0.19650625885084072
+"CT_HaN-Seg(ct), identification of arytenoids in head and neck ct datasets",0.13258093268871105,0.1975127880253827
+"CT_HaN-Seg(ct), brainstem",0.18712115647093086,0.19244885656980626
+"CT_HaN-Seg(ct), brainstem in head and neck ct",0.18475102893113968,0.19381903916600288
+"CT_HaN-Seg(ct), ct imaging of the brainstem in the head and neck region",0.18631295813804358,0.196767136988662
+"CT_HaN-Seg(ct), head and neck ct scan visualizing the brainstem",0.19033525510839353,0.1971657665386728
+"CT_HaN-Seg(ct), brainstem segmentation in head and neck ct images",0.18902438011231487,0.19832910891399028
+"CT_HaN-Seg(ct), structural analysis of the brainstem in head and neck ct",0.18801950747092763,0.19792956924037058
+"CT_HaN-Seg(ct), brainstem morphology observed in head and neck ct imaging",0.1885465273614346,0.19794539764590166
+"CT_HaN-Seg(ct), left carotid artery",0.04017857142857143,0.08547774668107863
+"CT_HaN-Seg(ct), left carotid artery in head and neck ct",0.042704626334519574,0.09333770727379911
+"CT_HaN-Seg(ct), ct imaging of the left carotid artery in the head and neck region",0.042704626334519574,0.09403782274720413
+"CT_HaN-Seg(ct), head and neck ct demonstrating the left carotid artery",0.042279411764705885,0.09371751187561944
+"CT_HaN-Seg(ct), visualization of the left carotid artery in head and neck ct imaging",0.03917910447761194,0.09096691256577606
+"CT_HaN-Seg(ct), ct scan of the head and neck showing the left carotid artery",0.0425531914893617,0.09075100053438127
+"CT_HaN-Seg(ct), left carotid artery segmentation in head and neck ct images",0.03859649122807018,0.09038376555727182
+"CT_HaN-Seg(ct), assessment of the left carotid artery using head and neck ct",0.04133858267716536,0.09535772689740618
+"CT_HaN-Seg(ct), right carotid artery",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery visualized in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery delineation via head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery as a segmentation target in head and neck ct studies",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery anatomic structure in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery depicted on head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery imaged within the head and neck via ct",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery localization in head and neck ct examinations",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery observed in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), right carotid artery visualization in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), cervical esophagus",0.13252347121919786,0.08384988679191484
+"CT_HaN-Seg(ct), cervical esophagus in head and neck ct imaging",0.13774668861645556,0.08807678255717288
+"CT_HaN-Seg(ct), cervical esophagus delineated in head and neck ct scans",0.13698285260265997,0.08863427964915988
+"CT_HaN-Seg(ct), cervical esophagus segmentation target in head and neck ct studies",0.1357082264968208,0.0872418010657541
+"CT_HaN-Seg(ct), cervical esophagus anatomical structure visualized via head and neck ct",0.13651653544941422,0.08934502292590735
+"CT_HaN-Seg(ct), cervical esophagus depicted on head and neck ct imaging",0.14012657826788333,0.0907970178480802
+"CT_HaN-Seg(ct), cervical esophagus localization within head and neck ct examinations",0.1339585028621888,0.08524366358531228
+"CT_HaN-Seg(ct), cervical esophagus imaged in head and neck ct scans",0.13722692781701412,0.08879157604282735
+"CT_HaN-Seg(ct), cervical esophagus boundaries assessed in head and neck ct",0.1360351771087206,0.08675598351773843
+"CT_HaN-Seg(ct), left cochlea",0.0,0.0
+"CT_HaN-Seg(ct), left cochlea in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), ct imaging of the left cochlea in the head and neck region",0.0,0.0
+"CT_HaN-Seg(ct), head and neck ct showing the left cochlea",0.0,0.0
+"CT_HaN-Seg(ct), left cochlea observed in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), visualization of the left cochlea in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), ct scan of the left cochlea in the head and neck",0.0,0.0
+"CT_HaN-Seg(ct), presence of the left cochlea detected in head and neck ct images",0.0,0.0
+"CT_HaN-Seg(ct), left cochlea segmentation in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), right cochlea",0.5758452056243771,0.2543475034194213
+"CT_HaN-Seg(ct), right cochlea in head and neck ct",0.5920578589025186,0.2697273303068557
+"CT_HaN-Seg(ct), ct imaging of the right cochlea in the head and neck region",0.5969528590070343,0.2725094726033248
+"CT_HaN-Seg(ct), head and neck ct showing the right cochlea",0.5997284211037975,0.2744266287129099
+"CT_HaN-Seg(ct), right cochlea observed in head and neck ct scans",0.5953555513068496,0.2730598919116619
+"CT_HaN-Seg(ct), visualization of the right cochlea in head and neck ct imaging",0.5974186094657823,0.2741863150768924
+"CT_HaN-Seg(ct), ct scan of the right cochlea in the head and neck",0.5972557224684948,0.2728640377599008
+"CT_HaN-Seg(ct), presence of the right cochlea detected in head and neck ct images",0.596170645210209,0.27345463397023156
+"CT_HaN-Seg(ct), right cochlea segmentation in head and neck ct imaging",0.5964675416736201,0.2726210681426594
+"CT_HaN-Seg(ct), cricopharyngeal inlet",0.0,0.0
+"CT_HaN-Seg(ct), cricopharyngeal inlet in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), ct imaging of the cricopharyngeal inlet in the head and neck region",0.0,0.0
+"CT_HaN-Seg(ct), head and neck ct showing the cricopharyngeal inlet",0.0,0.0
+"CT_HaN-Seg(ct), cricopharyngeal inlet observed in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), visualization of the cricopharyngeal inlet in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), ct scan of the cricopharyngeal inlet in the head and neck",0.0,0.0
+"CT_HaN-Seg(ct), presence of the cricopharyngeal inlet detected in head and neck ct images",0.0,0.0
+"CT_HaN-Seg(ct), cricopharyngeal inlet segmentation in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), left lacrimal gland",0.0,0.0
+"CT_HaN-Seg(ct), left lacrimal gland in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), left lacrimal gland anatomical segmentation in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), left lacrimal gland localization in head and neck ct studies",0.0,0.0
+"CT_HaN-Seg(ct), left lacrimal gland boundaries in head and neck ct examinations",0.0,0.0
+"CT_HaN-Seg(ct), left lacrimal gland visualization in head and neck ct datasets",0.0,0.0
+"CT_HaN-Seg(ct), head and neck ct showing the left lacrimal gland",0.0,0.0
+"CT_HaN-Seg(ct), left lacrimal gland observed in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), visualization of the left lacrimal gland in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), ct scan of the left lacrimal gland in the head and neck",0.0,0.0
+"CT_HaN-Seg(ct), presence of the left lacrimal gland detected in head and neck ct images",0.0,0.0
+"CT_HaN-Seg(ct), larynx-glottis",0.18169941481338883,0.19735605255962693
+"CT_HaN-Seg(ct), larynx-glottis in head and neck ct imaging",0.18338227867043266,0.1987251920507082
+"CT_HaN-Seg(ct), larynx-glottis delineation in head and neck ct scans",0.18248007119280912,0.19824695351893
+"CT_HaN-Seg(ct), larynx-glottis segmentation target in head and neck ct studies",0.1846435216394337,0.20842018984667027
+"CT_HaN-Seg(ct), larynx-glottis anatomical boundaries in head and neck ct",0.1789818962164965,0.19577330146303962
+"CT_HaN-Seg(ct), larynx-glottis spatial localization in head and neck ct",0.1819711480557315,0.19828482505584735
+"CT_HaN-Seg(ct), larynx-glottis visualized in head and neck ct datasets",0.1844960994126702,0.19845673823649576
+"CT_HaN-Seg(ct), ct imaging of the larynx-glottis in the head and neck region",0.18644634892597298,0.21121595090984818
+"CT_HaN-Seg(ct), head and neck ct demonstrating the larynx-glottis",0.1826837301134322,0.19807182622188982
+"CT_HaN-Seg(ct), larynx-supraglottic",0.15778251599147122,0.15086531837391495
+"CT_HaN-Seg(ct), larynx-supraglottic in head and neck ct imaging",0.1586433260393873,0.15315383825554227
+"CT_HaN-Seg(ct), larynx-supraglottic anatomical demarcation in head and neck ct scans",0.1610738255033557,0.15499926890035726
+"CT_HaN-Seg(ct), larynx-supraglottic segmentation in head and neck ct",0.15928725701943844,0.15590366402836112
+"CT_HaN-Seg(ct), larynx-supraglottic spatial localization in head and neck ct",0.16138165345413363,0.15692603765829377
+"CT_HaN-Seg(ct), larynx-supraglottic morphological delineation in head and neck ct",0.15906623235613462,0.1539801814059443
+"CT_HaN-Seg(ct), larynx-supraglottic depicted in head and neck ct datasets",0.16030534351145037,0.15600530405912322
+"CT_HaN-Seg(ct), ct imaging of the larynx-supraglottic in the head and neck region",0.16111111111111112,0.15514381615136352
+"CT_HaN-Seg(ct), head and neck ct showing the larynx-supraglottic structures",0.15837837837837837,0.1541102038987352
+"CT_HaN-Seg(ct), lips",0.002466091245376079,0.016251682387049344
+"CT_HaN-Seg(ct), lips in head and neck ct imaging",0.0030248033877797943,0.016596002728905258
+"CT_HaN-Seg(ct), lips anatomical delineation in head and neck ct scans",0.0027743526510480886,0.016250907791041814
+"CT_HaN-Seg(ct), lips segmentation in head and neck ct",0.002745576571079927,0.01614176338435022
+"CT_HaN-Seg(ct), lips visualization in head and neck ct",0.0027743526510480886,0.016108204204398964
+"CT_HaN-Seg(ct), ct imaging of the lips in the head and neck region",0.0025412960609911056,0.01691098288283643
+"CT_HaN-Seg(ct), head and neck ct showing lip structures",0.003436426116838488,0.01860944851711645
+"CT_HaN-Seg(ct), visualization of the lips in head and neck ct scans",0.0027539779681762548,0.016395867120999347
+"CT_HaN-Seg(ct), lips observed in head and neck ct imaging",0.0027590435315757206,0.016338364085299657
+"CT_HaN-Seg(ct), ct scan of the head and neck showing the lips",0.0022786458333333335,0.012558070695471522
+"CT_HaN-Seg(ct), mandible",0.4065665129080001,0.3016207189504785
+"CT_HaN-Seg(ct), mandible in head and neck ct imaging",0.4047327898453269,0.29997854388462025
+"CT_HaN-Seg(ct), mandible osseous delineation in head and neck ct scans",0.40738056372236053,0.3013119108442894
+"CT_HaN-Seg(ct), mandible segmentation in head and neck ct",0.40386345502846466,0.29506649851234085
+"CT_HaN-Seg(ct), mandible anatomical boundaries in head and neck ct",0.40688713024232703,0.2972408114660234
+"CT_HaN-Seg(ct), ct imaging of the mandible in the head and neck region",0.4033292292727147,0.2960458722460372
+"CT_HaN-Seg(ct), head and neck ct demonstrating mandible structures",0.4044301697608326,0.29787881409772654
+"CT_HaN-Seg(ct), visualization of the mandible in head and neck ct scans",0.4033893233572025,0.2967719318806943
+"CT_HaN-Seg(ct), mandible observed in head and neck ct imaging",0.4047009672935351,0.2993762555386171
+"CT_HaN-Seg(ct), optic chiasm",0.2125827166545343,0.14207604114488895
+"CT_HaN-Seg(ct), optic chiasm in head and neck ct imaging",0.19559992656865832,0.14173364069717934
+"CT_HaN-Seg(ct), optic chiasm anatomical demarcation in head and neck ct scans",0.21404571963920702,0.1441551793198915
+"CT_HaN-Seg(ct), optic chiasm segmentation in head and neck ct",0.19623418452342725,0.14011763864860025
+"CT_HaN-Seg(ct), optic chiasm morphological boundaries in head and neck ct imaging",0.19690913226973522,0.14210797999385877
+"CT_HaN-Seg(ct), optic chiasm depicted in head and neck ct datasets",0.18729619404523354,0.13910858639668797
+"CT_HaN-Seg(ct), optic chiasm structural delineation in head and neck ct",0.19459643406449123,0.14038442657976913
+"CT_HaN-Seg(ct), ct imaging of the optic chiasm in the head and neck region",0.20882561611279504,0.14510700419081365
+"CT_HaN-Seg(ct), head and neck ct showing optic chiasm structures",0.20762847903240872,0.14181772193977008
+"CT_HaN-Seg(ct), left optic nerve",0.0,0.0
+"CT_HaN-Seg(ct), left optic nerve in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), left optic nerve anatomical course in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), left optic nerve segmentation in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), left optic nerve spatial localization in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), left optic nerve morphological boundaries in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), left optic nerve structural delineation in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), left optic nerve depicted in head and neck ct datasets",0.0,0.0
+"CT_HaN-Seg(ct), left optic nerve visualization in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve anatomical course in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve segmentation focus in head and neck ct studies",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve spatial localization in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve volumetric assessment via head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve morphological boundaries in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve structural delineation in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve depicted in head and neck ct datasets",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve visualization in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), right optic nerve 3d reconstruction from head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), oral cavity delineation",0.0,0.0
+"CT_HaN-Seg(ct), oral cavity delineation in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), anatomical boundaries of the oral cavity in ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), segmentation of the oral cavity in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), ct-based demarcation of the oral cavity",0.0,0.0
+"CT_HaN-Seg(ct), oral cavity segmentation in ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), oral cavity identification in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), oral cavity boundaries in ct",0.0,0.0
+"CT_HaN-Seg(ct), oral cavity localization in ct",0.0,0.0
+"CT_HaN-Seg(ct), oral cavity demarcation in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), oral cavity visualization in ct",0.0,0.0
+"CT_HaN-Seg(ct), oral cavity structure in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), left parotid gland",0.16004584799902427,0.14473596950316975
+"CT_HaN-Seg(ct), left parotid gland in head and neck ct",0.16228411660919953,0.14761835877637886
+"CT_HaN-Seg(ct), left parotid gland segmentation in ct",0.16503359254946343,0.1499697649701035
+"CT_HaN-Seg(ct), left parotid gland identification in ct imaging",0.15887284171185403,0.14618022397659208
+"CT_HaN-Seg(ct), left parotid gland boundaries in ct",0.1654638566663715,0.14881947900972817
+"CT_HaN-Seg(ct), left parotid gland localization in head and neck ct",0.16089661254662369,0.14563957327169974
+"CT_HaN-Seg(ct), left parotid gland demarcation in ct",0.16028083865497636,0.14625786999600915
+"CT_HaN-Seg(ct), left parotid gland structure in ct",0.16202576543387587,0.14777965605914997
+"CT_HaN-Seg(ct), left parotid gland visualization in head and neck ct",0.16366506404825099,0.1472247488194124
+"CT_HaN-Seg(ct), right parotid gland",0.4817244705186761,0.47405571176153627
+"CT_HaN-Seg(ct), right parotid gland in head and neck ct",0.47883351878462027,0.47666878972637666
+"CT_HaN-Seg(ct), right parotid gland segmentation in ct",0.48210892055937127,0.47814145172072553
+"CT_HaN-Seg(ct), right parotid gland identification in ct imaging",0.48277242530437275,0.47768215461299574
+"CT_HaN-Seg(ct), right parotid gland boundaries in ct",0.4741221798918129,0.4724085746913299
+"CT_HaN-Seg(ct), right parotid gland localization in head and neck ct",0.4812596148011443,0.47812351838392253
+"CT_HaN-Seg(ct), right parotid gland demarcation in ct",0.4756387724513301,0.4727091888299526
+"CT_HaN-Seg(ct), right parotid gland structure in ct",0.4719631990232901,0.469080217377854
+"CT_HaN-Seg(ct), right parotid gland visualization in head and neck ct",0.48425648931428716,0.4805663308876158
+"CT_HaN-Seg(ct), pituitary gland",0.09557273366127898,0.11691669586676766
+"CT_HaN-Seg(ct), pituitary gland in head and neck ct",0.08502170767004341,0.1045410139688429
+"CT_HaN-Seg(ct), ct imaging of the pituitary gland in the head and neck region",0.0935074100211715,0.11273620387310755
+"CT_HaN-Seg(ct), head and neck ct showing pituitary gland structures",0.09064953604568166,0.10818942439600301
+"CT_HaN-Seg(ct), visualization of the pituitary gland in head and neck ct scans",0.09152421652421652,0.10910134675258018
+"CT_HaN-Seg(ct), pituitary gland observed in head and neck ct imaging",0.0950210378681627,0.11558180126466966
+"CT_HaN-Seg(ct), ct scan of the head and neck showing the pituitary gland",0.09006433166547534,0.10779276727873363
+"CT_HaN-Seg(ct), pituitary gland segmentation in head and neck ct",0.09064953604568166,0.10818942439600301
+"CT_HaN-Seg(ct), spinal cord",0.0,0.0
+"CT_HaN-Seg(ct), spinal cord in head and neck ct",0.14971158876663027,0.16045854832099538
+"CT_HaN-Seg(ct), ct imaging of the spinal cord in the head and neck region",0.1476338077745279,0.16026661237350862
+"CT_HaN-Seg(ct), head and neck ct showing spinal cord structures",0.1497874447938799,0.15982368885738185
+"CT_HaN-Seg(ct), visualization of the spinal cord in head and neck ct scans",0.15071464458544093,0.16155337232129838
+"CT_HaN-Seg(ct), spinal cord observed in head and neck ct imaging",0.14820717765888738,0.1576820354677837
+"CT_HaN-Seg(ct), ct scan of the head and neck showing the spinal cord",0.14994418779255234,0.1614577051890271
+"CT_HaN-Seg(ct), spinal cord segmentation in head and neck ct",0.14728372901714248,0.15747339081624115
+"CT_HaN-Seg(ct), left submandibular gland",0.1304277340400824,0.14664270098508164
+"CT_HaN-Seg(ct), left submandibular gland in head and neck ct",0.1240837427386854,0.14016843425881167
+"CT_HaN-Seg(ct), ct imaging of the left submandibular gland in the head and neck region",0.11764732551881588,0.13550199689673856
+"CT_HaN-Seg(ct), head and neck ct showing left submandibular gland structures",0.11620486476833768,0.13261486785920343
+"CT_HaN-Seg(ct), visualization of the left submandibular gland in head and neck ct scans",0.12252509725895903,0.14025178869260768
+"CT_HaN-Seg(ct), left submandibular gland observed in head and neck ct imaging",0.1228129957833507,0.13937790040174403
+"CT_HaN-Seg(ct), ct scan of the head and neck depicting the left submandibular gland",0.12308484325839981,0.1410797877950206
+"CT_HaN-Seg(ct), left submandibular gland segmentation in head and neck ct",0.11562551671795757,0.13237686842843374
+"CT_HaN-Seg(ct), left submandibular gland delineation in head and neck ct imaging",0.12314206639562797,0.13870809160297307
+"CT_HaN-Seg(ct), ct-based localization of the left submandibular gland in the head and neck",0.11952255491361491,0.13694967533337948
+"CT_HaN-Seg(ct), right submandibular gland",0.25,0.25
+"CT_HaN-Seg(ct), right submandibular gland in head and neck ct",0.25,0.25
+"CT_HaN-Seg(ct), ct imaging of the right submandibular gland in the head and neck region",0.25,0.25
+"CT_HaN-Seg(ct), head and neck ct showing right submandibular gland structures",0.25,0.25
+"CT_HaN-Seg(ct), visualization of the right submandibular gland in head and neck ct scans",0.25,0.25
+"CT_HaN-Seg(ct), right submandibular gland observed in head and neck ct imaging",0.25,0.25
+"CT_HaN-Seg(ct), ct scan of the head and neck highlighting the right submandibular gland",0.25,0.25
+"CT_HaN-Seg(ct), right submandibular gland segmentation in head and neck ct",0.25,0.25
+"CT_HaN-Seg(ct), right submandibular gland delineation in head and neck ct imaging",0.25,0.25
+"CT_HaN-Seg(ct), ct-based identification of the right submandibular gland in the head and neck",0.25,0.25
+"CT_HaN-Seg(ct), thyroid",0.0,0.0
+"CT_HaN-Seg(ct), thyroid in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), ct imaging of the thyroid in the head and neck region",0.0,0.0
+"CT_HaN-Seg(ct), head and neck ct showing thyroid structures",0.0,0.0
+"CT_HaN-Seg(ct), visualization of the thyroid in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), thyroid observed in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), ct scan of the head and neck depicting the thyroid",0.0,0.0
+"CT_HaN-Seg(ct), thyroid segmentation in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), thyroid delineation in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), ct-based localization of the thyroid in the head and neck",0.0,0.0
+"CT_HaN-Seg(ct), buccal mucosa",0.0,0.0
+"CT_HaN-Seg(ct), buccal mucosa in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), ct imaging of the buccal mucosa in the head and neck region",0.0,0.0
+"CT_HaN-Seg(ct), head and neck ct showing buccal mucosa structures",0.0,0.0
+"CT_HaN-Seg(ct), visualization of the buccal mucosa in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), buccal mucosa observed in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), ct scan of the head and neck highlighting the buccal mucosa",0.0,0.0
+"CT_HaN-Seg(ct), buccal mucosa segmentation in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), buccal mucosa delineation in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), ct-based identification of the buccal mucosa in the head and neck",0.0,0.0
+"CT_HaN-Seg(ct), left anterior segment of the eyeball",0.177528273842263,0.09722059972572182
+"CT_HaN-Seg(ct), left anterior segment of the eyeball in head and neck ct",0.1794245817763973,0.09827377136370635
+"CT_HaN-Seg(ct), ct imaging of the left anterior segment of the eyeball in the head and neck region",0.17734703694662626,0.09748628786153901
+"CT_HaN-Seg(ct), head and neck ct showing left anterior eyeball segment structures",0.17854430919339698,0.09814323950543308
+"CT_HaN-Seg(ct), visualization of the left anterior segment of the eyeball in head and neck ct scans",0.17632789772386737,0.09670697259282579
+"CT_HaN-Seg(ct), left anterior eyeball segment observed in head and neck ct imaging",0.17625027185318404,0.09657582258152131
+"CT_HaN-Seg(ct), ct scan of the head and neck depicting the left anterior segment of the eyeball",0.17636073958710852,0.09614235938196088
+"CT_HaN-Seg(ct), left anterior eyeball segment segmentation in head and neck ct",0.18083350947204965,0.10066027419813194
+"CT_HaN-Seg(ct), left anterior eyeball segment delineation in head and neck ct imaging",0.17828198047094646,0.09759825728615244
+"CT_HaN-Seg(ct), ct-based localization of the left anterior segment of the eyeball in the head and neck",0.17858110960151954,0.09901099519431339
+"CT_HaN-Seg(ct), right anterior segment of the eyeball",0.05736250980006567,0.016808161991573752
+"CT_HaN-Seg(ct), right anterior segment of the eyeball in head and neck ct",0.05363557329038513,0.015483348510774247
+"CT_HaN-Seg(ct), ct imaging of the right anterior segment of the eyeball in the head and neck region",0.06123303311979643,0.02011960750266189
+"CT_HaN-Seg(ct), head and neck ct showing right anterior eyeball segment structures",0.061263631331015166,0.018521819502387734
+"CT_HaN-Seg(ct), visualization of the right anterior segment of the eyeball in head and neck ct scans",0.0536691762440189,0.015637844607437872
+"CT_HaN-Seg(ct), right anterior eyeball segment observed in head and neck ct imaging",0.05214721088487102,0.01505767085276953
+"CT_HaN-Seg(ct), ct scan of the head and neck highlighting the right anterior segment of the eyeball",0.06510227512543187,0.02212224413028053
+"CT_HaN-Seg(ct), right anterior eyeball segment segmentation in head and neck ct",0.05020708299346005,0.014625704388453294
+"CT_HaN-Seg(ct), right anterior eyeball segment delineation in head and neck ct imaging",0.051174801680628185,0.014649624162331192
+"CT_HaN-Seg(ct), ct-based identification of the right anterior segment of the eyeball in the head and neck",0.06058536198259548,0.020432887625645435
+"CT_HaN-Seg(ct), left posterior segment of the eyeball",0.0,0.0
+"CT_HaN-Seg(ct), left posterior segment of the eyeball in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), ct imaging of the left posterior segment of the eyeball in the head and neck region",0.0,0.0
+"CT_HaN-Seg(ct), head and neck ct showing left posterior eyeball segment structures",0.0,0.0
+"CT_HaN-Seg(ct), visualization of the left posterior segment of the eyeball in head and neck ct scans",0.0,0.0
+"CT_HaN-Seg(ct), left posterior eyeball segment observed in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), ct scan of the head and neck depicting the left posterior segment of the eyeball",0.0,0.0
+"CT_HaN-Seg(ct), left posterior eyeball segment segmentation in head and neck ct",0.0,0.0
+"CT_HaN-Seg(ct), left posterior eyeball segment delineation in head and neck ct imaging",0.0,0.0
+"CT_HaN-Seg(ct), ct-based localization of the left posterior segment of the eyeball in the head and neck",0.0,0.0
+"CT_HaN-Seg(ct), right posterior segment of the eyeball",0.6184532478818601,0.6322151002267796
+"CT_HaN-Seg(ct), right posterior segment of the eyeball in head and neck ct",0.6204775544769874,0.642641456379627
+"CT_HaN-Seg(ct), ct imaging of the right posterior segment of the eyeball in the head and neck region",0.6205126903636314,0.6428098533638886
+"CT_HaN-Seg(ct), head and neck ct showing right posterior eyeball segment structures",0.617996475009395,0.6312711258842377
+"CT_HaN-Seg(ct), visualization of the right posterior segment of the eyeball in head and neck ct scans",0.6196921406435779,0.6402594247533745
+"CT_HaN-Seg(ct), right posterior eyeball segment observed in head and neck ct imaging",0.6188671406303867,0.6335808538259204
+"CT_HaN-Seg(ct), ct scan of the head and neck highlighting the right posterior segment of the eyeball",0.6177651666359526,0.634522892206475
+"CT_HaN-Seg(ct), right posterior eyeball segment segmentation in head and neck ct",0.6208574002566216,0.6465128650447776
+"CT_HaN-Seg(ct), right posterior eyeball segment delineation in head and neck ct imaging",0.6195122490702812,0.637942252245825
+"CT_HaN-Seg(ct), ct-based identification of the right posterior segment of the eyeball in the head and neck",0.6195727237420136,0.6381858723891054
+CT_LungLesion(ct),0.46452281116404187,0.5185371430565775
+"CT_LungLesion(ct), lung lesions",0.4602613892107583,0.5141182461069196
+"CT_LungLesion(ct), lung lesions identified in abdominal ct imaging",0.46503948905754255,0.520021071560077
+"CT_LungLesion(ct), lung lesions detected via computed tomography of the abdomen",0.4622555571545471,0.5168513009088861
+"CT_LungLesion(ct), pulmonary lesions visualized in cross-sectional abdominal scans",0.46424645966758865,0.5192006525362212
+"CT_LungLesion(ct), lung lesions characterized within the abdominal region through tomographic imaging",0.46311838244239456,0.517082794667618
+"CT_LungLesion(ct), lung lesions documented in ct studies of the abdomen",0.4664499449478323,0.5196389410974258
+"CT_LungLesion(ct), lung lesions localized in abdominal computed tomography",0.4649657725813877,0.5192207633282112
+"CT_LungLesion(ct), lung lesion observed in multiphase abdominal ct scans",0.46591729188359665,0.5197849845676509
+"CT_LungLesion(ct), lung lesion demonstrating radiographic features on abdominal ct imaging",0.46401311322144717,0.5181875649952772
+"CT_LungLesion(ct), pulmonary lesion mapped through contrast-enhanced abdominal ct",0.46704502806500586,0.5202087863809002
+"CT_LungLesion(ct), lung lesion assessed in tomographic scans of the abdominal cavity",0.4664384945723591,0.5195934674731651
+CT_Aorta(ct),0.6200734699876984,0.44702198492323975
+"CT_Aorta(ct), aortic vessel trees",0.6202941450919975,0.446932325510616
+"CT_Aorta(ct), aortic vessel trees in whole-body cta",0.619733690286399,0.44736192733834007
+"CT_Aorta(ct), cta imaging of aortic vessel trees throughout the body",0.6198601845770433,0.4469984079743326
+"CT_Aorta(ct), whole-body cta showing aortic vessel tree structures",0.6203229354829828,0.4470691243365576
+"CT_Aorta(ct), aortic vessel trees observed in whole-body cta scans",0.6195529824285665,0.44674540398398815
+"CT_Aorta(ct), visualization of aortic vessel trees in cta of the entire body",0.6199164321174647,0.4474117473240115
+"CT_Aorta(ct), cta scan revealing aortic vessel trees in the whole body",0.6203511812849843,0.4473014381597279
+"CT_Aorta(ct), aortic vessel tree assessment using whole-body cta",0.6200492127459106,0.4455725743403966
+"CT_Aorta(ct), presence of aortic vessel trees detected in whole-body cta imaging",0.6203281211895078,0.44768044264582574
+"CT_Aorta(ct), aortic vessel tree anatomy shown in whole-body cta",0.6203258146721286,0.44714645761860056
+CT_AirwayTree(ct),0.7951260509211485,0.7730396142906374
+"CT_AirwayTree(ct), airway tree",0.7953489821789133,0.7731652640248163
+"CT_AirwayTree(ct), airway tree in chest ct",0.7949747794119948,0.7730679148130806
+"CT_AirwayTree(ct), ct imaging of the airway tree in the chest region",0.7951433100867227,0.7726484805736585
+"CT_AirwayTree(ct), visualization of the airway tree in chest ct scans",0.794881265376335,0.7731257011677929
+"CT_AirwayTree(ct), airway tree segmentation in chest ct imaging",0.7953935466328176,0.7733308807942154
+"CT_AirwayTree(ct), delineation of bronchial branches within the chest ct",0.795014421840108,0.7728994443702604
+CT_COVID19-Infection(ct),0.4440019489049707,0.3206935690150741
+"CT_COVID19-Infection(ct), covid-19 infection",0.44412892684161404,0.32024381867018387
+"CT_COVID19-Infection(ct), covid-19 infection detected in chest ct scans",0.4439055797993296,0.3209387616217384
+"CT_COVID19-Infection(ct), thoracic ct imaging revealing covid-19 involvement",0.4438649746905571,0.3212913655413302
+"CT_COVID19-Infection(ct), pulmonary manifestations of covid-19 in ct imaging",0.4436894076590633,0.3205551623791246
+"CT_COVID19-Infection(ct), covid-19-associated parenchymal abnormalities in chest ct",0.44427036835861516,0.3205834799266856
+"CT_COVID19-Infection(ct), covid-19-related pathology characterized in chest tomographic scans",0.4445930321823928,0.3208438820719073
+"CT_COVID19-Infection(ct), radiologic evidence of covid-19 infection in pulmonary ct studies",0.443829726362391,0.32087984771787414
+"CT_COVID19-Infection(ct), diffuse covid-19 lung involvement documented in ct imaging",0.44367544753912636,0.3205293695395624
+"CT_COVID19-Infection(ct), tomographic evidence of covid-19 infection in the chest",0.4444209760991436,0.3206193285742002
+"CT_COVID19-Infection(ct), lung involvement by covid-19 on computed tomography",0.44364104951747363,0.32045067410813494
+CT_ThoracicOrgans-TCIA-LCTSC(ct),0.8171918324982871,0.657392579089574
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), esophagus",0.5901937971614715,0.5541311187323278
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), esophagus segmented in chest ct imaging",0.5884499600103044,0.5530792637584397
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), esophageal structure identified via thoracic computed tomography",0.5871171649752432,0.5521297976043441
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), esophagus visualized in cross-sectional chest scans",0.58755210356117,0.5527406693484972
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), esophageal lumen characterized by contrast-enhanced ct of the chest",0.5824689472846729,0.5482253807449474
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), esophagus mapped through tomographic imaging of the thoracic cavity",0.5844743005253615,0.5501611842103812
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), esophageal anatomy documented in ct studies of the chest",0.5874105379640083,0.5520910382933655
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), intrathoracic esophageal structure assessed with high-resolution ct protocols",0.5868461120826108,0.5515827552087446
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), esophagus observed in volumetric chest ct acquisitions",0.5858987534740999,0.5511452836787505
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), mediastinal esophageal segment localized in thoracic tomographic imaging",0.5842899604212087,0.548791986372515
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), heart",0.7310173826887324,0.3279312682942971
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), heart segmented in chest ct imaging",0.7342297923218313,0.3264371136169888
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), cardiac structure identified via thoracic computed tomography",0.7273486601499712,0.3245525778397243
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), heart visualized in cross-sectional chest scans",0.7368775648247367,0.331874746646237
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), myocardial anatomy characterized by contrast-enhanced ct of the chest",0.7198467802379981,0.3208868341835959
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), heart mapped through tomographic imaging of the thoracic cavity",0.7259532439099149,0.3239610503153016
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), cardiac anatomy documented in ct studies of the chest",0.735502198450722,0.331467154407519
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), heart demonstrating anatomical boundaries on thoracic computed tomography",0.7312262904766889,0.32626283042262716
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), intrathoracic cardiac structure assessed with high-resolution ct protocols",0.7284538748954263,0.32575400088557377
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), heart observed in volumetric chest ct acquisitions",0.7367175063773238,0.3275847703636917
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), mediastinal cardiac component localized in thoracic tomographic imaging",0.7256674074923127,0.32257149150705716
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left lung",0.9495889212017018,0.7808226261077569
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left lung segmented in chest ct imaging",0.9511266886275256,0.7839193152152685
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left pulmonary structure identified via thoracic computed tomography",0.9536067529800617,0.7911052064180731
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left lung visualized in cross-sectional chest scans",0.9516362350186475,0.7867900402696463
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left-sided pulmonary anatomy characterized by chest ct",0.9520889911600096,0.7853621613274716
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left lung mapped through tomographic imaging of the thoracic cavity",0.9527348990168477,0.7896742377102829
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left lung documented in ct studies of the chest",0.9517487851818744,0.7847797706742866
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left lung demonstrating anatomical boundaries on thoracic computed tomography",0.9524882928684383,0.7873780942060384
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left pulmonary field assessed with high-resolution ct protocols",0.9551166491749276,0.7941114353685915
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left lung morphology observed in volumetric chest ct acquisitions",0.9517173181388952,0.7868604174049381
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), left-sided intrathoracic lung structure localized in thoracic tomographic imaging",0.9523163976253989,0.7882470512616685
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right lung",0.93937755418123,0.7538453627230512
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right lung segmented in chest ct imaging",0.9382603844270783,0.7528236423233857
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right pulmonary structure identified via thoracic computed tomography",0.939499298778865,0.7551415369673512
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right lung visualized in cross-sectional chest scans",0.9387961583788703,0.7540639513594164
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right-sided pulmonary anatomy characterized by chest ct",0.9379242526384145,0.7508057073592731
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right lung mapped through tomographic imaging of the thoracic cavity",0.9384477516379394,0.7538257487857898
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right lung documented in ct studies of the chest",0.9384437176700259,0.7530749213498061
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right lung demonstrating anatomical boundaries on thoracic computed tomography",0.9389091314619967,0.7531385537915002
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right pulmonary field assessed with high-resolution ct protocols",0.9393906141674124,0.7540727677717917
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right lung morphology observed in volumetric chest ct acquisitions",0.9377374461490201,0.7516253112790897
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), right-sided intrathoracic lung structure localized in thoracic tomographic imaging",0.9393787810154843,0.7539251433010316
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), spinal cord",0.8603307537042914,0.877559050951562
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), spinal cord segmented in chest ct imaging",0.8609152007669808,0.8788801507154159
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), spinal cord structure identified via thoracic computed tomography",0.8618619084999666,0.8800832343072762
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), spinal cord visualized in cross-sectional chest scans",0.8608935793066755,0.879276786093321
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), thoracic spinal cord characterized by contrast-enhanced ct of the chest",0.8617814690037888,0.8793416318380739
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), spinal cord mapped through tomographic imaging of the thoracic cavity",0.862543964099638,0.880743637541174
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), spinal cord anatomy documented in ct studies of the chest region",0.8610948583024034,0.8791161187385405
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), spinal cord demonstrating anatomical margins on thoracic computed tomography",0.8612816228619016,0.8790607560465675
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), intrathoracic spinal cord assessed with high-resolution ct protocols",0.8613140040331246,0.8794215488454671
+"CT_ThoracicOrgans-TCIA-LCTSC(ct), spinal cord observed in volumetric chest ct acquisitions",0.8612724010439784,0.8795684572595918

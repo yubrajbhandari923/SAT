@@ -13,5 +13,5 @@ RUN cd model
 RUN pip install -e dynamic-network-architectures-main
 
 # 指定容器启动命令
-CMD ["python", "inference_cvpr25.py"]
+CMD ["python", "inference.py"]
 ENTRYPOINT ["sh", "predict.sh"]

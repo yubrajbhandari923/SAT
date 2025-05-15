@@ -1,0 +1,11 @@
+CaseName,RunningTime,DSC,NSD,F1
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0018.npz,0,0.6308,0.693,
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0021.npz,0,0.4857,0.5424,
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0033.npz,0,0.6528,0.731,
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0043.npz,0,0.5311,0.6181,
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0044.npz,0,0.465,0.5323,
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0048.npz,0,0.5825,0.6626,
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0072.npz,0,0.4857,0.5639,
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0079.npz,0,0.2084,0.2807,
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0088.npz,0,0.2079,0.3225,
+/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/CT_AMOS_amos_0124.npz,0,0.5789,0.5971,

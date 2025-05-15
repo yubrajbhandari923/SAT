@@ -15,6 +15,105 @@ from scipy.ndimage import zoom
 from model.maskformer import Maskformer
 from model.knowledge_encoder import Knowledge_Encoder
 
+import logging
+
+logging.basicConfig(
+    level=logging.INFO,
+    format="%(asctime)s - %(levelname)s - %(message)s",
+    datefmt="%Y-%m-%d %H:%M:%S",
+)
+logger = logging.getLogger(__name__)
+logger.setLevel(logging.INFO)
+
+
+EXPERIMENT_NAME = "mmSAT"
+SLICE_START = 1400
+SLICE_END = -1  # None means all slices
+
+MODEL_CKPT = None
+
+CT_MODEL_CKPT = (
+    "/cachedata/yb107/results/logs/nano_CT_SAT_model/checkpoint/step_45000.pth"  # 45000
+)
+MR_MODEL_CKPT = "/cachedata/yb107/results/logs/nano_MRI_SAT_model/checkpoint/step_68000.pth"  # 68000
+MS_MODEL_CKPT = "/cachedata/yb107/results/logs/nano_MS_SAT_model/checkpoint/step_177000.pth"  # 177000
+US_MODEL_CKPT = (
+    "/cachedata/yb107/results/logs/nano_US_SAT_model/checkpoint/step_76000.pth"  # 76000
+)
+PET_MODEL_CKPT = "/cachedata/yb107/results/logs/nano_PET_SAT_model/checkpoint/step_57000.pth"  # 57000
+
+TEXT_ENCODER_CKPT = "/cachedata/yb107/models/text_encoder_cvpr25_v0.pth"
+
+INPUT_DIR = "/scratch/railabs/ld258/dataset/public_dataset/CVPR_seg_2025/3D_val_npz/"
+OUTPUT_DIR = f"/cachedata/yb107/inferences/{EXPERIMENT_NAME}"  # Avoid tailing slashes
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+device = torch.device("cuda", 0)
+
+
+class EnsembleModel:
+    def __init__(
+        self,
+        ct_ckpt: str,
+        mri_ckpt: str,
+        pet_ckpt: str,
+        us_ckpt: str,
+        ms_ckpt: str,
+        model_class,
+    ):
+        # map modality name → checkpoint path
+        self.ckpt_map = {
+            "ct": ct_ckpt,
+            "mri": mri_ckpt,
+            "pet": pet_ckpt,
+            "us": us_ckpt,
+            "microscopy": ms_ckpt,
+        }
+        self.model = model_class
+        self.current_modality = None
+
+        for modality in self.ckpt_map.keys():
+            checkpoint = torch.load(
+                self.ckpt_map[modality], map_location=device, weights_only=False
+            )
+            # Remove 'module.' prefix from keys in checkpoint
+            new_state_dict = {}
+            for key, value in checkpoint["model_state_dict"].items():
+                if "mid_mask_embed_proj" in key:
+                    continue
+                if key.startswith("module."):
+                    new_state_dict[key[7:]] = value  # Remove first 7 chars ('module.')
+                else:
+                    new_state_dict[key] = value
+            checkpoint["model_state_dict"] = new_state_dict
+
+            # save the checkpoint
+            torch.save(
+                checkpoint,
+                os.path.join(
+                    OUTPUT_DIR,
+                    f"checkpoint_{modality}.pt",
+                ),
+            )
+            # update the ckpt_map
+            self.ckpt_map[modality] = os.path.join(
+                OUTPUT_DIR,
+                f"checkpoint_{modality}.pt",
+            )
+
+    def __call__(
+        self,
+        modality: str,
+    ):
+        if modality != self.current_modality:
+            self.current_modality = modality
+            checkpoint = torch.load(
+                self.ckpt_map[modality], map_location=device, weights_only=False
+            )
+            self.model.load_state_dict(checkpoint["model_state_dict"])
+            self.model.eval()
+        return self.model
+
 
 def split_3d(image_tensor, crop_size=[288, 288, 96]):
     # C H W D
@@ -128,9 +227,29 @@ def respace_image(
     return resampled_image
 
 
-def read_npz_data():
+def get_data_dicts(dir, slice_start=None, slice_end=None):
+    # Get all npz files in the directory
+    npz_files = glob(os.path.join(dir, "*.npz"))
+    npz_files = sorted(npz_files)
 
-    npz_file = glob("./inputs/*.npz")[0]
+    if slice_start is not None and slice_end is not None:
+        npz_files = npz_files[slice_start:slice_end]
+        logging.info(
+            f"Loading {len(npz_files)} npz files from {slice_start} to {slice_end}"
+        )
+    else:
+        logging.info(f"Found {len(npz_files)} npz files in {dir}")
+
+    data_dicts = []
+    for npz_file in npz_files:
+        data_dict = read_npz_data(npz_file)
+        data_dicts.append(data_dict)
+    return data_dicts
+
+
+def read_npz_data(npz_file):
+
+    # npz_file = glob(f"{INPUT_DIR}/*.npz")[0]
     data = np.load(npz_file, allow_pickle=True)
 
     raw_image = data["imgs"].astype(np.float32)  # 0~255
@@ -153,26 +272,45 @@ def read_npz_data():
     texts = list(text_prompts.values())  # ['xxx', ...]
     values = list(text_prompts.keys())  # [1, 2, ...]
 
-    npz_file = os.path.basename(npz_file)
-    if npz_file.startswith("CT"):
-        modality = "ct"
-    elif npz_file.startswith("MR"):
-        modality = "mri"
-    elif npz_file.startswith("US"):
-        modality = "us"
-    elif npz_file.startswith("PET"):
-        modality = "pet"
-    elif npz_file.startswith("Microscopy"):
-        modality = "microscopy"
-    else:
-        raise ValueError(f"Unknown modality for file {npz_file}")
+    # Determine modality based on texts:
+    terminologies = {
+        "ct": ["CT", "CT_", "Computed Tomography", "CT Scan"],
+        "mri": ["MRI", "MR", "Magnetic Resonance Imaging", "MRI Scan"],
+        "us": ["US", "Ultrasound", "Ultrasound Scan"],
+        "pet": ["PET", "Positron Emission Tomography", "PET Scan"],
+        "microscopy": ["Microscopy", "Microscope", "Microscopy Scan"],
+    }
+    modality = None
+    for key, vals in terminologies.items():
+        if any(value in texts[0] for value in vals):
+            modality = key
+            break
+
+    if modality is None:
+        logging.warning(
+            f"Modality not found in texts. Checking filename for modality: {npz_file}"
+        )
+
+        npz_file = os.path.basename(npz_file)
+        if npz_file.startswith("CT"):
+            modality = "ct"
+        elif npz_file.startswith("MR"):
+            modality = "mri"
+        elif npz_file.startswith("US"):
+            modality = "us"
+        elif npz_file.startswith("PET"):
+            modality = "pet"
+        elif npz_file.startswith("Microscopy"):
+            modality = "microscopy"
+        else:
+            raise ValueError(f"Unknown modality for file {npz_file}")
 
     patches, y1y2_x1x2_z1z2_ls = split_3d(
         image, crop_size=[288, 288, 96]
     )  # [[3, 288, 288, 96], ...]  # [[y1, y2, x1, x2, z1, z2], ...]
 
     return {
-        "npz_file_name": npz_file,
+        "npz_file_name": os.path.basename(npz_file),
         "modality": modality,
         "texts": texts,
         "values": values,
@@ -181,7 +319,7 @@ def read_npz_data():
         "patches": patches,
         "y1y2_x1x2_z1z2_ls": y1y2_x1x2_z1z2_ls,
         "padding_info": padding_info,
-        "raw_image": raw_image,
+        # "raw_image": raw_image,
     }
 
 
@@ -218,27 +356,43 @@ def main():
     device = torch.device("cuda", 0)
 
     # load model
-    model = Maskformer("UNET", [288, 288, 96], [32, 32, 32], False)
-    model = model.to(device)
-    checkpoint = torch.load("./checkpoints/nano_cvpr25_v0.pth", map_location=device)
+    model_class = Maskformer("UNET", [288, 288, 96], [32, 32, 32], False)
+    model_class = model_class.to(device)
+
+    if MODEL_CKPT is not None:
+        checkpoint = torch.load(MODEL_CKPT, map_location=device, weights_only=False)
+        model_class.load_state_dict(checkpoint["model_state_dict"])
+        model = model_class
+        model.eval()
+
+    else:
+        ensemble_router = EnsembleModel(
+            ct_ckpt=CT_MODEL_CKPT,
+            mri_ckpt=MR_MODEL_CKPT,
+            pet_ckpt=PET_MODEL_CKPT,
+            us_ckpt=US_MODEL_CKPT,
+            ms_ckpt=MS_MODEL_CKPT,
+            model_class=model_class,
+        )
+
+    ## MAke sure to load the model with the same architecture as the checkpoint
+    ## Go to May13th notebook to fix the checkpoint
     # Remove 'module.' prefix from keys in checkpoint
-    new_state_dict = {}
-    for key, value in checkpoint["model_state_dict"].items():
-        if "mid_mask_embed_proj" in key:
-            continue
-        if key.startswith("module."):
-            new_state_dict[key[7:]] = value  # Remove first 7 chars ('module.')
-        else:
-            new_state_dict[key] = value
-    checkpoint["model_state_dict"] = new_state_dict
-    model.load_state_dict(checkpoint["model_state_dict"])
+    # new_state_dict = {}
+    # for key, value in checkpoint["model_state_dict"].items():
+    #     if "mid_mask_embed_proj" in key:
+    #         continue
+    #     if key.startswith("module."):
+    #         new_state_dict[key[7:]] = value  # Remove first 7 chars ('module.')
+    #     else:
+    #         new_state_dict[key] = value
+    # checkpoint["model_state_dict"] = new_state_dict
+    # model.load_state_dict(checkpoint["model_state_dict"])
 
     # load text encoder
     text_encoder = Knowledge_Encoder()
     text_encoder = text_encoder.to(device)
-    checkpoint = torch.load(
-        "./checkpoints/text_encoder_cvpr25_v0.pth", map_location=device
-    )
+    checkpoint = torch.load(TEXT_ENCODER_CKPT, map_location=device)
     # Remove 'module.' prefix from keys in checkpoint
     new_state_dict = {}
     for key, value in checkpoint["model_state_dict"].items():
@@ -248,97 +402,113 @@ def main():
             new_state_dict[key] = value
     checkpoint["model_state_dict"] = new_state_dict
     text_encoder.load_state_dict(checkpoint["model_state_dict"], strict=False)
-
-    # begin inference
-    model.eval()
     text_encoder.eval()
+
     with torch.no_grad():
 
         # gaussian kernel to accumulate predcition
         gaussian = torch.tensor(compute_gaussian((288, 288, 96))).to(device)  # hwd
 
-        # load and process inference data
-        data_dict = read_npz_data()
+        # load data
+        logging.info(f"Loading data from {INPUT_DIR}")
+        data_dicts = get_data_dicts(INPUT_DIR, SLICE_START, SLICE_END)
 
-        # Extract individual values from dictionary
-        file_name = data_dict["npz_file_name"]
-        modality = data_dict["modality"]
+        logging.info(f"Loaded {len(data_dicts)} data files")
+        c = 0
+        for data_dict in data_dicts:
+            # load and process inference data
+            # data_dict = read_npz_data()
+            logging.info(f"Infering {c} / {len(data_dicts)}")
+            c += 1
+            # Extract individual values from dictionary
+            file_name = data_dict["npz_file_name"]
+            modality = data_dict["modality"]
 
-        text_prompts = data_dict["texts"]
-        label_values = data_dict["values"]
+            text_prompts = data_dict["texts"]
+            label_values = data_dict["values"]
 
-        original_shape = data_dict["original_shape"]
-        current_shape = data_dict["current_shape"]
-        batched_patches = data_dict["patches"]
-        batched_y1y2_x1x2_z1z2 = data_dict["y1y2_x1x2_z1z2_ls"]
-        padding_info = data_dict["padding_info"]
-        raw_image = data_dict["raw_image"]
+            original_shape = data_dict["original_shape"]
+            current_shape = data_dict["current_shape"]
+            batched_patches = data_dict["patches"]
+            batched_y1y2_x1x2_z1z2 = data_dict["y1y2_x1x2_z1z2_ls"]
+            padding_info = data_dict["padding_info"]
+            # raw_image = data_dict["raw_image"]
 
-        modality_code_dict = {"ct": 0, "mri": 1, "us": 2, "pet": 3, "microscopy": 4}
-        modality_code = torch.tensor([modality_code_dict[modality]]).to(device)
+            modality_code_dict = {"ct": 0, "mri": 1, "us": 2, "pet": 3, "microscopy": 4}
+            modality_code = torch.tensor([modality_code_dict[modality]]).to(device)
 
-        h, w, d = current_shape
-        n = len(text_prompts)
-        prediction = torch.zeros((n, h, w, d))
-        accumulation = torch.zeros((n, h, w, d))
-        with autocast():
+            if MODEL_CKPT is not None:
+                model = model
+            else:
+                model = ensemble_router(modality)
 
-            # encode text prompts
-            queries = text_encoder(
-                text_prompts, modality_code
-            )  # convert text prompts to embeds
-            torch.cuda.empty_cache()
+            h, w, d = current_shape
+            n = len(text_prompts)
+            prediction = torch.zeros((n, h, w, d))
+            accumulation = torch.zeros((n, h, w, d))
+            with autocast(device_type=device.type):
 
-            # for each batch of patches, query with all labels
-            for patches, y1y2_x1x2_z1z2_ls in zip(
-                batched_patches, batched_y1y2_x1x2_z1z2
-            ):  # [c, h, w, d]
-                patches = patches.unsqueeze(0).to(device=device)  # [b, c, h, w, d]
-                prediction_patch = model(
-                    queries=queries, image_input=patches, train_mode=False
+                # encode text prompts
+                queries = text_encoder(
+                    text_prompts, modality_code
+                )  # convert text prompts to embeds
+                torch.cuda.empty_cache()
+
+                # for each batch of patches, query with all labels
+                for patches, y1y2_x1x2_z1z2_ls in zip(
+                    batched_patches, batched_y1y2_x1x2_z1z2
+                ):  # [c, h, w, d]
+                    patches = patches.unsqueeze(0).to(device=device)  # [b, c, h, w, d]
+                    prediction_patch = model(
+                        queries=queries, image_input=patches, train_mode=False
+                    )
+                    prediction_patch = torch.sigmoid(prediction_patch)  # bnhwd
+                    prediction_patch = prediction_patch.detach()  # .cpu().numpy()
+
+                    # fill in
+                    y1, y2, x1, x2, z1, z2 = y1y2_x1x2_z1z2_ls
+                    # gaussian accumulation
+                    tmp = (
+                        prediction_patch[0, :, : y2 - y1, : x2 - x1, : z2 - z1]
+                        * gaussian[: y2 - y1, : x2 - x1, : z2 - z1]
+                    )  # on gpu
+                    prediction[:, y1:y2, x1:x2, z1:z2] += tmp.cpu()
+                    accumulation[:, y1:y2, x1:x2, z1:z2] += gaussian[
+                        : y2 - y1, : x2 - x1, : z2 - z1
+                    ].cpu()
+
+                # avg
+                prediction = prediction / accumulation
+                prediction = torch.where(prediction > 0.5, 1.0, 0.0)
+                prediction = prediction.numpy()
+
+            # save prediction
+            results = np.zeros((h, w, d))  # hwd
+            for j, (text, value) in enumerate(zip(text_prompts, label_values)):
+                results += prediction[j, :, :, :] * int(value)
+            results = remove_padding(results, padding_info)
+            # Check if the current shape is different from original shape (respaced) and resize if needed
+            current_h, current_w, current_d = results.shape
+            original_h, original_w, original_d = original_shape
+            if (
+                current_h != original_h
+                or current_w != original_w
+                or current_d != original_d
+            ):
+                # Use scipy's resize function to restore to original shape
+                zoom_factors = (
+                    original_h / current_h,
+                    original_w / current_w,
+                    original_d / current_d,
                 )
-                prediction_patch = torch.sigmoid(prediction_patch)  # bnhwd
-                prediction_patch = prediction_patch.detach()  # .cpu().numpy()
-
-                # fill in
-                y1, y2, x1, x2, z1, z2 = y1y2_x1x2_z1z2_ls
-                # gaussian accumulation
-                tmp = (
-                    prediction_patch[0, :, : y2 - y1, : x2 - x1, : z2 - z1]
-                    * gaussian[: y2 - y1, : x2 - x1, : z2 - z1]
-                )  # on gpu
-                prediction[:, y1:y2, x1:x2, z1:z2] += tmp.cpu()
-                accumulation[:, y1:y2, x1:x2, z1:z2] += gaussian[
-                    : y2 - y1, : x2 - x1, : z2 - z1
-                ].cpu()
-
-            # avg
-            prediction = prediction / accumulation
-            prediction = torch.where(prediction > 0.5, 1.0, 0.0)
-            prediction = prediction.numpy()
-
-    # save prediction
-    results = np.zeros((h, w, d))  # hwd
-    for j, (text, value) in enumerate(zip(text_prompts, label_values)):
-        results += prediction[j, :, :, :] * int(value)
-    results = remove_padding(results, padding_info)
-    # Check if the current shape is different from original shape (respaced) and resize if needed
-    current_h, current_w, current_d = results.shape
-    original_h, original_w, original_d = original_shape
-    if current_h != original_h or current_w != original_w or current_d != original_d:
-        # Use scipy's resize function to restore to original shape
-        zoom_factors = (
-            original_h / current_h,
-            original_w / current_w,
-            original_d / current_d,
-        )
-        # Use nearest neighbor interpolation (order=0) to preserve label values
-        results = zoom(results, zoom_factors, order=0)
-        print(
-            f"Resized segmentation from {(current_h, current_w, current_d)} to {(original_h, original_w, original_d)}"
-        )
-    results = rearrange(results, "h w d -> d h w")
-    np.savez_compressed(os.path.join("./outputs", file_name), segs=results)
+                # Use nearest neighbor interpolation (order=0) to preserve label values
+                results = zoom(results, zoom_factors, order=0)
+                logging.info(
+                    f"Resized segmentation from {(current_h, current_w, current_d)} to {(original_h, original_w, original_d)}"
+                )
+            results = rearrange(results, "h w d -> d h w")
+            np.savez_compressed(f"{OUTPUT_DIR}/{file_name}", segs=results)
+            logging.info(f"Saved segmentation to {os.path.join(OUTPUT_DIR, file_name)}")
 
     # #
     # # Save as NIfTI (nii.gz) file with labeled regions
@@ -352,7 +522,7 @@ def main():
     # nii_output_path = os.path.join("./outputs", os.path.splitext(file_name)[0] + "_pred.nii.gz")
     # nib.save(nifti_img, nii_output_path)
 
-    # # Create a text file with label descriptions
+    # # Create a text fil  e with label descriptions
     # label_description_path = os.path.join("./outputs", os.path.splitext(file_name)[0] + "_labels.txt")
     # with open(label_description_path, "w") as f:
     #     f.write("Label descriptions:\n")

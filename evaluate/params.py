@@ -1,13 +1,15 @@
 import argparse
 
+
 def str2bool(v):
-    return v.lower() in ('true', 't')
+    return v.lower() in ("true", "t")
+
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    
+
     # Exp Controller
-    
+
     parser.add_argument(
         "--rcd_dir",
         type=str,
@@ -46,14 +48,16 @@ def parse_args():
         default=True,
         help="Inherit medial results from an interrupted evaluation (no harm even if you evaluate from scratch)",
     )
+    parser.add_argument("--save_interval", type=int, default=100)
     parser.add_argument(
-        "--save_interval",
-        type=int,
-        default=100
+        "--is_ensemble",
+        type=str2bool,
+        default=False,
+        help="Ensemble evaluation",
     )
-    
+
     # Metrics
-    
+
     parser.add_argument(
         "--dice",
         type=str2bool,
@@ -64,9 +68,9 @@ def parse_args():
         type=str2bool,
         default=True,
     )
-    
+
     # Med SAM Dataset
-    
+
     parser.add_argument(
         "--datasets_jsonl",
         type=str,
@@ -74,21 +78,21 @@ def parse_args():
     parser.add_argument(
         "--text_prompts_json",
         type=str,
-        help='This is needed for CVPR25 challenge, where multiple prompts (synonyms) are required.'
+        help="This is needed for CVPR25 challenge, where multiple prompts (synonyms) are required.",
     )
-    
+
     # Sampler and Loader
-    
+
     parser.add_argument(
         "--online_crop",
         type=str2bool,
-        default='False',
-        help='load pre-cropped image patches directly, or crop online',
+        default="False",
+        help="load pre-cropped image patches directly, or crop online",
     )
     parser.add_argument(
         "--crop_size",
         type=int,
-        nargs='+',
+        nargs="+",
         default=[288, 288, 96],
     )
     parser.add_argument(
@@ -105,14 +109,10 @@ def parse_args():
         "--pin_memory",
         type=str2bool,
         default=False,
-        help='load data to gpu to accelerate'
+        help="load data to gpu to accelerate",
     )
-    parser.add_argument(
-        "--num_workers",
-        type=int,
-        default=4
-    )
-    
+    parser.add_argument("--num_workers", type=int, default=4)
+
     # Knowledge Encoder
     parser.add_argument(
         "--text_encoder_partial_load",
@@ -130,24 +130,20 @@ def parse_args():
     )
 
     # MaskFormer
-    
-    parser.add_argument(
-        "--vision_backbone",
-        type=str,
-        help='UNET or UNET-H'
-    )
+
+    parser.add_argument("--vision_backbone", type=str, help="UNET or UNET-H")
     parser.add_argument(
         "--patch_size",
         type=int,
-        nargs='+',
+        nargs="+",
         default=[32, 32, 32],
-        help='patch size on h w and d'
+        help="patch size on h w and d",
     )
     parser.add_argument(
         "--deep_supervision",
         type=str2bool,
         default=False,
     )
-    
+
     args = parser.parse_args()
     return args
